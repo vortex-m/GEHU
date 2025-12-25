@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+
+    <!-- Slide from right (closer to screen) -->
+    <translate
+        android:fromXDelta="50%"
+        android:toXDelta="0%"
+        android:duration="500"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator" />
+
+    <!-- Optional subtle bounce effect (reduce if too much) -->
+    <translate
+        android:fromXDelta="5%"
+        android:toXDelta="0%"
+        android:startOffset="500"
+        android:duration="150"
+        android:interpolator="@android:anim/bounce_interpolator" />
+</set>

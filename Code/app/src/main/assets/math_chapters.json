@@ -1,0 +1,302 @@
+{
+  "classX": "9",
+  "board": "CBSE",
+  "subject": "Mathematics",
+  "chapters": [
+
+    {
+      "chapter_number": 1,
+      "chapter_title": "Number Systems",
+      "summary": "This chapter explains different types of numbers like natural, whole, integers, rational, irrational, and real numbers. It also teaches decimal expansions and laws of exponents.",
+      "student_explanation": [
+        "Natural numbers are counting numbers.",
+        "Whole numbers include zero.",
+        "Integers include positive and negative whole numbers.",
+        "Rational numbers can be expressed as p/q.",
+        "Irrational numbers cannot be expressed as p/q.",
+        "Real numbers include both rational and irrational numbers."
+      ],
+      "key_definitions": [
+        { "term": "Natural Numbers", "definition": "Counting numbers starting from 1." },
+        { "term": "Whole Numbers", "definition": "Natural numbers including 0." },
+        { "term": "Integers", "definition": "All positive and negative whole numbers." },
+        { "term": "Rational Numbers", "definition": "Numbers in p/q form with q ≠ 0." },
+        { "term": "Irrational Numbers", "definition": "Numbers not expressible as p/q." }
+      ],
+      "important_points": [
+        "Terminating decimals are rational.",
+        "Repeating decimals are rational.",
+        "Non-terminating non-repeating decimals are irrational."
+      ],
+      "formulas_and_identities": {
+        "midpoint_formula": "(a + b) / 2",
+        "exponent_laws": [
+          "a^m × a^n = a^(m+n)",
+          "a^0 = 1",
+          "a^-n = 1/a^n"
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 2,
+      "chapter_title": "Polynomials",
+      "summary": "This chapter introduces polynomials, their degrees, zeroes, remainder theorem, factor theorem, and identities.",
+      "student_explanation": [
+        "A polynomial is an expression made of variables and constants.",
+        "Degree is the highest power of the variable.",
+        "Zero of polynomial is value that makes p(x)=0.",
+        "Identities help expand and simplify expressions."
+      ],
+      "key_definitions": [
+        { "term": "Polynomial", "definition": "Expression in x with non-negative integer powers." },
+        { "term": "Degree", "definition": "Highest power of x." },
+        { "term": "Zero of Polynomial", "definition": "Value where p(x) = 0." }
+      ],
+      "important_points": [
+        "A polynomial of degree n has at most n zeroes.",
+        "Factor theorem connects zeroes and factors."
+      ],
+      "formulas_and_identities": {
+        "identities": [
+          "(x + y)^2 = x^2 + 2xy + y^2",
+          "(x - y)^2 = x^2 - 2xy + y^2",
+          "x^2 - y^2 = (x + y)(x - y)",
+          "(x + y)^3 = x^3 + y^3 + 3xy(x + y)"
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 3,
+      "chapter_title": "Coordinate Geometry",
+      "summary": "Learn how to represent points in a plane using ordered pairs. Introduction to Cartesian system.",
+      "student_explanation": [
+        "Every point is represented as (x, y).",
+        "x-axis is horizontal and y-axis is vertical.",
+        "Point where axes meet is called origin.",
+        "Quadrants show sign patterns."
+      ],
+      "key_definitions": [
+        { "term": "Cartesian Plane", "definition": "Plane formed by two perpendicular axes." },
+        { "term": "Origin", "definition": "(0,0) point where axes intersect." },
+        { "term": "Abscissa", "definition": "x-coordinate." },
+        { "term": "Ordinate", "definition": "y-coordinate." }
+      ],
+      "important_points": [
+        "Quadrant I: (+,+)",
+        "Quadrant II: (-,+)",
+        "Quadrant III: (-,-)",
+        "Quadrant IV: (+,-)"
+      ],
+      "formulas_and_identities": {
+        "point_form": "(x, y)"
+      }
+    },
+
+    {
+      "chapter_number": 4,
+      "chapter_title": "Linear Equations in Two Variables",
+      "summary": "You learn to solve equations with two variables and plot them on graphs.",
+      "student_explanation": [
+        "Linear equation has two variables x and y.",
+        "Every solution is a pair of values that satisfies equation."
+      ],
+      "key_definitions": [
+        { "term": "Linear Equation", "definition": "Equation of form ax + by + c = 0." }
+      ],
+      "important_points": [
+        "Graph of linear equation is a straight line.",
+        "Has infinite solutions."
+      ],
+      "formulas_and_identities": {
+        "axis_equations": [
+          "x-axis: y = 0",
+          "y-axis: x = 0"
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 5,
+      "chapter_title": "Introduction to Euclid's Geometry",
+      "summary": "Introduction to Euclid’s axioms, postulates, and foundational definitions.",
+      "student_explanation": [
+        "Geometry is based on logical reasoning.",
+        "Euclid defined basic geometric objects."
+      ],
+      "key_definitions": [
+        { "term": "Point", "definition": "Has no length or width." },
+        { "term": "Line", "definition": "Breadthless length." },
+        { "term": "Surface", "definition": "Has length and breadth." }
+      ],
+      "important_points": [
+        "Axioms do not need proof.",
+        "Postulates help in constructions."
+      ],
+      "formulas_and_identities": {
+        "postulates": [
+          "A straight line can join two points.",
+          "A line can extend indefinitely.",
+          "A circle can be drawn with any radius."
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 6,
+      "chapter_title": "Lines and Angles",
+      "summary": "Learn basic terms related to lines and study different types of angles.",
+      "student_explanation": [
+        "Angles form when two rays meet.",
+        "Vertically opposite angles are equal.",
+        "Linear pair makes 180°.",
+        "Corresponding and alternate angles appear in parallel lines."
+      ],
+      "key_definitions": [
+        { "term": "Line Segment", "definition": "Part of line with two endpoints." },
+        { "term": "Parallel Lines", "definition": "Lines that never meet." },
+        { "term": "Adjacent Angles", "definition": "Have common vertex and arm." }
+      ],
+      "important_points": [
+        "Sum of angles on a straight line is 180°.",
+        "Vertically opposite angles are equal.",
+        "Corresponding angles are equal (parallel lines).",
+        "Alternate interior angles are equal (parallel lines)."
+      ],
+      "formulas_and_identities": {
+        "angle_sum": "Linear pair = 180°"
+      }
+    },
+
+    {
+      "chapter_number": 7,
+      "chapter_title": "Triangles",
+      "summary": "Study triangle properties and congruence criteria.",
+      "student_explanation": [
+        "Triangles have 3 sides and 3 angles.",
+        "Congruent triangles have same shape and size."
+      ],
+      "key_definitions": [
+        { "term": "Congruent Triangles", "definition": "Triangles with equal sides and angles." },
+        { "term": "Isosceles Triangle", "definition": "Two sides are equal." }
+      ],
+      "important_points": [
+        "Sum of angles in a triangle = 180°.",
+        "SAS, ASA, SSS, RHS are congruence criteria."
+      ],
+      "formulas_and_identities": {
+        "angle_sum_triangle": "A + B + C = 180°"
+      }
+    },
+
+    {
+      "chapter_number": 8,
+      "chapter_title": "Quadrilaterals",
+      "summary": "Study parallelogram properties and mid-point theorem.",
+      "student_explanation": [
+        "Quadrilateral has 4 sides.",
+        "Opposite sides of parallelogram are equal.",
+        "Diagonals bisect each other."
+      ],
+      "key_definitions": [
+        { "term": "Parallelogram", "definition": "Opposite sides are parallel." },
+        { "term": "Diagonal", "definition": "Joins opposite vertices." }
+      ],
+      "important_points": [
+        "Opposite angles of parallelogram are equal.",
+        "Diagonals bisect each other."
+      ],
+      "formulas_and_identities": {
+        "midpoint_theorem": "Line through midpoints of two sides is parallel to third side."
+      }
+    },
+
+    {
+      "chapter_number": 9,
+      "chapter_title": "Circles",
+      "summary": "Understand chords, arcs, angles in a circle, and cyclic quadrilaterals.",
+      "student_explanation": [
+        "Circle is set of points equidistant from center.",
+        "Equal chords make equal angles.",
+        "Angles in same segment are equal."
+      ],
+      "key_definitions": [
+        { "term": "Chord", "definition": "Line joining two points on circle." },
+        { "term": "Arc", "definition": "Part of circumference." }
+      ],
+      "important_points": [
+        "Perpendicular from center bisects chord.",
+        "Opposite angles of cyclic quadrilateral add to 180°."
+      ],
+      "formulas_and_identities": {
+        "arc_angle_relation": "Angle at center = 2 × angle at circumference"
+      }
+    },
+
+    {
+      "chapter_number": 10,
+      "chapter_title": "Heron’s Formula",
+      "summary": "Learn to find area of triangle using Heron's formula.",
+      "student_explanation": [
+        "Use semi-perimeter to find area.",
+        "Useful when height is unknown."
+      ],
+      "key_definitions": [
+        { "term": "Semi-perimeter", "definition": "s = (a + b + c) / 2" }
+      ],
+      "important_points": [
+        "Works for all scalene triangles."
+      ],
+      "formulas_and_identities": {
+        "heron_formula": "Area = √(s (s-a) (s-b) (s-c))"
+      }
+    },
+
+    {
+      "chapter_number": 11,
+      "chapter_title": "Surface Areas and Volumes",
+      "summary": "Learn formulas for spheres and cones for both surface area and volume.",
+      "student_explanation": [
+        "Curved surface area is different from total surface area.",
+        "Volume measures 3D space occupied."
+      ],
+      "key_definitions": [
+        { "term": "CSA", "definition": "Curved Surface Area." },
+        { "term": "TSA", "definition": "Total Surface Area." }
+      ],
+      "important_points": [
+        "Sphere has no edges or vertices.",
+        "Cone has circular base and pointed top."
+      ],
+      "formulas_and_identities": {
+        "cone_surface_area": "πrl + πr²",
+        "sphere_surface_area": "4πr²",
+        "cone_volume": "(1/3)πr²h",
+        "sphere_volume": "(4/3)πr³"
+      }
+    },
+
+    {
+      "chapter_number": 12,
+      "chapter_title": "Statistics",
+      "summary": "Learn graphical representation of data and basic features of statistics.",
+      "student_explanation": [
+        "Statistics deals with data collection and representation.",
+        "Bar graphs help visualize frequency clearly."
+      ],
+      "key_definitions": [
+        { "term": "Data", "definition": "Collection of information." },
+        { "term": "Bar Graph", "definition": "Represents data using bars." }
+      ],
+      "important_points": [
+        "Better visualization helps observe patterns.",
+        "Graphs simplify comparison."
+      ],
+      "formulas_and_identities": {
+        "mean_formula": "Mean = Sum of observations / Number of observations"
+      }
+    }
+
+  ]
+}

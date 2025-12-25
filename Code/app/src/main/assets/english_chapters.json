@@ -1,0 +1,623 @@
+{
+  "classX": "9",
+  "board": "CBSE",
+  "subject": "English",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The Fun They Had",
+      "summary": "A futuristic short story about two children who discover a printed book and imagine how schooling used to be, contrasting mechanical, individualized education with human teachers and shared school experiences.",
+      "student_explanation": [
+        "Two children find an old printed book about schools of the past.",
+        "They compare mechanical schooling to human teachers and miss the social aspects.",
+        "The story highlights the value of human interaction in education.",
+        "It shows curiosity about past technologies and lifestyles.",
+        "It raises questions about progress and what is lost with automation."
+      ],
+      "key_definitions": [
+        { "term": "Mechanical teacher", "definition": "A computer or machine that teaches students in the story's futuristic setting." },
+        { "term": "Printed book", "definition": "Traditional, human-readable books produced on paper (contrasted with computerized lessons)." }
+      ],
+      "important_points": [
+        "Technology can change how education is delivered but may remove social learning.",
+        "Nostalgia and curiosity help the children imagine a different past.",
+        "The story encourages thinking about the human element in teaching."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "The Road Not Taken",
+      "summary": "A reflective poem about choices and their long-term consequences. The speaker chooses between two roads in a wood and contemplates how a single decision shapes one’s life.",
+      "student_explanation": [
+        "The speaker stands at a fork and must choose a path.",
+        "Both paths look similar, but the speaker chooses one that seems less worn.",
+        "He reflects that choices define life's direction.",
+        "There is an element of doubt about whether the choice was better.",
+        "The poem explores individuality and regret."
+      ],
+      "key_definitions": [
+        { "term": "Metaphor", "definition": "A figure of speech where roads represent life choices." },
+        { "term": "Tone", "definition": "Reflective and slightly wistful mood of the poem." }
+      ],
+      "important_points": [
+        "Decisions often involve uncertainty and cannot be fully reversed.",
+        "Small, personal choices can have big effects over time.",
+        "The poem balances celebration of choice with awareness of possible regret."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "The Sound of Music — I. Evelyn Glennie",
+      "summary": "A prose piece about Evelyn Glennie, a deaf percussionist who listened through her body and became a world-class musician, demonstrating resilience, dedication, and the power of alternative sensory experience.",
+      "student_explanation": [
+        "Evelyn Glennie became a musician despite being deaf.",
+        "She learned to feel sound through vibrations, not just hearing.",
+        "Her practice and determination helped her succeed.",
+        "Her story teaches perseverance and rethinking limitations.",
+        "Music can be experienced in many ways beyond the ears."
+      ],
+      "key_definitions": [
+        { "term": "Percussionist", "definition": "A musician who plays percussion instruments like drums and xylophone." },
+        { "term": "Vibration", "definition": "A rapid back-and-forth motion that carries sound energy felt through the body." }
+      ],
+      "important_points": [
+        "Disability does not prevent achievement with adaptation and hard work.",
+        "Listening can be physical as well as auditory.",
+        "Evelyn's story inspires inclusion and broader definitions of ability."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "The Sound of Music — II. Bismillah Khan",
+      "summary": "A short profile of Bismillah Khan, the shehnai maestro, showing how his music touched people, preserved cultural heritage, and reflected humility and devotion in art.",
+      "student_explanation": [
+        "Bismillah Khan popularised the shehnai in classical music.",
+        "His music connected tradition with national identity.",
+        "He performed with humility and devotion to his art.",
+        "His life shows respect for culture and simplicity.",
+        "Music can be a powerful cultural symbol."
+      ],
+      "key_definitions": [
+        { "term": "Shehnai", "definition": "A traditional Indian wind instrument often played at ceremonies." },
+        { "term": "Maestro", "definition": "A master or highly respected musician." }
+      ],
+      "important_points": [
+        "Artists can preserve and popularize cultural instruments.",
+        "Simplicity and devotion often accompany great artistry.",
+        "Music helps form cultural and emotional bonds."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Wind",
+      "summary": "A short poem celebrating the wind’s free, powerful presence — how it moves through nature and evokes a sense of freedom and energy in human life.",
+      "student_explanation": [
+        "The poem personifies the wind as a lively force.",
+        "Wind influences nature and human feeling.",
+        "It symbolizes freedom and movement.",
+        "Simple imagery conveys the wind's vitality.",
+        "The poem invites readers to feel nature's force."
+      ],
+      "key_definitions": [
+        { "term": "Personification", "definition": "Attributing human qualities to non-human forces like wind." },
+        { "term": "Imagery", "definition": "Language that evokes sensory experiences (sound, motion, sight)." }
+      ],
+      "important_points": [
+        "Nature's elements can express emotions and ideas.",
+        "Short poems often rely on concentrated imagery.",
+        "The wind is used as a metaphor for freedom and change."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "The Little Girl",
+      "summary": "A story by Katherine Mansfield about a young girl's perspective on family tension and loss, showing how children's perceptions are shaped by adult conflicts and small acts of kindness.",
+      "student_explanation": [
+        "The little girl notices grown-up arguments and sadness.",
+        "Her innocent viewpoint contrasts with adult complexity.",
+        "Small events reveal deeper family problems.",
+        "Childhood sensitivity is a key theme.",
+        "The story shows empathy and subtle emotional detail."
+      ],
+      "key_definitions": [
+        { "term": "Point of view", "definition": "The narrator's perspective; here, often focused on a child's lens." },
+        { "term": "Irony", "definition": "A contrast between appearance and reality, used to show deeper meaning." }
+      ],
+      "important_points": [
+        "Children observe but may not fully understand adult motives.",
+        "Emotional dynamics in families affect children deeply.",
+        "Writers use small details to reveal character and mood."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Rain on the Roof",
+      "summary": "A nostalgic poem that captures the comfort and mood evoked by rain on a roof, connecting weather with memory and calm reflection.",
+      "student_explanation": [
+        "The poem links rain sounds to peaceful remembrance.",
+        "It creates a comforting, reflective mood.",
+        "Rain evokes personal memories and calm.",
+        "Simple sounds can prompt strong emotions.",
+        "The poem highlights sensory detail."
+      ],
+      "key_definitions": [
+        { "term": "Onomatopoeia", "definition": "Words that imitate natural sounds, often used to describe rain." },
+        { "term": "Mood", "definition": "The atmosphere or emotional feeling created by the poem." }
+      ],
+      "important_points": [
+        "Nature is often a trigger for memory in poetry.",
+        "Sound and rhythm build the poem's mood.",
+        "Simple scenes can carry deep emotional resonance."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "A Truly Beautiful Mind",
+      "summary": "A short biographical piece about a scientist or thinker whose originality, intuition, and rigorous thinking are celebrated as aspects of a beautiful mind.",
+      "student_explanation": [
+        "The piece praises deep, original thought.",
+        "True intelligence combines creativity and discipline.",
+        "It highlights the human side of scientific discovery.",
+        "Curiosity and clarity are valued traits.",
+        "The mind's beauty lies in understanding and compassion."
+      ],
+      "key_definitions": [
+        { "term": "Originality", "definition": "The quality of being novel or inventive in thought." },
+        { "term": "Intuition", "definition": "Immediate understanding without conscious reasoning." }
+      ],
+      "important_points": [
+        "Great minds balance innovation with careful method.",
+        "Science and human values are often linked in biographies.",
+        "Admiration for thinkers encourages learning and inquiry."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "The Lake Isle of Innisfree",
+      "summary": "A poem by W. B. Yeats expressing a poet's desire for peace and retreat to a simple life on Innisfree, using vivid imagery of nature and solitude.",
+      "student_explanation": [
+        "The poet dreams of living in a quiet island retreat.",
+        "He imagines building a cabin, growing food, and listening to nature.",
+        "Nature provides solace and renewal.",
+        "The poem contrasts urban life with rural simplicity.",
+        "Imagery and rhythm create a meditative mood."
+      ],
+      "key_definitions": [
+        { "term": "Imagery", "definition": "Descriptive language that appeals to the senses." },
+        { "term": "Solitude", "definition": "State of being alone, often with positive connotations here." }
+      ],
+      "important_points": [
+        "Desire for simplicity is a recurring poetic theme.",
+        "Concrete images (bee-loud glade, midnight's all a-glow) create mood.",
+        "The poem blends longing with calm assurance."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "The Snake and the Mirror",
+      "summary": "A short story by Vaikom Muhammad Basheer about a man’s comic and uncanny encounter with a snake and seeing himself in a mirror, blending humour with cultural insight and human foibles.",
+      "student_explanation": [
+        "A snake enters and creates panic and comedic moments.",
+        "The narrator's reactions reveal fear, superstition, and humour.",
+        "The mirror doubles the comic tension by showing his reflection.",
+        "The story mixes folk elements with everyday life.",
+        "It highlights human vulnerability and bravado."
+      ],
+      "key_definitions": [
+        { "term": "Anecdote", "definition": "A short, amusing or interesting story about a real incident or person." },
+        { "term": "Irony", "definition": "A literary device where the actual outcome contrasts with expectations." }
+      ],
+      "important_points": [
+        "Humour can expose human anxieties and cultural attitudes.",
+        "Simple incidents often reveal larger themes about bravery and fear.",
+        "Basheer's style blends colloquial speech with narrative charm."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "A Legend of the Northland",
+      "summary": "A folk-style poem telling a moral tale about greed and hospitality where characters learn a lesson through a mythic narrative voice.",
+      "student_explanation": [
+        "The poem tells a short moral story in rhyme.",
+        "Greed and selfishness are contrasted with generosity.",
+        "Characters face consequences for their behaviour.",
+        "It uses simple language to make a clear moral point.",
+        "Folklore elements give it a timeless feel."
+      ],
+      "key_definitions": [
+        { "term": "Legend", "definition": "A traditional story sometimes rooted in historical events with moral lessons." },
+        { "term": "Moral", "definition": "A lesson about right and wrong conveyed by a story." }
+      ],
+      "important_points": [
+        "Folk tales teach ethical lessons through memorable narratives.",
+        "Poetry can combine storytelling with moral clarity.",
+        "Repetition and simple rhyme make the tale accessible."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "My Childhood",
+      "summary": "A personal narrative (by A. P. J. Abdul Kalam) recalling formative childhood experiences, inspirations, and values that shaped the author's character and future ambitions.",
+      "student_explanation": [
+        "The author recounts memories from early life that influenced him.",
+        "Simple events shaped his work ethic and values.",
+        "Family, community, and teachers played important roles.",
+        "Childhood curiosity is shown as foundational to later success.",
+        "The piece inspires readers to value humble beginnings."
+      ],
+      "key_definitions": [
+        { "term": "Anecdote", "definition": "A short personal story used to illustrate a point or memory." },
+        { "term": "Autobiographical", "definition": "A narrative account of the author's own life." }
+      ],
+      "important_points": [
+        "Early experiences often shape ambitions and character.",
+        "Humility, perseverance, and mentorship are recurring themes.",
+        "Sharing personal history can motivate others."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "No Men Are Foreign",
+      "summary": "A poem promoting human solidarity and peace, arguing that all humans share common feelings and that divisions by nationality are superficial and harmful.",
+      "student_explanation": [
+        "The poem says that people everywhere are fundamentally similar.",
+        "It argues against treating others as enemies based on nationality.",
+        "Shared human needs and emotions unite us.",
+        "War and hatred are portrayed as unnatural and harmful.",
+        "The poem urges empathy and brotherhood."
+      ],
+      "key_definitions": [
+        { "term": "Solidarity", "definition": "Unity of feeling or action among people with common interests." },
+        { "term": "Universalism", "definition": "Idea that certain values apply to all people across the world." }
+      ],
+      "important_points": [
+        "Empathy across borders is essential for peace.",
+        "Poetry can be a moral appeal against violence.",
+        "Common humanity is stronger than political divisions."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Reach for the Top — I. Santosh Yadav",
+      "summary": "A short profile of Santosh Yadav, an Indian mountaineer, highlighting her achievements, determination, and the obstacles she overcame to inspire young readers.",
+      "student_explanation": [
+        "Santosh Yadav climbed difficult peaks through persistence.",
+        "She trained hard and defied social expectations.",
+        "Her story encourages pursuing ambitions despite obstacles.",
+        "Teamwork and resilience are key themes.",
+        "Her achievements show the value of discipline."
+      ],
+      "key_definitions": [
+        { "term": "Mountaineer", "definition": "A person who climbs mountains as a sport or career." },
+        { "term": "Perseverance", "definition": "Continued effort to do or achieve something despite difficulties." }
+      ],
+      "important_points": [
+        "Role models from diverse fields inspire youth.",
+        "Physical skill and mental strength both matter in extreme sport.",
+        "Breaking stereotypes requires courage and support."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "Reach for the Top — II. Maria Sharapova",
+      "summary": "A profile of Maria Sharapova, the tennis player, describing her rise to success, training regimen, discipline, and the sacrifices she made for excellence.",
+      "student_explanation": [
+        "Maria Sharapova became a top tennis player through dedication.",
+        "Training, focus, and sacrifice were central to her growth.",
+        "Her example shows how discipline builds skill.",
+        "Success requires both talent and hard work.",
+        "She overcame setbacks to reach top levels."
+      ],
+      "key_definitions": [
+        { "term": "Professional athlete", "definition": "An athlete who plays sport as a full-time career." },
+        { "term": "Training regimen", "definition": "A structured program of practice and fitness activities." }
+      ],
+      "important_points": [
+        "Early training and mentoring influence sporting success.",
+        "Mental toughness and recovery from setbacks are crucial.",
+        "Athletes often balance personal life and professional demands."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "On Killing a Tree",
+      "summary": "A powerful poem that describes how difficult it is to kill a tree, using the process as a metaphor for violent destruction and exploring nature's resilience.",
+      "student_explanation": [
+        "The poet shows that killing a tree is not easy; nature resists harm.",
+        "Detailed imagery describes the gradual methods used to destroy a tree.",
+        "The poem is a protest against destruction of nature.",
+        "It emphasizes respect for life and ecological balance.",
+        "Violence against nature is shown as brutal and misguided."
+      ],
+      "key_definitions": [
+        { "term": "Metaphor", "definition": "Using the tree's destruction to represent broader violence." },
+        { "term": "Imagery", "definition": "Vivid descriptive language that appeals to the senses." }
+      ],
+      "important_points": [
+        "Nature's resilience is a central theme.",
+        "The poem criticizes human destructiveness.",
+        "Careful, graphic detail strengthens the poem's emotional impact."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 17,
+      "chapter_title": "Kathmandu",
+      "summary": "A narrative poem by Vikram Seth giving a vivid portrait of the city of Kathmandu, its people, the poet's experiences, and the subtle interplay of humor and observation.",
+      "student_explanation": [
+        "The poet describes scenes and people in Kathmandu.",
+        "Small, specific details create a lively city portrait.",
+        "Humour and warmth underline the poet's affection for the place.",
+        "Local colour and character bring scenes to life.",
+        "The poem mixes observation with gentle satire."
+      ],
+      "key_definitions": [
+        { "term": "Local colour", "definition": "Distinctive features of a place captured in writing." },
+        { "term": "Satire", "definition": "Use of humour or irony to expose or criticize." }
+      ],
+      "important_points": [
+        "Travel writing uses detail to build authenticity.",
+        "Poems can be both descriptive and evaluative.",
+        "Personal impressions make city sketches memorable."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 18,
+      "chapter_title": "A Slumber Did My Spirit Seal",
+      "summary": "A short, elegiac poem by William Wordsworth reflecting on death and the peaceful finality it brings, where the 'spirit' is sealed from worldly changes.",
+      "student_explanation": [
+        "The poem treats death as a calm, final rest.",
+        "The speaker observes a loved one who has passed away.",
+        "Nature and the dead coexist with a quiet acceptance.",
+        "There is a sense of permanent separation.",
+        "The poem uses concise, solemn language."
+      ],
+      "key_definitions": [
+        { "term": "Elegy", "definition": "A poem of mourning or reflection on death." },
+        { "term": "Tone", "definition": "Solemn and reflective mood of the poem." }
+      ],
+      "important_points": [
+        "Death is presented as peaceful, not terrifying.",
+        "Short lyric poems can convey profound emotion succinctly.",
+        "Nature imagery contributes to the theme of final rest."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 19,
+      "chapter_title": "If I Were You",
+      "summary": "A humorous and thoughtful prose piece in which the narrator imagines being someone else, exploring identity, empathy, and the quirks that make people unique.",
+      "student_explanation": [
+        "The narrator speculates about life in another person's position.",
+        "Humour arises from imagining different behaviours and outcomes.",
+        "The piece encourages empathy by seeing from another's view.",
+        "It points out how small details define personality.",
+        "The tone balances lightness with insight."
+      ],
+      "key_definitions": [
+        { "term": "Perspective", "definition": "A particular attitude toward or way of regarding something." },
+        { "term": "Empathy", "definition": "Ability to understand and share the feelings of another." }
+      ],
+      "important_points": [
+        "Role-playing or imagining others' lives widens understanding.",
+        "Humour can reveal truth about human nature.",
+        "Writing sometimes uses 'what if' scenarios to teach empathy."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 20,
+      "chapter_title": "The Lost Child",
+      "summary": "A story by Mulk Raj Anand about a child who gets lost in a fair and is tempted by many things, showing innocence, parental love, and the pain of separation.",
+      "student_explanation": [
+        "A child becomes separated from his parents in a fair.",
+        "He is tempted by toys and food but forgets these when he sees his parents.",
+        "His longing for his parents shows deep emotional attachment.",
+        "The story contrasts material attractions with emotional bonds.",
+        "It emphasizes parental care and the child's vulnerability."
+      ],
+      "key_definitions": [
+        { "term": "Innocence", "definition": "Childlike simplicity and lack of worldly understanding." },
+        { "term": "Parental love", "definition": "The protective and affectionate bond between parent and child." }
+      ],
+      "important_points": [
+        "Children prioritize emotional security over material pleasures.",
+        "Kind strangers can help reunite lost children.",
+        "The narrative evokes sympathy and relief at reunion."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 21,
+      "chapter_title": "The Adventures of Toto",
+      "summary": "A humorous tale by Ruskin Bond about a mischievous pet monkey named Toto whose antics create trouble and amusement in a household, revealing human-animal bonds and curiosity.",
+      "student_explanation": [
+        "Toto the monkey causes playful trouble and mischief.",
+        "His behaviour entertains but also irritates the household.",
+        "The story captures the charm and unpredictability of pets.",
+        "It shows the family's reactions to unexpected events.",
+        "Humour arises from how humans cope with animal antics."
+      ],
+      "key_definitions": [
+        { "term": "Anecdotal", "definition": "A short, amusing story about a real incident." },
+        { "term": "Personification", "definition": "Attributing human qualities to animals to make them relatable." }
+      ],
+      "important_points": [
+        "Pets can be sources of joy and chaos in equal measure.",
+        "Humour in storytelling depends on timing and surprise.",
+        "Character reactions often reveal social attitudes and patience."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 22,
+      "chapter_title": "Iswaran the Storyteller",
+      "summary": "A light-hearted story by R. K. Laxman about Iswaran, a witty storyteller whose tales mix fantasy and reality, charming listeners and revealing the power of storytelling.",
+      "student_explanation": [
+        "Iswaran entertains others with imaginative stories.",
+        "His tales often blend truth with fiction in surprising ways.",
+        "The story celebrates oral storytelling traditions.",
+        "It highlights how stories can influence mood and perspective.",
+        "Iswaran's character shows the social role of a storyteller."
+      ],
+      "key_definitions": [
+        { "term": "Narrator", "definition": "A person who tells the story; here, often the listener describing Iswaran." },
+        { "term": "Anecdote", "definition": "A short, amusing or interesting personal story." }
+      ],
+      "important_points": [
+        "Storytellers create community and shared imagination.",
+        "Humour and exaggeration make oral tales memorable.",
+        "Storytelling can reveal cultural values and local colour."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 23,
+      "chapter_title": "In the Kingdom of Fools",
+      "summary": "A folktale adapted by A. K. Ramanujan about a kingdom where foolish decisions prevail; it is a satirical story that highlights wisdom, folly, and the social consequences of poor governance.",
+      "student_explanation": [
+        "The kingdom's rulers and people make absurd decisions.",
+        "Satire exposes the consequences of foolishness.",
+        "A clever person often points out the problems and finds solutions.",
+        "The tale teaches common-sense and prudent leadership.",
+        "Folktales use humour to instruct communities."
+      ],
+      "key_definitions": [
+        { "term": "Satire", "definition": "Use of humour or ridicule to criticize foolish behaviour or institutions." },
+        { "term": "Folktale", "definition": "A traditional story passed down orally with cultural lessons." }
+      ],
+      "important_points": [
+        "Folk tales can critique social norms safely through humour.",
+        "Common sense and wisdom are valued over blind obedience.",
+        "Stories often conclude with a moral or practical lesson."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 24,
+      "chapter_title": "The Happy Prince",
+      "summary": "An Oscar Wilde story about a golden statue of a prince and a humble swallow who together help the poor, exploring themes of compassion, self-sacrifice, and social inequality.",
+      "student_explanation": [
+        "The statue and a swallow help the city’s poor by giving away riches.",
+        "Both characters sacrifice their beauty and comfort for others.",
+        "The story criticizes social apathy and values true compassion.",
+        "Love and sacrifice are depicted as noble virtues.",
+        "The ending rewards inner goodness over outward splendour."
+      ],
+      "key_definitions": [
+        { "term": "Allegory", "definition": "A story with a deeper moral or symbolic meaning." },
+        { "term": "Self-sacrifice", "definition": "Giving up one’s own interests for the benefit of others." }
+      ],
+      "important_points": [
+        "Compassion and action are more valuable than wealth or appearance.",
+        "Wilde uses fantasy to critique social injustice.",
+        "Kindness may be unrecognized in life but is morally significant."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 25,
+      "chapter_title": "Weathering the Storm in Ersama",
+      "summary": "A first-person account by Harsh Mander about community resilience during a cyclone in Ersama, focusing on social solidarity, grassroots response, and the human cost of natural disasters.",
+      "student_explanation": [
+        "The author describes how the community faced a devastating cyclone.",
+        "People showed mutual support and courage in crisis.",
+        "Government and civil responses are compared to community action.",
+        "The piece highlights practical and emotional recovery efforts.",
+        "It emphasizes resilience and solidarity in adversity."
+      ],
+      "key_definitions": [
+        { "term": "Resilience", "definition": "Ability to recover from or adjust easily to misfortune or change." },
+        { "term": "Relief work", "definition": "Efforts by individuals or organizations to help victims of disasters." }
+      ],
+      "important_points": [
+        "Community solidarity is crucial in disaster response.",
+        "Preparedness and empathy reduce suffering after disasters.",
+        "Eyewitness accounts personalize broader social issues."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 26,
+      "chapter_title": "The Last Leaf",
+      "summary": "An O. Henry story about friendship, hope, and sacrifice in which an old artist paints a leaf to give a sick girl renewed will to live, showing how compassion can save lives.",
+      "student_explanation": [
+        "A sick girl believes she will die when the last leaf falls.",
+        "An old artist paints a leaf that appears real, restoring her hope.",
+        "The artist sacrifices his health to create the painting.",
+        "The story emphasises selfless love and the power of hope.",
+        "Art and compassion combine to effect emotional healing."
+      ],
+      "key_definitions": [
+        { "term": "Irony", "definition": "A contrast between expectation and reality used to striking effect in the story." },
+        { "term": "Symbolism", "definition": "Using an object (the leaf) to represent hope and survival." }
+      ],
+      "important_points": [
+        "Hope can have real effects on recovery from illness.",
+        "Selfless acts often go unrecognized but have great impact.",
+        "Literature can use small tableaux to convey profound truths."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 27,
+      "chapter_title": "A House Is Not a Home",
+      "summary": "A reflective piece about loneliness, the meaning of home, and human longing, exploring how a physical house differs from a place of emotional belonging.",
+      "student_explanation": [
+        "A house becomes a home when it contains love and memories.",
+        "The author reflects on emptiness and search for belonging.",
+        "Emotional connections transform physical spaces.",
+        "Loneliness is a central theme of the piece.",
+        "Home is defined by people and relationships more than structure."
+      ],
+      "key_definitions": [
+        { "term": "Metaphor", "definition": "The house as a metaphor for emotional life." },
+        { "term": "Pathos", "definition": "A quality that evokes pity or sadness." }
+      ],
+      "important_points": [
+        "Physical shelter is not enough without emotional bonds.",
+        "Literary essays can probe interior emotional states.",
+        "Connection and memory create the sense of home."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 28,
+      "chapter_title": "The Beggar",
+      "summary": "A Chekhov short story exploring human dignity, compassion, and social attitudes through the encounter between a beggar and others in society, often highlighting moral dilemmas.",
+      "student_explanation": [
+        "The story shows how society treats the poor and vulnerable.",
+        "Characters face choices about charity and respect.",
+        "Human dignity emerges as a theme amid poverty.",
+        "Chekhov uses subtle detail and irony to reveal social truth.",
+        "Readers are prompted to reflect on their own attitudes."
+      ],
+      "key_definitions": [
+        { "term": "Compassion", "definition": "Sympathetic concern for the sufferings of others." },
+        { "term": "Satire", "definition": "Use of wit to criticize social shortcomings, sometimes present in Chekhov's tone." }
+      ],
+      "important_points": [
+        "Empathy can bridge social divides and restore dignity.",
+        "Short realistic stories often highlight everyday moral questions.",
+        "Chekhov's economy of language sharpens ethical focus."
+      ],
+      "formulas_and_identities": {}
+    }
+  ]
+}

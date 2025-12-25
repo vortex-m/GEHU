@@ -1,0 +1,364 @@
+{
+  "classX": "9",
+  "board": "CBSE",
+  "subject": "Social Science",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "What is Democracy? Why Democracy?",
+      "summary": "Introduces the idea of democracy, contrasting it with other forms of government. Explains democracy as rule by the people with equal rights, participation, and accountability. Discusses why democracy is desirable despite its imperfections, emphasizing inclusion, dignity, and protection against exploitation.",
+      "student_explanation": [
+        "Democracy means people have a say in how they are governed.",
+        "It protects individual dignity and equal rights.",
+        "Democracy allows peaceful change of government.",
+        "It is better than authoritarian rule because it checks misuse of power.",
+        "Democracy is not perfect, but it is the fairest system we have."
+      ],
+      "key_definitions": [
+        {
+          "term": "Democracy",
+          "definition": "A system of government where rulers are chosen by the people and accountable to them."
+        },
+        {
+          "term": "Majority rule",
+          "definition": "Decisions are made based on the preference of more than half of the people or their representatives."
+        },
+        {
+          "term": "Minority rights",
+          "definition": "Protections and freedoms guaranteed to groups that did not win the majority."
+        },
+        {
+          "term": "Participation",
+          "definition": "Active involvement of citizens in political processes like voting, discussion, and public debate."
+        }
+      ],
+      "important_points": [
+        "Democracy relies on political equality: one person = one vote.",
+        "It encourages active participation, not just periodic voting.",
+        "Rule of law and accountability are central, preventing arbitrary decisions.",
+        "Peaceful resolution of conflicts is a democratic strength."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Constitutional Design",
+      "summary": "Explains why a constitution is crucial for democracy, how it is designed, and the values it embeds. Uses South Africa’s experience to illustrate drafting a democratic constitution and then describes the making and guiding values of the Indian Constitution.",
+      "student_explanation": [
+        "A constitution sets the basic rules for government and citizens.",
+        "It defines rights, powers, and duties in a democracy.",
+        "Constitutions are designed through inclusive processes to reflect shared values.",
+        "They can be amended later as conditions change."
+      ],
+      "key_definitions": [
+        {
+          "term": "Constitution",
+          "definition": "The supreme law of a country that defines the structure of government and fundamental rights of citizens."
+        },
+        {
+          "term": "Constitutional design",
+          "definition": "The process and principles involved in creating a constitution for a nation."
+        },
+        {
+          "term": "Guiding values",
+          "definition": "Core beliefs such as equality, freedom, and justice that shape a constitution."
+        }
+      ],
+      "important_points": [
+        "Constitution prevents rulers from doing anything they like; it sets basic rules. :contentReference[oaicite:0]{index=0}",
+        "Design often follows examples from other nations and addresses local conflicts before democracy can work.",
+        "South Africa’s constitution-making highlighted overcoming racial discrimination and building equality.",
+        "Indian Constitution was made through deliberation, reflecting democratic ideals and allowing future changes."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Electoral Politics",
+      "summary": "Covers how elections work in democracies, showing how citizens choose representatives and how political parties compete. Discusses key elements like universal adult franchise, constituencies, voting methods, and issues of fairness, money, and influence. Also explains why elections alone do not guarantee democracy unless institutions function well.",
+      "student_explanation": [
+        "Elections let people choose their leaders and hold them accountable.",
+        "Political parties campaign to earn votes based on their promises.",
+        "Voting must be free, fair, and inclusive to be meaningful.",
+        "Problems like money, muscle power, and misinformation can weaken elections."
+      ],
+      "key_definitions": [
+        {
+          "term": "Universal adult franchise",
+          "definition": "The right of all adult citizens to vote, regardless of caste, gender, income, etc."
+        },
+        {
+          "term": "Constituency",
+          "definition": "A geographic area represented by an elected official."
+        },
+        {
+          "term": "Political party",
+          "definition": "A group that seeks to gain political power by contesting elections and forming governments."
+        },
+        {
+          "term": "Election Commission",
+          "definition": "An independent body that administers and supervises elections."
+        }
+      ],
+      "important_points": [
+        "Free and fair elections are the basic feature of democratic politics.",
+        "Representation should reflect the population, requiring fair constituency boundaries.",
+        "Campaign finance and access to media affect the level playing field.",
+        "Social divisions or pressures can influence voter choices beyond issues."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Working of Institutions",
+      "summary": "Explains how a democratic government functions through institutions such as legislatures, executive, and judiciary. Focuses on keeping a balance of power, ensuring accountability, and managing conflicts. Shows how multi-tier governments and bureaucracies operate, and why strong institutions are necessary for democracy to work beyond elections.",
+      "student_explanation": [
+        "Institutions are organized structures that carry out government functions.",
+        "They must work with checks and balances to prevent abuse of power.",
+        "Regular functioning, transparency, and accountability build trust.",
+        "Institutions help solve disputes, make policies, and deliver public services."
+      ],
+      "key_definitions": [
+        {
+          "term": "Institution",
+          "definition": "A formal organization or system established to carry out specific public functions."
+        },
+        {
+          "term": "Legislature",
+          "definition": "A body of elected representatives that makes laws."
+        },
+        {
+          "term": "Executive",
+          "definition": "The branch responsible for implementing laws and running day-to-day administration."
+        },
+        {
+          "term": "Judiciary",
+          "definition": "Courts that interpret laws and ensure justice."
+        }
+      ],
+      "important_points": [
+        "Separate institutions with defined roles help prevent concentration of power.",
+        "Officials must be responsive to citizens and follow constitutional provisions.",
+        "Institutions need resources, trained staff, and clear processes to function well.",
+        "Coordination between national, state, and local bodies is essential for service delivery."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Democratic Rights",
+      "summary": "Focuses on the rights citizens enjoy in a democracy, why they matter, and how they protect individuals from state power. Discusses civil liberties, legal rights, and the importance of awareness and enforcement. Highlights that rights are meaningful only when citizens know them and can demand them.",
+      "student_explanation": [
+        "Rights give people freedom and protection under the law.",
+        "Democratic rights help individuals challenge unfair treatment.",
+        "Rights must be explained, protected, and used responsibly.",
+        "Knowing rights is part of being an informed citizen."
+      ],
+      "key_definitions": [
+        {
+          "term": "Fundamental rights",
+          "definition": "Basic rights guaranteed by the constitution to protect individuals’ freedoms."
+        },
+        {
+          "term": "Civil liberties",
+          "definition": "Protections from arbitrary actions by the state, such as freedom of speech and religion."
+        },
+        {
+          "term": "Legal rights",
+          "definition": "Rights recognized and enforced by the law that enable justice if violated."
+        },
+        {
+          "term": "Rights awareness",
+          "definition": "Knowledge of one’s rights and how to claim them."
+        }
+      ],
+      "important_points": [
+        "Rights are not automatic; they require awareness, institutions, and enforcement.",
+        "Minority or disadvantaged groups particularly need rights protection.",
+        "Rights make democracy meaningful beyond just elections.",
+        "Rights must be balanced with responsibilities toward others and society."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "The French Revolution",
+      "summary": "Examines the causes, course, and effects of the French Revolution. Discusses social inequalities under the monarchy, influence of Enlightenment ideas, rise of common people, and the fall of the ancien régime. Highlights how the revolution inspired modern ideas of liberty, equality, and fraternity, and influenced other global movements.",
+      "student_explanation": [
+        "France had sharp social divisions between monarchy, nobility, clergy, and commoners.",
+        "Economic hardship and unfair taxation triggered unrest.",
+        "Enlightenment ideas encouraged people to demand rights and representation.",
+        "The revolution led to the end of the monarchy and new political ideas."
+      ],
+      "key_definitions": [
+        {
+          "term": "Ancien régime",
+          "definition": "The old political and social system in France before the Revolution."
+        },
+        {
+          "term": "Estates",
+          "definition": "The three main social classes: clergy, nobility, and commoners."
+        },
+        {
+          "term": "Enlightenment",
+          "definition": "Intellectual movement emphasizing reason, individual rights, and critical thinking."
+        },
+        {
+          "term": "Revolution",
+          "definition": "A sudden, significant change in political power and social structure."
+        }
+      ],
+      "important_points": [
+        "Inequality and lack of political voice led to mass mobilization.",
+        "Symbols of liberty and popular sovereignty emerged during the revolution.",
+        "The revolution's ideals spread across Europe and beyond.",
+        "It showed both the promise and dangers of revolutionary change."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Socialism in Europe and the Russian Revolution",
+      "summary": "Discusses the rise of socialist ideas in 19th-century Europe, critiquing industrial capitalism and class inequalities. Explains how socialist movements influenced political thought, leading to the Russian Revolution of 1917. Covers causes of the revolution, role of leaders, and its impact on Russia and world politics.",
+      "student_explanation": [
+        "Industrialization created harsh factory conditions and large wealth gaps.",
+        "Socialists argued for a fairer distribution of wealth and social justice.",
+        "In Russia, long-term grievances, war, and weak governance enabled revolution.",
+        "The revolution led to a new government claiming to represent workers and peasants."
+      ],
+      "key_definitions": [
+        {
+          "term": "Socialism",
+          "definition": "A political and economic ideology seeking collective ownership or control of resources to ensure equality."
+        },
+        {
+          "term": "Proletariat",
+          "definition": "Working-class people who sell their labor for wages."
+        },
+        {
+          "term": "Bourgeoisie",
+          "definition": "The capitalist class who own factories and businesses."
+        },
+        {
+          "term": "Russian Revolution",
+          "definition": "A series of events in 1917 that overthrew the Tsar and led to socialist rule."
+        }
+      ],
+      "important_points": [
+        "Socialist ideas spread due to perceived injustices of capitalism.",
+        "Organisation of workers and intellectuals played key roles.",
+        "World War I exacerbated economic hardship and discontent in Russia.",
+        "The revolution changed global politics by introducing a large socialist state."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Nazism and the Rise of Hitler",
+      "summary": "Covers the origins and rise of Nazism in Germany, focusing on economic crisis, political instability, and propaganda. Explains Hitler’s ideology emphasizing nationalism, race, and authoritarian rule, leading to suppression of opposition, persecution of minorities, and expansionist policies. Highlights the consequences for Germany, Europe, and the world.",
+      "student_explanation": [
+        "After World War I, Germany faced economic collapse and humiliation.",
+        "Nazi leaders promised revival, employment, and national pride.",
+        "They used propaganda and violence to eliminate rivals and control society.",
+        "Their racist ideology targeted Jews and other minorities, causing immense suffering."
+      ],
+      "key_definitions": [
+        {
+          "term": "Nazism",
+          "definition": "Totalitarian ideology of the National Socialist German Workers’ Party led by Adolf Hitler."
+        },
+        {
+          "term": "Propaganda",
+          "definition": "Information, often biased or misleading, used to influence public opinion."
+        },
+        {
+          "term": "Totalitarianism",
+          "definition": "A political system where the state holds total authority over society and seeks to control all aspects of life."
+        },
+        {
+          "term": "Persecution",
+          "definition": "Hostility and ill-treatment, especially of a minority group."
+        }
+      ],
+      "important_points": [
+        "Economic crisis and national humiliation create fertile ground for extremist ideologies.",
+        "Propaganda and compulsory loyalty can transform a society quickly.",
+        "Authoritarian regimes suppress dissent and human rights.",
+        "Lessons from Nazism emphasize vigilance against racism, discrimination, and unchecked power."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Forest Society and Colonialism",
+      "summary": "Explores how colonial expansion affected forest societies and people dependent on forests. Describes colonial policies restricting access, commercial exploitation of timber, and imposition of new laws. Examines resistance by local communities, changes in livelihood, and social conflicts resulting from colonial rule.",
+      "student_explanation": [
+        "Forest communities lived by collecting forest produce and practicing shifting cultivation.",
+        "Colonial powers saw forests as resources to be controlled and taxed.",
+        "Many traditional rights were curbed, harming livelihoods.",
+        "People resisted through protests, petitions, and sometimes armed struggle."
+      ],
+      "key_definitions": [
+        {
+          "term": "Forest society",
+          "definition": "Communities whose livelihoods and culture depend on forests."
+        },
+        {
+          "term": "Colonialism",
+          "definition": "Control or domination of one country over another for exploitation or political power."
+        },
+        {
+          "term": "Forest laws",
+          "definition": "Regulations imposed by colonial governments to control use and sale of forest resources."
+        },
+        {
+          "term": "Livelihood",
+          "definition": "Means of securing the necessities of life."
+        }
+      ],
+      "important_points": [
+        "Colonial forest policies often disregarded traditional rights and ecological knowledge.",
+        "Commercial logging and new taxes disrupted social and economic fabric.",
+        "Resistance highlighted the importance of community rights and environmental concerns.",
+        "Long‑term effects included displacement, poverty, and loss of cultural practices."
+      ],
+      "formulas_and_identities": {}
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Pastoralists in the Modern World",
+      "summary": "Discusses pastoralist communities whose livelihoods depend on rearing livestock. Explains challenges they face in the modern world such as loss of grazing lands, state policies, sedentarization pressures, and conflicts with other land users. Shows how pastoralists adapt or resist, and how their way of life relates to broader questions of development and rights.",
+      "student_explanation": [
+        "Pastoralists move with their animals to find pasture and water.",
+        "Modern state boundaries, land use changes, and development projects limit movement.",
+        "Some are forced to settle or change occupations.",
+        "They negotiate, adapt, or protest to protect their livelihood and culture."
+      ],
+      "key_definitions": [
+        {
+          "term": "Pastoralist",
+          "definition": "A person or community that relies on livestock rearing and seasonal movement for livelihood."
+        },
+        {
+          "term": "Sedentarization",
+          "definition": "Process of settling in one place, often forced, instead of moving seasonally."
+        },
+        {
+          "term": "Grazing rights",
+          "definition": "Traditional permissions or customs allowing access to pasture lands."
+        },
+        {
+          "term": "Mobility",
+          "definition": "The ability to move across areas; crucial for pastoralist survival."
+        }
+      ],
+      "important_points": [
+        "Pastoralism is adapted to ecological conditions and requires mobility.",
+        "Modern laws, fences, private ownership, and conservation areas restrict movement.",
+        "Pastoralists’ knowledge on seasonal cycles and animal care is valuable but often ignored.",
+        "Balancing development, conservation, and rights of pastoralists remains a challenge."
+      ],
+      "formulas_and_identities": {}
+    }
+  ]
+}

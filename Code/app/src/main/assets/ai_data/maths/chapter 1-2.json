@@ -1,0 +1,160 @@
+{
+  "files": [
+    {
+      "filename": "iemh101.pdf",
+      "source_citation": ":contentReference[oaicite:0]{index=0}",
+      "title": "Number Systems",
+      "chapters": [
+        {
+          "chapter": "1.1 Introduction",
+          "summary": "Types of numbers on the number line: Natural (N), Whole (W), Integers (Z), Rational (Q). Introduces constructing the collections and inclusion relations.",
+          "key_definitions": {
+            "Natural numbers": "1,2,3,... (denoted N)",
+            "Whole numbers": "N ∪ {0} (denoted W)",
+            "Integers": "..., -2,-1,0,1,2,... (denoted Z)",
+            "Rational number": "r is rational if r = p/q with integers p,q and q ≠ 0 (denoted Q)"
+          }
+        },
+        {
+          "chapter": "1.2 Irrational Numbers",
+          "summary": "Defines irrational numbers (cannot be expressed as p/q). Examples: √2, √3, √5, π, and constructed non-repeating decimals. Real numbers R = rationals ∪ irrationals.",
+          "key_definitions": {
+            "Irrational number": "a number not expressible as p/q (integers p,q, q≠0)",
+            "Real number": "Every point on number line; union of rational and irrational numbers (denoted R)"
+          },
+          "notes": "Historical notes: Pythagoreans, Cantor & Dedekind (correspondence between real numbers and points on line)."
+        },
+        {
+          "chapter": "1.3 Real Numbers and their Decimal Expansions",
+          "summary": "Decimal-expansion characterization: rationals ⇄ (terminating OR repeating) decimals; irrationals ⇄ (non-terminating, non-repeating). Shows how division remainders produce repeating blocks and demonstrates methods to express repeating decimals as p/q.",
+          "examples": [
+            "10/3 = 3.333... (repeating)",
+            "7/8 = 0.875 (terminating)",
+            "1/7 = 0.142857... (repeating block 142857)"
+          ]
+        },
+        {
+          "chapter": "1.4 Operations on Real Numbers",
+          "summary": "Closure properties: rationals closed under +,-,×,÷(≠0). Irrationals satisfy algebraic laws but sums/products with rationals/irrationals may or may not be irrational; examples and rationalisation of denominators using conjugates.",
+          "key_points": [
+            "rational + irrational = irrational (in general)",
+            "non-zero rational × irrational = irrational (in general)",
+            "irrational ± irrational may be rational or irrational",
+            "Rationalising denominators via conjugates (examples provided)"
+          ]
+        },
+        {
+          "chapter": "1.5 (exercises & examples)",
+          "summary": "Worked examples on decimal expansions, locating √n on number line geometrically (using Pythagoras) and constructing square-root spiral; exercises for classification and conversions.",
+          "exercise_types": [
+            "Find rational numbers between given rationals",
+            "Classify numbers rational/irrational",
+            "Express repeating decimals as p/q",
+            "Construct square-root spiral and locate roots geometrically"
+          ]
+        },
+        {
+          "chapter": "1.6 Summary",
+          "summary": "Concise recap of definitions and main properties: rational vs irrational decimal forms, real numbers, and a few algebraic identities for positive reals.",
+          "meta": {
+            "important_points": [
+              "Decimal expansion of rational: terminating or repeating",
+              "Decimal expansion of irrational: non-terminating non-repeating",
+              "All rationals + irrationals = real numbers"
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "formulas": [
+          "rational: r = p/q, p,q ∈ Z, q ≠ 0",
+          "irrational: not representable as p/q",
+          "decimal characterization: rational ⇄ (terminating OR repeating); irrational ⇄ non-terminating non-repeating",
+          "geometric location of √n via Pythagoras (construction described on pages with Fig.1.6–1.13)",
+          "identities for rationalising: (a+b)(a−b) = a^2 − b^2 (used for conjugates)"
+        ],
+        "examples_highlighted": [
+          "1/3 = 0.333... → 1/3 = 1/3 (demonstrated algebraically)",
+          "1/7 = 0.142857... repeating block due to remainder cycle",
+          "Construction of √x on number line (geometric method for any x>0)"
+        ],
+        "exercises_sample": "Exercise 1.1, 1.2, 1.3, 1.4 (classification, decimal expansion conversions, rationalisation problems)."
+      }
+    },
+    {
+      "filename": "iemh102.pdf",
+      "source_citation": ":contentReference[oaicite:1]{index=1}",
+      "title": "Polynomials",
+      "chapters": [
+        {
+          "chapter": "2.1–2.2 Introduction & Polynomials in One Variable",
+          "summary": "Definition of polynomial in one variable: p(x)=a_n x^n + ... + a_1 x + a_0 with a_n ≠ 0. Terms, coefficients, monomial/binomial/trinomial, degree of polynomial; linear, quadratic, cubic definitions and canonical forms (ax^2+bx+c, ax^3+bx^2+cx+d).",
+          "key_definitions": {
+            "Polynomial": "algebraic expression in x with non-negative integer exponents",
+            "Degree": "highest exponent with non-zero coefficient",
+            "Monomial/binomial/trinomial": "1/2/3 terms respectively",
+            "Linear/quadratic/cubic": "degree 1 / 2 / 3"
+          }
+        },
+        {
+          "chapter": "2.3 Zeroes of a Polynomial",
+          "summary": "Value p(a) is the value of polynomial at x=a. Zero/root defined as p(c)=0. Properties: linear polynomial has unique zero; non-zero constant has no zero; zero polynomial has every real as zero.",
+          "examples": [
+            "If p(x)=x−1 then p(1)=0 so x=1 is root",
+            "Verification examples: p(x)=x^2−2x has zeros 0 and 2"
+          ]
+        },
+        {
+          "chapter": "2.4 Factorisation of Polynomials",
+          "summary": "Remainder theorem and Factor theorem: remainder when p(x) divided by x−a is p(a); x−a is factor iff p(a)=0. Methods to factor quadratics (split middle term) and cubics (find one linear factor by trial then reduce).",
+          "key_methods": [
+            "Splitting the middle term for ax^2+bx+c: find two numbers with product ac and sum b",
+            "Use Factor Theorem to test possible rational roots (factors of constant term) then divide"
+          ],
+          "examples": [
+            "6x^2+17x+5 = (3x+1)(2x+5) (splitting method and factor theorem both shown)",
+            "x^3 − 23x^2 + 142x − 120 factorised by finding x−1 as factor then factoring quadratic"
+          ]
+        },
+        {
+          "chapter": "2.5 Identities and higher factorisations",
+          "summary": "Cubic identities and symmetric formulas: (x+y)^3, x^3+y^3, x^3+y^3+z^3−3xyz factorisation, expansion of (x+y+z)^2 etc. Exercises include factorising sums of cubes and using identities.",
+          "key_formulas": [
+            "(x+y)^2 = x^2 + 2xy + y^2",
+            "(x+y)^3 = x^3 + y^3 + 3xy(x+y)",
+            "x^3 − y^3 = (x−y)(x^2 + xy + y^2)",
+            "x^3 + y^3 + z^3 − 3xyz = (x+y+z)(x^2 + y^2 + z^2 − xy − yz − zx)"
+          ]
+        },
+        {
+          "chapter": "2.6 Summary & Exercises",
+          "summary": "Recap of polynomial definitions, degree, classification, zeroes, factor theorem and key algebraic identities. Exercises test recognition, evaluation at values, zero verification, factorisation and application to dimensions/areas/volumes.",
+          "exercise_types": [
+            "Determine if expression is polynomial",
+            "Compute p(a) for given a",
+            "Verify zeros",
+            "Factorise quadratics and cubics",
+            "Apply identities to evaluate expressions and find dimensions from algebraic area/volume forms"
+          ]
+        }
+      ],
+      "meta": {
+        "formulas": [
+          "p(x) = a_n x^n + a_{n−1} x^{n−1} + ... + a_1 x + a_0",
+          "Degree(p) = n if a_n ≠ 0",
+          "Remainder Theorem: remainder on division by (x−a) is p(a)",
+          "Factor Theorem: x−a is factor ⇄ p(a)=0",
+          "Common identities: (x+y)^2, (x+y)^3, x^3−y^3, x^3+y^3+z^3−3xyz (see chapter summary)"
+        ],
+        "examples_highlighted": [
+          "Finding degree of polynomials (examples x^5 − x^4 + 3 etc.)",
+          "Finding zeros (p(1), p(0), p(−1) examples)",
+          "Factorisation examples: 6x^2+17x+5 → (3x+1)(2x+5); y^2−5y+6 → (y−2)(y−3)",
+          "Cubic factorisation via trial roots (list of possible integer factors of the constant term tested)"
+        ],
+        "exercises_sample": "Exercise 2.1, 2.2 (classification, value evaluation, zero verification), further exercises on factorisation and identity verification."
+      }
+    }
+  ],
+  "notes": "If you want the JSON to include full text of examples, fully worked solutions, or to be split per page rather than chapter, I can produce that next. Also can produce this JSON as a downloadable file (JSON/CSV) and embed your name 'Aditya' in metadata if you want (you previously asked PDFs include your name)."
+}

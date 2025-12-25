@@ -1,0 +1,59 @@
+{
+  "filename": "iemh108.pdf",
+  "title": "Quadrilaterals",
+  "source": ":contentReference[oaicite:5]{index=5}",
+  "chapters": [
+    {
+      "chapter": "8.1 Introduction",
+      "summary": "A quadrilateral is a four-sided closed figure formed by four line segments. The four corners are vertices, the four sides connect consecutive vertices, and the interior region is bounded by these sides. Quadrilaterals appear everywhere in real life—windows, books, screens, fields, plots, and tiles. Special quadrilaterals include parallelograms, rectangles, squares, rhombuses, and trapeziums. The chapter focuses on parallelogram properties and proofs using triangle congruence.",
+      "visuals": [
+        "Basic quadrilateral diagram showing vertices A, B, C, D.",
+        "Real-life figures shaped like quadrilaterals."
+      ]
+    },
+
+    {
+      "chapter": "8.2 Diagonal Properties of Parallelograms",
+      "summary": "A parallelogram has both pairs of opposite sides parallel. This fundamental property leads to several important theorems. The diagonal divides a parallelogram into two congruent triangles using SAS. Opposite sides of a parallelogram are equal, opposite angles are equal, and consecutive angles are supplementary. A key structural result is that the diagonals of a parallelogram bisect each other. Proofs involve using congruence (SAS or ASA) on triangles formed by diagonals. Examples show how to compute missing side lengths and angle measures, as well as how to determine whether a quadrilateral is a parallelogram.",
+      "theorems": [
+        "The diagonal of a parallelogram divides it into two congruent triangles.",
+        "Opposite sides of a parallelogram are equal.",
+        "Opposite angles of a parallelogram are equal.",
+        "Consecutive angles are supplementary.",
+        "Diagonals of a parallelogram bisect each other."
+      ],
+      "visuals": [
+        "Diagram of parallelogram ABCD with diagonal AC showing two triangles.",
+        "Diagram showing diagonal intersection midpoint."
+      ]
+    },
+
+    {
+      "chapter": "8.3 Conditions for a Quadrilateral to be a Parallelogram",
+      "summary": "This section lists necessary and sufficient conditions to determine whether a quadrilateral is a parallelogram. If one pair of opposite sides is equal and parallel, the quadrilateral is a parallelogram. If both pairs of opposite sides are equal, or both pairs of opposite angles are equal, or if diagonals bisect each other, then the figure is a parallelogram. These conditions provide multiple strategies for solving problems depending on what information is given. Worked examples apply these tests in coordinate geometry and pure geometry settings.",
+      "meta": {
+        "conditions": [
+          "One pair of opposite sides equal and parallel.",
+          "Both pairs of opposite sides equal.",
+          "Both pairs of opposite angles equal.",
+          "Diagonals bisect each other."
+        ]
+      }
+    },
+
+    {
+      "chapter": "8.4 Midpoint Theorem",
+      "summary": "This theorem states that the line segment joining the midpoints of two sides of a triangle is parallel to the third side and half its length. It is used to prove deeper properties of quadrilaterals, including those related to parallelograms. Several real-world applications include designing parallel support beams and grid patterns.",
+      "meta": {
+        "formulas": [
+          "If M and N are midpoints of sides AB and AC in triangle ABC, then MN ∥ BC and MN = 1/2 BC."
+        ]
+      }
+    },
+
+    {
+      "chapter": "8.5 Summary",
+      "summary": "Key results include structural properties of parallelograms, tests for identifying parallelograms, the midpoint theorem, and relationships of sides, angles and diagonals. These form the basis for reasoning in coordinate geometry, advanced Euclidean geometry and problem-solving."
+    }
+  ]
+}

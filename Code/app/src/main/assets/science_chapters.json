@@ -1,0 +1,307 @@
+{
+  "classX": "9",
+  "board": "CBSE",
+  "subject": "Science",
+  "chapters": [
+
+    {
+      "chapter_number": 1,
+      "chapter_title": "Matter in Our Surroundings",
+      "summary": "The chapter explains matter, its physical nature, characteristics, states (solid, liquid, gas), and the effect of temperature and pressure on states of matter. Concepts like diffusion, evaporation, and latent heat are introduced.",
+      "student_explanation": [
+        "Everything around us is made of matter.",
+        "Matter is made of tiny particles.",
+        "Particles of matter attract each other.",
+        "Increasing temperature increases particle movement.",
+        "Solids have fixed shape, liquids flow, gases spread fast."
+      ],
+      "key_definitions": [
+        { "term": "Matter", "definition": "Anything that has mass and occupies space." },
+        { "term": "Diffusion", "definition": "Mixing of particles from high concentration to low concentration." },
+        { "term": "Latent Heat", "definition": "Heat required to change state without change in temperature." },
+        { "term": "Evaporation", "definition": "Surface phenomenon where liquid converts into vapour." }
+      ],
+      "important_points": [
+        "Particles of matter have space, motion, and attraction.",
+        "Melting point and boiling point are constant for pure substances.",
+        "Evaporation causes cooling."
+      ],
+      "formulas_and_identities": {
+        "temperature_scales": "K = °C + 273",
+        "factors_affecting_evaporation": [
+          "Increase surface area",
+          "Increase temperature",
+          "Decrease humidity",
+          "Increase wind speed"
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 2,
+      "chapter_title": "Is Matter Around Us Pure?",
+      "summary": "This chapter explains pure substances, mixtures, solutions, concentration, suspension, colloids, and methods of physical separation like filtration, evaporation, distillation, chromatography, and centrifugation.",
+      "student_explanation": [
+        "Pure substances have only one type of particles.",
+        "Mixtures contain two or more substances.",
+        "Solutions are homogeneous mixtures.",
+        "Suspensions and colloids are heterogeneous."
+      ],
+      "key_definitions": [
+        { "term": "Solution", "definition": "Homogeneous mixture of solute and solvent." },
+        { "term": "Solvent", "definition": "Component present in larger amount." },
+        { "term": "Solute", "definition": "Component dissolved in solvent." },
+        { "term": "Colloid", "definition": "Heterogeneous mixture with stable particles." }
+      ],
+      "important_points": [
+        "True solutions do not scatter light.",
+        "Colloids show Tyndall effect.",
+        "Mixtures can be separated by physical methods."
+      ],
+      "formulas_and_identities": {
+        "concentration_formula": "Concentration = (Mass of solute / Mass of solution) × 100"
+      }
+    },
+
+    {
+      "chapter_number": 3,
+      "chapter_title": "Atoms and Molecules",
+      "summary": "The chapter explains laws of chemical combination, Dalton's atomic theory, atomic and molecular mass, mole concept, and writing chemical formulae.",
+      "student_explanation": [
+        "Atoms combine to form molecules.",
+        "Laws of chemical combination explain how substances react.",
+        "1 mole = 6.022 × 10^23 particles."
+      ],
+      "key_definitions": [
+        { "term": "Atom", "definition": "Smallest particle of an element." },
+        { "term": "Molecule", "definition": "Two or more atoms chemically combined." },
+        { "term": "Atomic Mass", "definition": "Mass of an atom expressed in amu." },
+        { "term": "Mole", "definition": "Amount of substance containing Avogadro number of particles." }
+      ],
+      "important_points": [
+        "Chemical formula shows types and number of atoms.",
+        "Molecular mass = sum of atomic masses."
+      ],
+      "formulas_and_identities": {
+        "mole_formula": [
+          "Moles = Given mass / Molar mass",
+          "Number of particles = Moles × 6.022×10^23"
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 4,
+      "chapter_title": "Structure of the Atom",
+      "summary": "This chapter covers discoveries related to the atom, Thomson, Rutherford, and Bohr models, atomic number, mass number, isotopes, and isobars.",
+      "student_explanation": [
+        "Atom has electrons, protons, and neutrons.",
+        "Electrons revolve in shells.",
+        "Nucleus contains protons and neutrons."
+      ],
+      "key_definitions": [
+        { "term": "Atomic Number", "definition": "Number of protons in an atom." },
+        { "term": "Mass Number", "definition": "Sum of protons and neutrons." },
+        { "term": "Isotopes", "definition": "Atoms with same atomic number but different mass number." },
+        { "term": "Isobars", "definition": "Atoms with same mass number but different atomic number." }
+      ],
+      "important_points": [
+        "Electrons occupy fixed energy levels.",
+        "Isotopes have similar chemical properties."
+      ],
+      "formulas_and_identities": {
+        "mass_number_formula": "Mass number = Protons + Neutrons"
+      }
+    },
+
+    {
+      "chapter_number": 5,
+      "chapter_title": "The Fundamental Unit of Life",
+      "summary": "This chapter introduces the cell, its structure, cell organelles, and differences between plant and animal cells.",
+      "student_explanation": [
+        "Cell is the basic unit of life.",
+        "Cell organelles perform specific functions.",
+        "Nucleus controls all activities."
+      ],
+      "key_definitions": [
+        { "term": "Cell", "definition": "Structural and functional unit of life." },
+        { "term": "Plasma Membrane", "definition": "Selectively permeable membrane of cell." },
+        { "term": "Mitochondria", "definition": "Powerhouse of the cell." },
+        { "term": "Chloroplast", "definition": "Organelle for photosynthesis." }
+      ],
+      "important_points": [
+        "Plant cells have cell wall, chloroplast, and large vacuole.",
+        "Animal cells lack cell wall."
+      ],
+      "formulas_and_identities": {
+        "cell_theory": [
+          "All living beings are made of cells.",
+          "Cells come from pre-existing cells."
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 6,
+      "chapter_title": "Tissues",
+      "summary": "Explanation of plant and animal tissues, their types, structure, and functions.",
+      "student_explanation": [
+        "Tissues are groups of similar cells.",
+        "Plants have meristematic and permanent tissues.",
+        "Animals have epithelial, connective, muscular, and nervous tissues."
+      ],
+      "key_definitions": [
+        { "term": "Tissue", "definition": "Group of cells performing same function." },
+        { "term": "Meristematic Tissue", "definition": "Actively dividing tissue in plants." },
+        { "term": "Epithelial Tissue", "definition": "Covers body surfaces." }
+      ],
+      "important_points": [
+        "Xylem and phloem are vascular tissues.",
+        "Muscle tissues help in movement."
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "chapter_number": 7,
+      "chapter_title": "Motion",
+      "summary": "Introduction to distance, displacement, speed, velocity, acceleration, and graphical representation of motion.",
+      "student_explanation": [
+        "Motion is change in position.",
+        "Speed is distance per time.",
+        "Velocity is displacement per time.",
+        "Acceleration is change in velocity."
+      ],
+      "key_definitions": [
+        { "term": "Speed", "definition": "Distance travelled per unit time." },
+        { "term": "Velocity", "definition": "Displacement per unit time." },
+        { "term": "Acceleration", "definition": "Change in velocity with time." }
+      ],
+      "important_points": [
+        "Distance-time graph shows speed.",
+        "Area under velocity-time graph gives displacement."
+      ],
+      "formulas_and_identities": {
+        "motion_equations": [
+          "v = u + at",
+          "s = ut + ½at²",
+          "v² = u² + 2as"
+        ]
+      }
+    },
+
+    {
+      "chapter_number": 8,
+      "chapter_title": "Force and Laws of Motion",
+      "summary": "Newton’s laws of motion, inertia, momentum, and relation between force and acceleration are discussed.",
+      "student_explanation": [
+        "Force changes motion.",
+        "Objects resist changes — inertia.",
+        "Momentum depends on mass and velocity."
+      ],
+      "key_definitions": [
+        { "term": "Inertia", "definition": "Tendency of body to resist change in motion." },
+        { "term": "Momentum", "definition": "Product of mass and velocity (mv)." }
+      ],
+      "important_points": [
+        "Action and reaction forces are equal and opposite.",
+        "More mass → more inertia."
+      ],
+      "formulas_and_identities": {
+        "momentum_formula": "p = mv",
+        "force_formula": "F = ma"
+      }
+    },
+
+    {
+      "chapter_number": 9,
+      "chapter_title": "Gravitation",
+      "summary": "Newton’s law of gravitation, free fall, mass vs weight, and buoyancy are introduced.",
+      "student_explanation": [
+        "Every object attracts another.",
+        "Objects fall due to gravity.",
+        "Weight depends on gravity."
+      ],
+      "key_definitions": [
+        { "term": "Gravity", "definition": "Force that attracts two objects." },
+        { "term": "Weight", "definition": "Force with which Earth attracts a body (mg)." }
+      ],
+      "important_points": [
+        "Gravitational force acts between all masses.",
+        "Thrust and pressure affect fluids."
+      ],
+      "formulas_and_identities": {
+        "gravitation_formula": "F = G (m1m2 / r²)",
+        "weight_formula": "W = mg",
+        "pressure_formula": "P = F / A"
+      }
+    },
+
+    {
+      "chapter_number": 10,
+      "chapter_title": "Work and Energy",
+      "summary": "Introduction to work, kinetic and potential energy, and law of conservation of energy.",
+      "student_explanation": [
+        "Work is done when force causes displacement.",
+        "Kinetic energy is energy of motion.",
+        "Potential energy is stored energy."
+      ],
+      "key_definitions": [
+        { "term": "Work", "definition": "Force × displacement." },
+        { "term": "Kinetic Energy", "definition": "Energy of a moving object." }
+      ],
+      "important_points": [
+        "Energy cannot be created or destroyed.",
+        "Different forms of energy can convert into each other."
+      ],
+      "formulas_and_identities": {
+        "work_formula": "W = F × s",
+        "ke_formula": "KE = ½mv²",
+        "pe_formula": "PE = mgh"
+      }
+    },
+
+    {
+      "chapter_number": 11,
+      "chapter_title": "Sound",
+      "summary": "Explanation of production of sound, propagation of sound, frequency, amplitude, speed, and applications like SONAR.",
+      "student_explanation": [
+        "Sound needs a medium to travel.",
+        "High frequency → high pitch.",
+        "Loudness depends on amplitude."
+      ],
+      "key_definitions": [
+        { "term": "Frequency", "definition": "Number of oscillations per second." },
+        { "term": "Amplitude", "definition": "Maximum displacement of vibrating body." }
+      ],
+      "important_points": [
+        "Sound cannot travel in vacuum.",
+        "Ultrasound is used in medical imaging."
+      ],
+      "formulas_and_identities": {
+        "wave_speed_formula": "v = λ × f"
+      }
+    },
+
+    {
+      "chapter_number": 12,
+      "chapter_title": "Improvement in Food Resources",
+      "summary": "This chapter explains crop production, management, protection, and enhancement of food resources.",
+      "student_explanation": [
+        "Better seeds give better yield.",
+        "Animals and plants need proper nutrition.",
+        "Manure and fertilizers improve soil fertility."
+      ],
+      "key_definitions": [
+        { "term": "Manure", "definition": "Organic matter used for soil fertility." },
+        { "term": "Fertilizer", "definition": "Chemical substance to increase soil nutrients." }
+      ],
+      "important_points": [
+        "Irrigation is essential for crops.",
+        "Animal husbandry improves food production."
+      ],
+      "formulas_and_identities": {}
+    }
+
+  ]
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- MODERN EDUCATION PALETTE - Calm, Trustworthy, Professional     -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+
+    <!-- Base Colors (Legacy - Required) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#64748B</color>
+
+    <!-- Primary Colors (Trust + Focus) -->
+    <color name="primary">#5B7FFF</color>
+    <color name="primary_light">#8FA3FF</color>
+    <color name="primary_dark">#3D5FDD</color>
+    <color name="primary_container">#E8EDFF</color>
+    <color name="appbar">#5B7FFF</color>
+
+    <!-- Secondary Colors (Accent) -->
+    <color name="secondary">#7C3AED</color>
+    <color name="secondary_light">#A78BFA</color>
+    <color name="secondary_container">#EDE9FE</color>
+
+    <!-- Surface Colors (Clean + Minimal) -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F5F7FA</color>
+    <color name="surface_elevated">#FAFBFC</color>
+    <color name="surface_dim">#EDF0F4</color>
+
+    <!-- Background -->
+    <color name="background">#FAFBFC</color>
+    <color name="background_secondary">#F1F5F9</color>
+
+    <!-- Text Colors (Readable) -->
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="text_disabled">#CBD5E0</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Semantic Colors -->
+    <color name="success">#10B981</color>
+    <color name="success_light">#D1FAE5</color>
+    <color name="error">#EF4444</color>
+    <color name="error_light">#FEE2E2</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_light">#FEF3C7</color>
+    <color name="info">#3B82F6</color>
+    <color name="info_light">#DBEAFE</color>
+
+    <!-- Subject Colors (Soft Gradients) -->
+    <color name="subject_math">#3B82F6</color>
+    <color name="subject_math_light">#60A5FA</color>
+    <color name="subject_science">#10B981</color>
+    <color name="subject_science_light">#34D399</color>
+    <color name="subject_english">#8B5CF6</color>
+    <color name="subject_english_light">#A78BFA</color>
+    <color name="subject_sst">#F59E0B</color>
+    <color name="subject_sst_light">#FBBF24</color>
+
+    <!-- Chat Background (Legacy) -->
+    <color name="chat_bg_start">#FAFBFC</color>
+    <color name="chat_bg_end">#F1F5F9</color>
+
+    <!-- AI Message Bubble (Legacy) -->
+    <color name="ai_bubble_start">#F1F5F9</color>
+    <color name="ai_bubble_end">#E2E8F0</color>
+    <color name="ai_text">#1E293B</color>
+    <color name="ai_bubble">#F1F5F9</color>
+    <color name="ai_bubble_border">#E2E8F0</color>
+
+    <!-- User Message Bubble (Legacy) -->
+    <color name="user_bubble_start">#5B7FFF</color>
+    <color name="user_bubble_end">#7C3AED</color>
+    <color name="user_text">#FFFFFF</color>
+    <color name="user_bubble">#5B7FFF</color>
+
+    <!-- Input Area (Legacy) -->
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_border">#E2E8F0</color>
+    <color name="input_border_focused">#5B7FFF</color>
+    <color name="input_text">#1A202C</color>
+    <color name="input_hint">#94A3B8</color>
+
+    <!-- Send Button (Legacy) -->
+    <color name="send_btn_start">#5B7FFF</color>
+    <color name="send_btn_end">#7C3AED</color>
+
+    <!-- Dividers and Borders -->
+    <color name="divider">#E2E8F0</color>
+    <color name="border">#E2E8F0</color>
+    <color name="border_light">#F1F5F9</color>
+
+    <!-- Shadow and Overlay (Legacy) -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="overlay">#1A202C</color>
+    <color name="overlay_light">#0D1A202C</color>
+    <color name="scrim">#52000000</color>
+</resources>

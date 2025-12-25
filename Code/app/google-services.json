@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752367402614",
+    "project_id": "demolition-3cfc0",
+    "storage_bucket": "demolition-3cfc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752367402614:android:93f7ed81bf9eedda04a957",
+        "android_client_info": {
+          "package_name": "com.example.demolition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3wKD94Oxn5lb8Ka-wYlIxviiekQyndU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

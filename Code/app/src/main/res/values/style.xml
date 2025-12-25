@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavTextActive" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BottomNavTextInactive" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <!-- Bottom Navigation Active Indicator - Pill Style -->
+    <style name="App.BottomNav.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/primary</item>
+        <item name="android:width">100dp</item>
+        <item name="android:height">48dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Material3.Corner.Full</item>
+    </style>
+
+    <style name="KeyboardKey" parent="Widget.Material3.Button.TextButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/black</item> <!-- Fallback color -->
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:padding">0dp</item>
+    </style>
+</resources>

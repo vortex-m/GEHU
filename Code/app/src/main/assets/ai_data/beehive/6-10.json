@@ -1,0 +1,285 @@
+{
+  "beehive": {
+    "prose": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The Fun They Had",
+        "summary": "Set in a futuristic world, two children — Margie and Tommy — discover an old printed book and become fascinated by how schools functioned in the past. They compare their mechanical teacher and isolated learning environment with the communal, human-teacher classroom of earlier generations. Margie begins to realize that the old school system might have been more enjoyable.",
+        "theme": "Impact of technology on education, nostalgia, human connection.",
+        "moral_or_message": "Education is more meaningful when social interaction and human warmth are present.",
+        "character_analysis": {
+          "Margie": "Curious, thoughtful, feels trapped in strict mechanical education.",
+          "Tommy": "More confident, amused by old schooling methods.",
+          "Mechanical Teacher": "Emotionless, rigid, represents over-automation."
+        },
+        "important_points": [
+          "Set in 2157.",
+          "Mechanical teachers teach individually.",
+          "Printed books fascinate the children.",
+          "Old schooling relied on human connection.",
+          "Margie starts questioning her educational system."
+        ],
+        "student_explanation": [
+          "Margie and Tommy live in the future with robot teachers.",
+          "They find a real book about old schools.",
+          "They learn students once studied together in one building.",
+          "Margie wishes she could attend such a school.",
+          "The story compares old and future education."
+        ],
+        "key_definitions": [
+          { "term": "Telebook", "definition": "A digital book read on a screen." },
+          { "term": "Mechanical Teacher", "definition": "A robot/computer that teaches individually." }
+        ],
+        "short_questions": [
+          "Why was Margie surprised by the printed book?",
+          "What differences did Tommy notice between old and new schools?"
+        ],
+        "long_questions": [
+          "Compare the education system in the story with modern-day schools.",
+          "How does the story highlight the importance of human interaction in learning?"
+        ],
+        "mcq_questions": [
+          {
+            "q": "Who wrote 'The Fun They Had'?",
+            "options": ["Isaac Asimov", "Ruskin Bond", "O. Henry", "R.K. Narayan"],
+            "answer": "Isaac Asimov"
+          },
+          {
+            "q": "What year is the story set in?",
+            "options": ["2020", "2157", "3000", "1999"],
+            "answer": "2157"
+          },
+          {
+            "q": "What did Margie hate the most?",
+            "options": ["Tests", "Books", "Games", "Tommy"],
+            "answer": "Tests"
+          },
+          {
+            "q": "The mechanical teacher was located in:",
+            "options": ["A school building", "Margie's room", "A playground", "A library"],
+            "answer": "Margie's room"
+          },
+          {
+            "q": "Old schools had:",
+            "options": ["Human teachers", "Robot teachers", "No teachers", "Online sessions"],
+            "answer": "Human teachers"
+          }
+        ],
+        "formulas_and_identities": {}
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "The Sound of Music — Part I (Evelyn Glennie)",
+        "summary": "Evelyn Glennie, a deaf percussionist, defies her disability through determination and unique ability to sense music through vibrations. With guidance from her teacher Ron Forbes, she becomes a world-renowned musician. Her story represents perseverance, talent, and breaking stereotypes.",
+        "theme": "Determination, inclusivity, overcoming disability.",
+        "moral_or_message": "Disability is not a barrier when determination and support are present.",
+        "character_analysis": {
+          "Evelyn Glennie": "Strong, dedicated, sensitive to vibrations, a symbol of resilience.",
+          "Ron Forbes": "Understanding mentor who helps her unlock her potential."
+        },
+        "important_points": [
+          "Evelyn becomes deaf by age 11.",
+          "She learns to sense music through body vibrations.",
+          "Hard work leads to international success.",
+          "She inspires thousands through her journey."
+        ],
+        "student_explanation": [
+          "Evelyn cannot hear, but she feels music with her body.",
+          "Her teacher helps her learn in a new way.",
+          "She works hard and becomes a famous musician."
+        ],
+        "key_definitions": [
+          { "term": "Percussionist", "definition": "A musician who plays rhythm instruments like drums." },
+          { "term": "Vibrations", "definition": "Movements felt by the body that help Evelyn sense music." }
+        ],
+        "short_questions": [
+          "How did Evelyn sense music?",
+          "Who played the biggest role in supporting her?"
+        ],
+        "long_questions": [
+          "Explain how Evelyn’s disability became her strength.",
+          "What does Evelyn Glennie's journey teach about inclusion?"
+        ],
+        "mcq_questions": [
+          {
+            "q": "Evelyn Glennie lost her hearing at age:",
+            "options": ["5", "8", "11", "15"],
+            "answer": "11"
+          },
+          {
+            "q": "Who encouraged Evelyn to sense vibrations?",
+            "options": ["Her mother", "Ron Forbes", "Her friend", "Doctor"],
+            "answer": "Ron Forbes"
+          },
+          {
+            "q": "Evelyn is a famous:",
+            "options": ["Singer", "Percussionist", "Writer", "Dancer"],
+            "answer": "Percussionist"
+          }
+        ],
+        "formulas_and_identities": {}
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "The Sound of Music — Part II (Bismillah Khan)",
+        "summary": "This chapter highlights the life of Ustad Bismillah Khan, who dedicated his life to mastering and popularising the shehnai. Born into a family of musicians, he trained under his uncle and soon became synonymous with the shehnai. He performed at India’s Independence Day and received the Bharat Ratna. Despite international fame, he remained deeply connected to his hometown Benaras and Indian traditions.",
+        "theme": "Patriotism, simplicity, devotion to art, cultural heritage.",
+        "moral_or_message": "True greatness comes from humility and dedication to one’s passion.",
+        "character_analysis": {
+          "Bismillah Khan": "Humble, patriotic, deeply spiritual; a maestro who valued tradition over glamour.",
+          "Ali Bux": "His mentor who nurtured his musical talent."
+        },
+        "important_points": [
+          "He elevated the shehnai to a classical concert instrument.",
+          "Performed at the Red Fort on India's Independence Day in 1947.",
+          "Awarded the Bharat Ratna.",
+          "Deep emotional attachment to Benaras and the Ganga."
+        ],
+        "student_explanation": [
+          "Bismillah Khan loved music more than anything else.",
+          "He practiced for years to master the shehnai.",
+          "He became famous across India and the world.",
+          "But he stayed simple and did not like modern glamour."
+        ],
+        "key_definitions": [
+          { "term": "Shehnai", "definition": "A traditional Indian wind instrument." },
+          { "term": "Maestro", "definition": "A person of exceptional skill in music." }
+        ],
+        "short_questions": [
+          "Why is Bismillah Khan considered a legend?",
+          "What does his connection with the Ganga symbolize?"
+        ],
+        "long_questions": [
+          "Describe the qualities that made Bismillah Khan a respected musician.",
+          "How did Bismillah Khan contribute to Indian classical music?"
+        ],
+        "mcq_questions": [
+          {
+            "q": "Bismillah Khan was awarded:",
+            "options": ["Padma Shri", "Bharat Ratna", "Nobel Prize", "Dronacharya Award"],
+            "answer": "Bharat Ratna"
+          },
+          {
+            "q": "Bismillah Khan performed at the Red Fort in:",
+            "options": ["1947", "1950", "1965", "1972"],
+            "answer": "1947"
+          },
+          {
+            "q": "Which river was Bismillah Khan deeply attached to?",
+            "options": ["Yamuna", "Ganga", "Godavari", "Kaveri"],
+            "answer": "Ganga"
+          }
+        ],
+        "formulas_and_identities": {}
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "The Little Girl",
+        "summary": "The story revolves around Kezia, a shy girl who fears her strict father. She misunderstands him due to his stern behaviour. However, after a frightening nightmare, her father comforts her gently, revealing his deep but quiet love. Kezia learns that adults may express love differently.",
+        "theme": "Parent-child relationship, emotional misunderstanding, love expressed through actions.",
+        "moral_or_message": "People show love in different ways; understanding others requires empathy.",
+        "character_analysis": {
+          "Kezia": "Sensitive, imaginative, fearful but loving.",
+          "Father": "Strict-looking but deeply caring.",
+          "Mother": "A traditional caretaker.",
+          "Grandmother": "Kezia’s emotional support."
+        },
+        "important_points": [
+          "Kezia fears her father because he seems cold.",
+          "A torn paper incident creates more distance.",
+          "Her mindset changes when he comforts her during a nightmare.",
+          "The story shows the gap between appearance and reality."
+        ],
+        "student_explanation": [
+          "Kezia is afraid of her strict father.",
+          "She thinks he doesn't love her.",
+          "But when she has a nightmare, he comforts her.",
+          "She understands he loves her but doesn't show it openly."
+        ],
+        "key_definitions": [
+          { "term": "Nightmare", "definition": "A frightening dream." },
+          { "term": "Affection", "definition": "Feelings of love or fondness." }
+        ],
+        "short_questions": [
+          "Why was Kezia afraid of her father?",
+          "What made Kezia change her view about her father?"
+        ],
+        "long_questions": [
+          "Explain how Kezia’s relationship with her father evolves throughout the story.",
+          "Discuss the theme of misunderstood affection in the story."
+        ],
+        "mcq_questions": [
+          {
+            "q": "Who comforted Kezia during her nightmare?",
+            "options": ["Her mother", "Her father", "Her grandmother", "Her neighbor"],
+            "answer": "Her father"
+          },
+          {
+            "q": "What did Kezia accidentally tear?",
+            "options": ["A book", "Her father’s speech papers", "A newspaper", "A letter"],
+            "answer": "Her father’s speech papers"
+          },
+          {
+            "q": "Kezia’s father can best be described as:",
+            "options": ["Cruel", "Uncaring", "Strict but loving", "Lazy"],
+            "answer": "Strict but loving"
+          }
+        ],
+        "formulas_and_identities": {}
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "A Truly Beautiful Mind",
+        "summary": "This biographical chapter traces the life of Albert Einstein, from a curious child to a world-famous scientist. It highlights his dislike for traditional schooling, his groundbreaking discoveries, and his advocacy for peace. The chapter humanizes Einstein by showing his compassion, simplicity, and intellectual brilliance.",
+        "theme": "Curiosity, humanitarian values, scientific innovation.",
+        "moral_or_message": "True beauty lies not in appearance but in a compassionate and thoughtful mind.",
+        "character_analysis": {
+          "Albert Einstein": "Genius scientist, peace activist, curious thinker.",
+          "Mileva Maric": "Einstein’s first wife, intellectually strong and supportive."
+        },
+        "important_points": [
+          "Einstein disliked rote learning.",
+          "His Theory of Relativity changed modern physics.",
+          "He won the Nobel Prize for the photoelectric effect.",
+          "He advocated for peace and nuclear disarmament."
+        ],
+        "student_explanation": [
+          "Einstein was curious from childhood.",
+          "He didn’t enjoy strict schooling.",
+          "He became a great scientist through imagination and hard work.",
+          "He cared about peace in the world."
+        ],
+        "key_definitions": [
+          { "term": "Theory of Relativity", "definition": "Einstein’s theory explaining space, time, and gravity." },
+          { "term": "Photoelectric Effect", "definition": "Einstein’s work that won him the Nobel Prize." }
+        ],
+        "short_questions": [
+          "What made Einstein different as a student?",
+          "Why did Einstein become a global figure?"
+        ],
+        "long_questions": [
+          "How did Einstein’s ideas change the world’s understanding of science?",
+          "Explain why Einstein is described as having a ‘beautiful mind’."
+        ],
+        "mcq_questions": [
+          {
+            "q": "Einstein won the Nobel Prize for:",
+            "options": ["Relativity", "Quantum Mechanics", "Photoelectric Effect", "Gravity"],
+            "answer": "Photoelectric Effect"
+          },
+          {
+            "q": "Einstein disliked:",
+            "options": ["Reading", "Music", "Rote learning", "Mathematics"],
+            "answer": "Rote learning"
+          },
+          {
+            "q": "Einstein advocated for:",
+            "options": ["War", "Nuclear disarmament", "Political power", "Space travel"],
+            "answer": "Nuclear disarmament"
+          }
+        ],
+        "formulas_and_identities": {}
+      }
+    ]
+  }
+}

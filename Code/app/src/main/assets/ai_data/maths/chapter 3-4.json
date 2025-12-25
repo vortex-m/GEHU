@@ -1,0 +1,172 @@
+{
+  "files": [
+    {
+      "filename": "iemh103.pdf",
+      "title": "Coordinate Geometry",
+      "source": ":contentReference[oaicite:0]{index=0}",
+      "chapters": [
+        {
+          "chapter": "3.1 Introduction",
+          "summary": "Explains the need for two perpendicular reference lines to locate a point in a plane. Uses real-world examples such as street maps, seating plans and locating a dot on paper to motivate the Cartesian system.",
+          "keywords": [
+            "Cartesian plane",
+            "coordinates",
+            "ordered pair",
+            "abscissa",
+            "ordinate",
+            "origin",
+            "quadrants"
+          ],
+          "visuals": [
+            "Street map (Fig 3.1) — house locations described by (street number, house number)",
+            "Dot location diagram (Fig 3.2) — distances from left edge and bottom edge used",
+            "Seating layout (Fig 3.3) — seating positions as (column, row)"
+          ]
+        },
+        {
+          "chapter": "3.2 Cartesian System",
+          "summary": "Defines the x-axis and y-axis, the origin (0,0), the four quadrants and sign conventions. Explains how any point in the plane is represented as an ordered pair (x, y) where x is the abscissa and y the ordinate.",
+          "meta": {
+            "formulas": [
+              "Coordinate of a point P = (x, y)",
+              "Point on x-axis: (x, 0)",
+              "Point on y-axis: (0, y)"
+            ],
+            "definitions": {
+              "Origin": "The intersection of the x-axis and y-axis, denoted (0,0).",
+              "Abscissa": "The x-coordinate; horizontal distance from the y-axis (signed).",
+              "Ordinate": "The y-coordinate; vertical distance from the x-axis (signed).",
+              "Quadrants": "I: (+,+), II: (−,+), III: (−,−), IV: (+,−)."
+            }
+          }
+        },
+        {
+          "chapter": "Plotting & Reading Coordinates",
+          "summary": "Rules for plotting points and reading coordinates from diagrams. Common mistakes (like swapping coordinates or sign errors) are highlighted. Shows how intercepts correspond to points with zero in one coordinate.",
+          "examples": [
+            "Point A with coordinates (4, 0) lies on the positive x-axis.",
+            "Point B at (0, −3) lies on the negative y-axis.",
+            "Point P in quadrant II might be (−5, 6)."
+          ],
+          "exercise_types": [
+            "Identify coordinates of labeled points from diagrams.",
+            "Plot given ordered pairs on graph paper.",
+            "Convert simple word descriptions (e.g., '5th street and 2nd house') to coordinates."
+          ]
+        },
+        {
+          "chapter": "Applications & Activities",
+          "summary": "Practical activities like 'Seating Plan' and street mapping demonstrate usage. Introduces idea that coordinates can model many layout problems.",
+          "activities": [
+            "Seating Plan: represent classroom desks as grid squares, label each with student name and (column,row).",
+            "Street Plan: draw a simplified model using 1 cm = 200 m (or another scale) and plot streets/house numbers."
+          ]
+        },
+        {
+          "chapter": "3.3 Summary",
+          "summary": "Recap: two perpendicular axes locate any point in the plane by an ordered pair (x,y); know quadrant signs and how to interpret axis points.",
+          "meta": {
+            "important_formulas": [
+              "Coordinate of a point: (x, y)",
+              "x = perpendicular distance from y-axis (signed)",
+              "y = perpendicular distance from x-axis (signed)"
+            ],
+            "figures_referenced": [
+              "Fig 3.1",
+              "Fig 3.2",
+              "Fig 3.3",
+              "Fig 3.10",
+              "Fig 3.11",
+              "Fig 3.12"
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "filename": "iemh104.pdf",
+      "title": "Linear Equations in Two Variables",
+      "source": ":contentReference[oaicite:1]{index=1}",
+      "chapters": [
+        {
+          "chapter": "4.1 Introduction",
+          "summary": "Extends the notion of linear equations from one variable to two variables. Shows that while equations in a single variable have a unique solution, linear equations in two variables have infinitely many solutions which correspond to points on a line in the Cartesian plane.",
+          "keywords": [
+            "linear equation",
+            "two variables",
+            "solution set",
+            "graph of equation",
+            "intercepts"
+          ],
+          "motivating_example": "If two batsmen score x and y runs and together make 176, then x + y = 176 is a linear equation in two variables."
+        },
+        {
+          "chapter": "4.2 Definition & Standard Form",
+          "summary": "Gives the standard algebraic form of a linear equation in two variables and explains the meaning of the coefficients.",
+          "meta": {
+            "formulas": [
+              "Standard form: ax + by + c = 0, where a,b,c ∈ ℝ and not both a and b are zero",
+              "Slope-intercept (when b ≠ 0): y = (−a/b)x − c/b"
+            ],
+            "definitions": {
+              "Linear equation in two variables": "An equation of degree one in x and y, expressible as ax + by + c = 0.",
+              "Solution of an equation": "An ordered pair (x,y) satisfying the equation."
+            }
+          },
+          "examples": [
+            "Write 2x + 3y = 4.37 in standard form: 2x + 3y − 4.37 = 0 (a=2, b=3, c=−4.37).",
+            "x − 4 = 3y → x − 3y − 4 = 0."
+          ]
+        },
+        {
+          "chapter": "4.3 Solution Methods & Properties",
+          "summary": "Describes how to generate solutions, test ordered pairs, and interpret solutions graphically as points on a line. Explains intercepts (x-intercept when y=0, y-intercept when x=0).",
+          "procedures": [
+            "To find solutions: choose convenient x-values and compute corresponding y (or vice versa).",
+            "x-intercept: set y = 0 → solve ax + c = 0 → x = −c/a (if a ≠ 0).",
+            "y-intercept: set x = 0 → solve by + c = 0 → y = −c/b (if b ≠ 0)."
+          ],
+          "examples": [
+            "2x + 3y = 12 → solutions: (0,4), (3,2), (6,0).",
+            "x + 2y = 6 → (0,3), (2,2), (6,0)."
+          ],
+          "remarks": [
+            "Every linear equation in two variables corresponds to a straight line in the plane; conversely every straight line corresponds to infinitely many ordered-pair solutions.",
+            "To check whether (p,q) is a solution, substitute into equation and verify equality."
+          ]
+        },
+        {
+          "chapter": "4.4 Exercises & Applications",
+          "summary": "Types of exercises include converting real-life statements into linear equations, rewriting equations into standard form and finding sample solution pairs. Includes word problems and verification tasks.",
+          "exercise_types": [
+            "Write equations from word problems (e.g., relationship between quantities).",
+            "Convert to ax + by + c = 0 and identify coefficients a, b, c.",
+            "Find intercepts and at least three integer solutions for a given equation.",
+            "Verify whether supplied ordered pairs satisfy the equation."
+          ],
+          "sample_exercises": [
+            "Form an equation for: 'The cost of a notebook is twice the cost of a pen; total cost of one of each is Rs 30.'",
+            "Given 3x − 2y + 6 = 0, find x-intercept and y-intercept, and three solution pairs."
+          ]
+        },
+        {
+          "chapter": "4.5 Summary",
+          "summary": "Recaps that ax + by + c = 0 (a,b,c ∈ ℝ, not both a and b zero) defines a linear equation in two variables, whose solution set is infinite and graph is a straight line. Intercepts and simple solution generation techniques are highlighted.",
+          "meta": {
+            "important_formulas": [
+              "ax + by + c = 0",
+              "slope (if b ≠ 0) = −a/b",
+              "x-intercept = −c/a (if a ≠ 0)",
+              "y-intercept = −c/b (if b ≠ 0)"
+            ],
+            "figures_referenced": [
+              "Fig 4.1 (example of root for one-variable case)",
+              "Worked examples across pages 55–59"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

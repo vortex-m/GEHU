@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".Home">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/space_md">
+
+            <!-- Stats Cards Row -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2"
+                android:layout_marginBottom="@dimen/space_md">
+
+                <!-- Streak Card -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="@dimen/space_sm"
+                    app:cardCornerRadius="@dimen/radius_lg"
+                    app:cardElevation="@dimen/elevation_sm"
+                    app:cardBackgroundColor="@color/surface">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:padding="@dimen/space_md">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="🔥"
+                            android:textSize="32sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:layout_marginStart="@dimen/space_sm">
+
+                            <TextView
+                                android:id="@+id/tvStreakCount"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:textSize="24sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/text_primary"
+                                android:fontFamily="@font/audi" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Day Streak"
+                                android:textSize="12sp"
+                                android:textColor="@color/text_secondary"
+                                android:fontFamily="@font/audi" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!-- Today's Classes Card -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="@dimen/space_sm"
+                    app:cardCornerRadius="@dimen/radius_lg"
+                    app:cardElevation="@dimen/elevation_sm"
+                    app:cardBackgroundColor="@color/surface">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:padding="@dimen/space_md">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="📚"
+                            android:textSize="32sp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical"
+                            android:layout_marginStart="@dimen/space_sm">
+
+                            <TextView
+                                android:id="@+id/tvClassCount"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:textSize="24sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/text_primary"
+                                android:fontFamily="@font/audi" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Classes Today"
+                                android:textSize="12sp"
+                                android:textColor="@color/text_secondary"
+                                android:fontFamily="@font/audi" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+            <!-- My Courses Header -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="@dimen/space_sm">
+
+                <TextView
+                    android:id="@+id/tv_my_courses"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="My Courses"
+                    android:textSize="@dimen/text_headline"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:fontFamily="@font/audi" />
+
+                <ImageButton
+                    android:id="@+id/SyncWithCloud"
+                    android:layout_width="@dimen/touch_target_min"
+                    android:layout_height="@dimen/touch_target_min"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:src="@drawable/ic_sync"
+                    android:contentDescription="Sync"
+                    android:padding="@dimen/space_sm" />
+            </LinearLayout>
+
+            <!-- Subject Cards Grid -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="@dimen/space_md">
+
+                <!-- Row 1: Math & Science -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/card_math"
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/subject_card_height"
+                        android:layout_weight="1"
+                        android:layout_marginEnd="@dimen/space_sm"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        app:cardCornerRadius="@dimen/radius_lg"
+                        app:cardElevation="@dimen/elevation_md">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="@dimen/space_md"
+                            android:background="@drawable/gradient_math">
+
+                            <ImageView
+                                android:layout_width="@dimen/icon_xl"
+                                android:layout_height="@dimen/icon_xl"
+                                android:src="@drawable/math"
+                                android:contentDescription="Mathematics" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/space_sm"
+                                android:text="Mathematics"
+                                android:textSize="@dimen/text_title"
+                                android:textStyle="bold"
+                                android:textColor="@color/white"
+                                android:fontFamily="@font/audi" />
+
+                            <TextView
+                                android:id="@+id/tvMathChapters"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0 Chapters"
+                                android:textSize="11sp"
+                                android:textColor="#CCFFFFFF"
+                                android:fontFamily="@font/audi" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/card_science"
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/subject_card_height"
+                        android:layout_weight="1"
+                        android:layout_marginStart="@dimen/space_sm"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        app:cardCornerRadius="@dimen/radius_lg"
+                        app:cardElevation="@dimen/elevation_md">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="@dimen/space_md"
+                            android:background="@drawable/gradient_science">
+
+                            <ImageView
+                                android:layout_width="@dimen/icon_xl"
+                                android:layout_height="@dimen/icon_xl"
+                                android:src="@drawable/science"
+                                android:contentDescription="Science" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/space_sm"
+                                android:text="Science"
+                                android:textSize="@dimen/text_title"
+                                android:textStyle="bold"
+                                android:textColor="@color/white"
+                                android:fontFamily="@font/audi" />
+
+                            <TextView
+                                android:id="@+id/tvScienceChapters"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0 Chapters"
+                                android:textSize="11sp"
+                                android:textColor="#CCFFFFFF"
+                                android:fontFamily="@font/audi" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+
+                <!-- Row 2: English & SST -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:weightSum="2">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/card_geo"
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/subject_card_height"
+                        android:layout_weight="1"
+                        android:layout_marginEnd="@dimen/space_sm"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        app:cardCornerRadius="@dimen/radius_lg"
+                        app:cardElevation="@dimen/elevation_md">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="@dimen/space_md"
+                            android:background="@drawable/gradient_english">
+
+                            <ImageView
+                                android:layout_width="@dimen/icon_xl"
+                                android:layout_height="@dimen/icon_xl"
+                                android:src="@drawable/geo"
+                                android:contentDescription="English" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/space_sm"
+                                android:text="English"
+                                android:textSize="@dimen/text_title"
+                                android:textStyle="bold"
+                                android:textColor="@color/white"
+                                android:fontFamily="@font/audi" />
+
+                            <TextView
+                                android:id="@+id/tvEnglishChapters"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0 Chapters"
+                                android:textSize="11sp"
+                                android:textColor="#CCFFFFFF"
+                                android:fontFamily="@font/audi" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/card_history"
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/subject_card_height"
+                        android:layout_weight="1"
+                        android:layout_marginStart="@dimen/space_sm"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        app:cardCornerRadius="@dimen/radius_lg"
+                        app:cardElevation="@dimen/elevation_md">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:padding="@dimen/space_md"
+                            android:background="@drawable/gradient_sst">
+
+                            <ImageView
+                                android:layout_width="@dimen/icon_xl"
+                                android:layout_height="@dimen/icon_xl"
+                                android:src="@drawable/history"
+                                android:contentDescription="Social Science" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/space_sm"
+                                android:text="Social Science"
+                                android:textSize="@dimen/text_title"
+                                android:textStyle="bold"
+                                android:textColor="@color/white"
+                                android:fontFamily="@font/audi" />
+
+                            <TextView
+                                android:id="@+id/tvSstChapters"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0 Chapters"
+                                android:textSize="11sp"
+                                android:textColor="#CCFFFFFF"
+                                android:fontFamily="@font/audi" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Today's Schedule -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/space_xl"
+                android:text="Today's Schedule"
+                android:textSize="@dimen/text_headline"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:fontFamily="@font/audi" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_timetable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/space_md"
+                android:nestedScrollingEnabled="false" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/space_xxl" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

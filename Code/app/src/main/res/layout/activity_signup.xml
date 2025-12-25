@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:fillViewport="true"
+    tools:context=".Signup">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/space_lg">
+
+        <!-- Header Lottie Animation -->
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/signupAnimation"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="@dimen/space_xl"
+            app:lottie_rawRes="@raw/login_signup"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true" />
+
+        <TextView
+            android:id="@+id/Header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_md"
+            android:text="Demolition"
+            android:textSize="@dimen/text_display"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_xs"
+            android:text="AI-Powered Learning"
+            android:textSize="@dimen/text_body"
+            android:textColor="@color/text_secondary"
+            android:fontFamily="@font/audi" />
+
+        <!-- Signup Card -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_xl"
+            app:cardElevation="@dimen/elevation_sm"
+            app:cardCornerRadius="@dimen/radius_lg"
+            app:cardBackgroundColor="@color/surface">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="@dimen/space_lg">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Create Account"
+                    android:textSize="@dimen/text_headline"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:fontFamily="@font/audi" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_xs"
+                    android:text="Sign up to start learning"
+                    android:textSize="@dimen/text_caption"
+                    android:textColor="@color/text_secondary"
+                    android:fontFamily="@font/audi" />
+
+                <!-- Email -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_lg"
+                    android:hint="Email"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:boxStrokeColor="@color/primary">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/editTextEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textEmailAddress"
+                        android:textSize="@dimen/text_body"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="@font/audi" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Password -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:hint="Password"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:passwordToggleEnabled="true"
+                    app:boxStrokeColor="@color/primary">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/editTextPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textPassword"
+                        android:textSize="@dimen/text_body"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="@font/audi" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Confirm Password -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:hint="Confirm Password"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:passwordToggleEnabled="true"
+                    app:boxStrokeColor="@color/primary">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/editTextConfirmPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textPassword"
+                        android:textSize="@dimen/text_body"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="@font/audi" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Signup Button -->
+                <Button
+                    android:id="@+id/btnSignUp"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/button_height"
+                    android:layout_marginTop="@dimen/space_lg"
+                    android:text="Create Account"
+                    android:textSize="@dimen/text_body"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:fontFamily="@font/audi"
+                    android:backgroundTint="@color/primary" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Login Link -->
+        <TextView
+            android:id="@+id/loginText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_lg"
+            android:text="Already have an account? Sign In"
+            android:textSize="@dimen/text_caption"
+            android:textColor="@color/text_secondary"
+            android:fontFamily="@font/audi"
+            android:padding="@dimen/space_sm" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space_xxl" />
+
+    </LinearLayout>
+</ScrollView>

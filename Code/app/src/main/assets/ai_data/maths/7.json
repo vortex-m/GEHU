@@ -1,0 +1,73 @@
+{
+  "filename": "iemh107.pdf",
+  "title": "Triangles",
+  "source": ":contentReference[oaicite:4]{index=4}",
+  "chapters": [
+    {
+      "chapter": "7.1 Introduction to Triangles",
+      "summary": "A triangle is a closed figure formed by three line segments. The three segments are called sides, the meeting points are vertices, and the interior space is the region of the triangle. Types of triangles can be classified by sides (scalene, isosceles, equilateral) or by angles (acute, right, obtuse). The chapter emphasizes that triangles are fundamental geometric shapes with strong structural properties used in construction, engineering, measurement, and proofs. Several real-life examples include triangular supports in bridges, trusses, roof structures, and architectural elements where rigidity is essential.",
+      "keywords": [
+        "Triangle",
+        "side",
+        "vertex",
+        "interior",
+        "isosceles",
+        "equilateral",
+        "scalene"
+      ],
+      "visuals": [
+        "Figures showing different triangle types such as acute, right, obtuse triangles.",
+        "Diagrams of isosceles and equilateral triangles highlighting equal sides."
+      ]
+    },
+
+    {
+      "chapter": "7.2 Congruence of Triangles",
+      "summary": "This section introduces congruence — the idea that two figures are identical in shape and size. Two triangles are congruent if their corresponding sides and angles are equal. The notation used is ΔABC ≅ ΔPQR where A ↔ P, B ↔ Q, C ↔ R. The chapter explains why ordering of vertices is crucial: ABC corresponds to PQR in the same orientation. Congruence rules like SAS, SSS, ASA, AAS, and RHS are discussed in detail. Each rule describes the minimum information needed to guarantee congruence. For example, SAS states that if two sides and the included angle of one triangle equal those of another, the triangles are congruent. Examples show step-by-step reasoning using CPCT (Corresponding Parts of Congruent Triangles) to deduce unknown angles or sides. Real-world applications include proving symmetry, constructing shapes with precision, and determining distances indirectly.",
+      "criteria": [
+        "SAS (Side–Angle–Side)",
+        "SSS (Side–Side–Side)",
+        "ASA (Angle–Side–Angle)",
+        "AAS (Angle–Angle–Side)",
+        "RHS (Right angle–Hypotenuse–Side)"
+      ],
+      "meta": {
+        "key_points": [
+          "Congruence requires matching order of vertices.",
+          "CPCT: If two triangles are congruent, all corresponding sides and angles are equal.",
+          "The RHS rule applies only to right-angled triangles."
+        ]
+      }
+    },
+
+    {
+      "chapter": "7.3 Properties of Isosceles Triangles",
+      "summary": "In an isosceles triangle, at least two sides are equal. Important properties follow from congruence rules: (1) Angles opposite equal sides are equal; (2) The perpendicular from the apex to the base bisects the base; (3) This perpendicular also bisects the angle at the apex. These properties allow quick solving of many geometric problems involving symmetry. Examples include determining unknown base angles and verifying whether a given triangle is isosceles.",
+      "visuals": [
+        "Diagram of an isosceles triangle with equal sides marked and base bisected by height."
+      ],
+      "meta": {
+        "formulas": [
+          "If AB = AC, then ∠C = ∠B",
+          "Altitude from A to BC is also a median and angle bisector"
+        ]
+      }
+    },
+
+    {
+      "chapter": "7.4 Inequalities in a Triangle",
+      "summary": "This critical section explores the relationship between sides and angles within any triangle. The larger angle lies opposite the longer side, and conversely, a longer side lies opposite a larger angle. The triangle inequality theorem states: the sum of any two sides of a triangle is always greater than the third side. Examples show how to check whether three lengths can form a triangle and how to compare angles based on side lengths. Practical applications include determining feasibility of constructions or evaluating compass directions.",
+      "meta": {
+        "theorems": [
+          "If one side is longer than another, its opposite angle is larger.",
+          "Triangle Inequality: For any triangle, a + b > c, b + c > a, c + a > b."
+        ]
+      }
+    },
+
+    {
+      "chapter": "7.5 Summary",
+      "summary": "This section consolidates all major concepts: triangle types, congruence rules, vertex ordering, CPCT, properties of isosceles triangles, comparisons of sides and angles, and the triangle inequality theorem. Understanding these foundational results prepares the student for deeper geometry including similarity, circles, and quadrilaterals."
+    }
+  ]
+}

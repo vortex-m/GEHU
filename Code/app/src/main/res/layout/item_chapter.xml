@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/space_md"
+    android:layout_marginBottom="@dimen/space_sm"
+    android:foreground="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardCornerRadius="@dimen/radius_md"
+    app:cardElevation="@dimen/elevation_xs"
+    app:cardBackgroundColor="@color/surface">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="@dimen/space_md">
+
+        <!-- Chapter Number Badge -->
+        <TextView
+            android:id="@+id/tvChapterNumber"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circle_primary"
+            android:gravity="center"
+            android:text="1"
+            android:textSize="@dimen/text_body"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:fontFamily="@font/audi" />
+
+        <!-- Chapter Info -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="@dimen/space_md">
+
+            <TextView
+                android:id="@+id/tvChapterName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Chapter Title"
+                android:textSize="@dimen/text_body"
+                android:textColor="@color/text_primary"
+                android:textStyle="bold"
+                android:fontFamily="@font/audi"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+            <TextView
+                android:id="@+id/tvChapterSubtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/space_xs"
+                android:text="Tap to explore"
+                android:textSize="@dimen/text_caption"
+                android:textColor="@color/text_tertiary"
+                android:fontFamily="@font/audi"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <!-- Arrow Icon -->
+        <ImageView
+            android:id="@+id/ivArrow"
+            android:layout_width="@dimen/icon_md"
+            android:layout_height="@dimen/icon_md"
+            android:src="@drawable/ic_arrow_right"
+            app:tint="@color/text_tertiary"
+            android:contentDescription="Open" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

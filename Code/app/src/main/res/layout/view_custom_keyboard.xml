@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/customKeyboard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/surface"
+    android:padding="4dp"
+    android:visibility="gone">
+
+    <!-- Row 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button style="@style/KeyboardKey" android:text="1" android:tag="1" />
+        <Button style="@style/KeyboardKey" android:text="2" android:tag="2" />
+        <Button style="@style/KeyboardKey" android:text="3" android:tag="3" />
+        <Button style="@style/KeyboardKey" android:text="+" android:tag="+" />
+        <Button style="@style/KeyboardKey" android:text="-" android:tag="-" />
+    </LinearLayout>
+
+    <!-- Row 2 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button style="@style/KeyboardKey" android:text="4" android:tag="4" />
+        <Button style="@style/KeyboardKey" android:text="5" android:tag="5" />
+        <Button style="@style/KeyboardKey" android:text="6" android:tag="6" />
+        <Button style="@style/KeyboardKey" android:text="*" android:tag="*" />
+        <Button style="@style/KeyboardKey" android:text="/" android:tag="/" />
+    </LinearLayout>
+
+    <!-- Row 3 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button style="@style/KeyboardKey" android:text="7" android:tag="7" />
+        <Button style="@style/KeyboardKey" android:text="8" android:tag="8" />
+        <Button style="@style/KeyboardKey" android:text="9" android:tag="9" />
+        <Button style="@style/KeyboardKey" android:text="x²" android:tag="^2" />
+        <Button style="@style/KeyboardKey" android:text="√" android:tag="√" />
+    </LinearLayout>
+
+    <!-- Row 4 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button style="@style/KeyboardKey" android:text="." android:tag="." />
+        <Button style="@style/KeyboardKey" android:text="0" android:tag="0" />
+        <Button style="@style/KeyboardKey" android:text="=" android:tag="=" />
+        <Button style="@style/KeyboardKey" android:text="(" android:tag="(" />
+        <Button style="@style/KeyboardKey" android:text=")" android:tag=")" />
+    </LinearLayout>
+
+    <!-- Row 5 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button style="@style/KeyboardKey" android:text="π" android:tag="π" />
+        <Button style="@style/KeyboardKey" android:text="," android:tag="," />
+        <Button style="@style/KeyboardKey" android:text="SPACE" android:tag=" " android:layout_weight="2" />
+        <Button
+            android:id="@+id/keyBackspace"
+            style="@style/KeyboardKey"
+            android:text="⌫" 
+            android:tag="DEL" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Layout animation controller for fade in effect -->
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@anim/fade_in"
+    android:delay="10%"
+    android:animationOrder="normal" />

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="18dp"
+    android:background="#F3F5F9">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- CHAPTER TITLE CARD -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/card_white"
+            android:elevation="6dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:id="@+id/tvChapterTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="26sp"
+                android:textColor="#212121"
+                android:textStyle="bold"
+                android:fontFamily="@font/spacemono"
+                android:paddingBottom="6dp" />
+
+            <View
+                android:layout_width="50dp"
+                android:layout_height="4dp"
+                android:background="#6200EE" />
+
+        </LinearLayout>
+
+
+        <!-- REUSABLE CARD: SUMMARY -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Summary"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="#212121"
+                android:layout_marginBottom="12dp"
+                android:fontFamily="@font/spacemono" />
+
+            <TextView
+                android:id="@+id/tvSummary"
+                android:textSize="16sp"
+                android:textColor="#4C4C4C"
+                android:lineSpacingExtra="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+        <!-- EXPLANATION -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Explanation"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="#212121"
+                android:fontFamily="@font/spacemono"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:id="@+id/tvConcepts"
+                android:textSize="16sp"
+                android:textColor="#4C4C4C"
+                android:lineSpacingExtra="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+        <!-- DEFINITIONS -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Definitions"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="#212121"
+                android:fontFamily="@font/spacemono"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:id="@+id/tvDefinitions"
+                android:textSize="16sp"
+                android:textColor="#4C4C4C"
+                android:lineSpacingExtra="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <!-- IMPORTANT POINTS -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Important Points"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="#212121"
+                android:fontFamily="@font/spacemono"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:id="@+id/tvPoints"
+                android:textSize="16sp"
+                android:textColor="#4C4C4C"
+                android:lineSpacingExtra="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <!-- FORMULAS -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Formulas"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="#212121"
+                android:fontFamily="@font/spacemono"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:id="@+id/tvFormulas"
+                android:textSize="16sp"
+                android:textColor="#4C4C4C"
+                android:lineSpacingExtra="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

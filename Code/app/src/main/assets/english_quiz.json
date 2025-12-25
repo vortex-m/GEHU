@@ -1,0 +1,452 @@
+{
+  "quiz": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The Fun They Had",
+      "questions": [
+        { "q": "Who wrote 'The Fun They Had'?", "options": ["Isaac Asimov", "Ruskin Bond", "O. Henry", "Robert Frost"], "answer": "Isaac Asimov" },
+        { "q": "What do the children find that surprises them?", "options": ["A printed book", "A radio", "A teacher", "A robot pet"], "answer": "A printed book" },
+        { "q": "Where is the story set?", "options": ["Future", "Past", "Present", "Medieval times"], "answer": "Future" },
+        { "q": "Which device teaches the children in the story?", "options": ["Mechanical teacher", "Human teacher", "Tutor group", "Library"], "answer": "Mechanical teacher" },
+        { "q": "How do the children feel about old schools?", "options": ["Curious and amused", "Indifferent", "Angry", "Afraid"], "answer": "Curious and amused" },
+        { "q": "What does Margie dislike about her mechanical teacher?", "options": ["Makes her do tests", "Is too kind", "Gives no homework", "Tells stories"], "answer": "Makes her do tests" },
+        { "q": "Tommy and Margie found the book in:", "options": ["An attic", "A park", "A junk shop", "School library"], "answer": "An attic" },
+        { "q": "The story contrasts machine education with:", "options": ["Human teachers and schools", "Television", "Online games", "Newspapers"], "answer": "Human teachers and schools" },
+        { "q": "Which theme is central to the story?", "options": ["Human element in education", "War and peace", "Travel and adventure", "Economics"], "answer": "Human element in education" },
+        { "q": "Margie's reaction to the printed book is best described as:", "options": ["Amazed", "Bored", "Indifferent", "Angry"], "answer": "Amazed" }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "The Road Not Taken",
+      "questions": [
+        { "q": "Who is the poet of 'The Road Not Taken'?", "options": ["Robert Frost", "William Wordsworth", "W.B. Yeats", "Phoebe Cary"], "answer": "Robert Frost" },
+        { "q": "What does the fork in the road symbolize?", "options": ["A choice in life", "A map", "A journey end", "A person"], "answer": "A choice in life" },
+        { "q": "How many roads does the speaker see?", "options": ["Two", "Three", "Four", "One"], "answer": "Two" },
+        { "q": "The speaker finds one road 'less travelled by' meaning:", "options": ["Less used", "Wider", "Newly built", "Dangerous"], "answer": "Less used" },
+        { "q": "The tone of the poem is:", "options": ["Reflective", "Angry", "Comedic", "Hostile"], "answer": "Reflective" },
+        { "q": "The poem ends with the speaker saying that his choice:", "options": ["Made all the difference", "Was wrong", "Was forced", "Was accidental"], "answer": "Made all the difference" },
+        { "q": "The poem mainly explores:", "options": ["Choices and consequences", "Nature only", "War", "Science"], "answer": "Choices and consequences" },
+        { "q": "Which device is used when roads represent life choices?", "options": ["Metaphor", "Simile", "Onomatopoeia", "Hyperbole"], "answer": "Metaphor" },
+        { "q": "The speaker admits he may never:", "options": ["Return to take the other road", "Sleep well", "Meet a friend", "Find treasure"], "answer": "Return to take the other road" },
+        { "q": "What is the speaker’s final attitude about his choice?", "options": ["Accepting and thoughtful", "Repentant", "Indifferent", "Joyful only"], "answer": "Accepting and thoughtful" }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "The Sound of Music — I. Evelyn Glennie",
+      "questions": [
+        { "q": "Evelyn Glennie is famous as a:", "options": ["Percussionist", "Painter", "Writer", "Dancer"], "answer": "Percussionist" },
+        { "q": "Evelyn Glennie was deaf but learned to hear through:", "options": ["Vibrations in her body", "Magic", "Her eyes", "Telepathy"], "answer": "Vibrations in her body" },
+        { "q": "Which quality best describes Evelyn?", "options": ["Perseverance", "Laziness", "Carelessness", "Fear"], "answer": "Perseverance" },
+        { "q": "She felt sound mainly in her:", "options": ["Feet and hands", "Eyes", "Nose", "Mouth"], "answer": "Feet and hands" },
+        { "q": "Her success shows the importance of:", "options": ["Adaptation and hard work", "Luck only", "Money", "Isolation"], "answer": "Adaptation and hard work" },
+        { "q": "A percussionist primarily plays:", "options": ["Drums and rhythm instruments", "Flute", "Violin", "Sitar"], "answer": "Drums and rhythm instruments" },
+        { "q": "Evelyn's approach to music challenges ideas about:", "options": ["Disability and ability", "Cooking", "Politics", "Mathematics"], "answer": "Disability and ability" },
+        { "q": "Which word best fits Evelyn's career?", "options": ["Inspirational", "Ordinary", "Negligible", "Fictional"], "answer": "Inspirational" },
+        { "q": "Her technique emphasises:", "options": ["Feeling vibrations", "Singing loudly", "Reading music only", "Ignoring rhythm"], "answer": "Feeling vibrations" },
+        { "q": "The passage inspires readers to value:", "options": ["Determination and creativity", "Wealth", "Silence", "Competition"], "answer": "Determination and creativity" }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "The Sound of Music — II. Bismillah Khan",
+      "questions": [
+        { "q": "Bismillah Khan is associated with which instrument?", "options": ["Shehnai", "Sitar", "Guitar", "Piano"], "answer": "Shehnai" },
+        { "q": "He is celebrated for bringing the shehnai to:", "options": ["Classical concert stage", "Nursery rhymes", "Politics", "Soccer fields"], "answer": "Classical concert stage" },
+        { "q": "His music is known for:", "options": ["Devotion and simplicity", "Loud commercial jingles", "Silence", "Complex mathematics"], "answer": "Devotion and simplicity" },
+        { "q": "Bismillah Khan's nationality is:", "options": ["Indian", "American", "French", "Spanish"], "answer": "Indian" },
+        { "q": "The shehnai is a:", "options": ["Wind instrument", "String instrument", "Percussion", "Keyboard"], "answer": "Wind instrument" },
+        { "q": "He often performed at:", "options": ["Religious and national events", "Football matches", "Cooking shows", "Libraries"], "answer": "Religious and national events" },
+        { "q": "His life represents:", "options": ["Humility and dedication", "Greed", "Rebellion", "Isolation"], "answer": "Humility and dedication" },
+        { "q": "Which quality is frequently highlighted about him?", "options": ["Simplicity", "Wealth", "Anger", "Ego"], "answer": "Simplicity" },
+        { "q": "Bismillah Khan helped preserve:", "options": ["Cultural music traditions", "Mathematical proofs", "Scientific methods", "Industrial designs"], "answer": "Cultural music traditions" },
+        { "q": "His recognition was for:", "options": ["Musical excellence", "Political leadership", "Scientific invention", "Sports achievements"], "answer": "Musical excellence" }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Wind",
+      "questions": [
+        { "q": "What literary device is often used when describing wind as living or acting?", "options": ["Personification", "Metonymy", "Irony", "Alliteration"], "answer": "Personification" },
+        { "q": "Wind in poetry commonly symbolizes:", "options": ["Freedom and change", "Money", "Silence", "Darkness"], "answer": "Freedom and change" },
+        { "q": "Which sense is most directly evoked by wind poems?", "options": ["Touch and hearing", "Taste", "Sight only", "Smell only"], "answer": "Touch and hearing" },
+        { "q": "Wind’s movement is best described as:", "options": ["Fluid and invisible", "Solid and fixed", "Heavy and immobile", "Bright and loud"], "answer": "Fluid and invisible" },
+        { "q": "Short poems about wind typically use:", "options": ["Concise imagery", "Long narratives", "Mathematical terms", "Historical dates"], "answer": "Concise imagery" },
+        { "q": "Wind can represent which human emotion?", "options": ["Restlessness", "Greed", "Ignorance", "Indifference"], "answer": "Restlessness" },
+        { "q": "Poems about wind often rely on:", "options": ["Sound effects and rhythm", "Complex plots", "Dialogues", "Scientific data"], "answer": "Sound effects and rhythm" },
+        { "q": "Which is NOT typically associated with wind imagery?", "options": ["Stagnation", "Movement", "Change", "Energy"], "answer": "Stagnation" },
+        { "q": "Personifying wind makes it seem:", "options": ["Alive", "Static", "Invisible permanently", "Unimportant"], "answer": "Alive" },
+        { "q": "The mood in wind poems is usually:", "options": ["Energetic or reflective", "Mathematical", "Clinical", "Hostile only"], "answer": "Energetic or reflective" }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "The Little Girl",
+      "questions": [
+        { "q": "Who wrote 'The Little Girl'?", "options": ["Katherine Mansfield", "Ruskin Bond", "Mulk Raj Anand", "O. Henry"], "answer": "Katherine Mansfield" },
+        { "q": "The story is told mainly from the viewpoint of:", "options": ["A child", "A detective", "A teacher", "A soldier"], "answer": "A child" },
+        { "q": "A key theme is:", "options": ["Childhood perception of adult issues", "Space travel", "Cooking recipes", "Economic theory"], "answer": "Childhood perception of adult issues" },
+        { "q": "The girl notices mainly:", "options": ["Family tensions and small details", "Political events", "Weather patterns", "Sports scores"], "answer": "Family tensions and small details" },
+        { "q": "Katherine Mansfield's style is known for:", "options": ["Psychological insight and nuance", "Complex formulas", "Epic battles", "Long lists"], "answer": "Psychological insight and nuance" },
+        { "q": "The girl's reactions show:", "options": ["Sensitivity and innocence", "Indifference", "Aggression", "Arrogance"], "answer": "Sensitivity and innocence" },
+        { "q": "Which literary device reveals inner thoughts subtly?", "options": ["Free indirect discourse", "Algebra", "Map reading", "Cooking"], "answer": "Free indirect discourse" },
+        { "q": "The story’s mood can be described as:", "options": ["Quietly poignant", "Boisterous", "Heroic", "Satirical"], "answer": "Quietly poignant" },
+        { "q": "The narrative focuses on:", "options": ["Small domestic incidents", "Global politics", "Scientific experiments", "Sports"], "answer": "Small domestic incidents" },
+        { "q": "The tale ultimately evokes:", "options": ["Empathy for the child", "Fear of aliens", "Desire for wealth", "Joyful celebration"], "answer": "Empathy for the child" }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Rain on the Roof",
+      "questions": [
+        { "q": "What mood does 'Rain on the Roof' primarily create?", "options": ["Calm and nostalgic", "Excited and angry", "Frightening", "Boredom"], "answer": "Calm and nostalgic" },
+        { "q": "Which sound device is important in the poem?", "options": ["Onomatopoeia", "Algebra", "Simile", "Alliteration"], "answer": "Onomatopoeia" },
+        { "q": "Rain in the poem often triggers:", "options": ["Memories", "Mathematical proofs", "Sports", "Cooking"], "answer": "Memories" },
+        { "q": "The poem focuses on:", "options": ["Small, everyday sensations", "Historical events", "Scientific data", "Politics"], "answer": "Small, everyday sensations" },
+        { "q": "Which sense is chiefly appealed to?", "options": ["Hearing", "Taste", "Sight", "Smell"], "answer": "Hearing" },
+        { "q": "The roof’s sound gives a feeling of:", "options": ["Comfort", "Danger", "Chaos", "Hunger"], "answer": "Comfort" },
+        { "q": "A line that imitates sound is called:", "options": ["Onomatopoeia", "Metaphor", "Oxymoron", "Antonym"], "answer": "Onomatopoeia" },
+        { "q": "The poem's language is:", "options": ["Simple and evocative", "Technical", "Legal", "Scientific"], "answer": "Simple and evocative" },
+        { "q": "Rain’s recurring motif often suggests:", "options": ["Continuity and memory", "Sudden wealth", "Victory", "Silence only"], "answer": "Continuity and memory" },
+        { "q": "The tone of the poem is best described as:", "options": ["Reflective", "Hostile", "Triumphant", "Indifferent"], "answer": "Reflective" }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "A Truly Beautiful Mind",
+      "questions": [
+        { "q": "The piece praises what kind of mind?", "options": ["Original and thoughtful", "Greedy", "Lazy", "Hostile"], "answer": "Original and thoughtful" },
+        { "q": "Which trait is highlighted for a beautiful mind?", "options": ["Curiosity", "Indifference", "Ignorance", "Vanity"], "answer": "Curiosity" },
+        { "q": "The text most likely belongs to the genre:", "options": ["Biography/Essay", "Fictional fantasy", "Recipe", "Instruction manual"], "answer": "Biography/Essay" },
+        { "q": "A beautiful mind combines creativity with:", "options": ["Method and discipline", "Noise", "Confusion", "Sloth"], "answer": "Method and discipline" },
+        { "q": "The passage aims to:", "options": ["Inspire admiration for thinkers", "Teach cooking", "Describe fashion", "Explain sports rules"], "answer": "Inspire admiration for thinkers" },
+        { "q": "The word 'originality' mainly means:", "options": ["Novel thinking", "Copying", "Repeating", "Forgetting"], "answer": "Novel thinking" },
+        { "q": "Which is NOT a quality of a beautiful mind according to the passage?", "options": ["Apathy", "Insight", "Imagination", "Discipline"], "answer": "Apathy" },
+        { "q": "Such essays often use examples from:", "options": ["Famous thinkers", "Cookbooks", "Advertisements", "Television schedules"], "answer": "Famous thinkers" },
+        { "q": "The tone of the piece is:", "options": ["Admiring", "Mocking", "Indifferent", "Hostile"], "answer": "Admiring" },
+        { "q": "A key takeaway: true intelligence values:", "options": ["Understanding and empathy", "Isolation only", "Material success only", "Noise"], "answer": "Understanding and empathy" }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "The Lake Isle of Innisfree",
+      "questions": [
+        { "q": "Who wrote 'The Lake Isle of Innisfree'?", "options": ["W.B. Yeats", "Robert Frost", "William Wordsworth", "Katherine Mansfield"], "answer": "W.B. Yeats" },
+        { "q": "The poet desires to live in:", "options": ["A peaceful island", "A city skyscraper", "A desert", "A spaceship"], "answer": "A peaceful island" },
+        { "q": "Which image does NOT appear in the poem?", "options": ["Bee-loud glade", "Cabin of clay and wattles", "Busy railway station", "Midnight's all a-glow"], "answer": "Busy railway station" },
+        { "q": "The dominant mood of the poem is:", "options": ["Longing for peace", "Anger", "Fear", "Confusion"], "answer": "Longing for peace" },
+        { "q": "The poet’s retreat symbolizes:", "options": ["Escape from urban life", "Winning a race", "Anger at friends", "Hunger"], "answer": "Escape from urban life" },
+        { "q": "Which device is used when the poet addresses the island directly?", "options": ["Apostrophe", "Simile", "Pun", "Irony"], "answer": "Apostrophe" },
+        { "q": "The poet imagines building:", "options": ["A small cabin", "A large palace", "A school", "A factory"], "answer": "A small cabin" },
+        { "q": "The phrase 'bee-loud glade' appeals to:", "options": ["Hearing sense", "Taste", "Touch", "Smell"], "answer": "Hearing sense" },
+        { "q": "The poem contrasts city noise with:", "options": ["Natural quiet of island", "More traffic", "Loud factories", "No difference"], "answer": "Natural quiet of island" },
+        { "q": "Overall, the poem celebrates:", "options": ["Solitude and communion with nature", "Competition", "Material wealth", "Argument"], "answer": "Solitude and communion with nature" }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "The Snake and the Mirror",
+      "questions": [
+        { "q": "Who wrote 'The Snake and the Mirror'?", "options": ["Vaikom Muhammad Basheer", "Ruskin Bond", "Oscar Wilde", "Anton Chekhov"], "answer": "Vaikom Muhammad Basheer" },
+        { "q": "The story’s central incident involves:", "options": ["A snake and a mirror", "A lost child", "A missing letter", "A storm"], "answer": "A snake and a mirror" },
+        { "q": "The narrator's reaction to the snake is mainly:", "options": ["Panic and humour", "Joyful dancing", "Indifference", "Anger"], "answer": "Panic and humour" },
+        { "q": "Which theme is prominent?", "options": ["Human fear and bravado", "Space travel", "Economic policy", "Cooking"], "answer": "Human fear and bravado" },
+        { "q": "The mirror adds to the story by:", "options": ["Doubling the comic effect", "Making it serious", "Changing setting", "Bringing a friend"], "answer": "Doubling the comic effect" },
+        { "q": "Basheer’s style is known for:", "options": ["Colloquial humour and simplicity", "Complex legal language", "Technical jargon", "Epic grandeur"], "answer": "Colloquial humour and simplicity" },
+        { "q": "The tone of the story can be described as:", "options": ["Witty and ironic", "Solemn", "Tragic", "Romantic"], "answer": "Witty and ironic" },
+        { "q": "The story primarily explores:", "options": ["Human reactions to unexpected events", "Scientific theories", "Political campaigns", "Sporting events"], "answer": "Human reactions to unexpected events" },
+        { "q": "An appropriate moral might be about:", "options": ["Facing fears with humour", "Avoiding travel", "Learning algebra", "Saving money"], "answer": "Facing fears with humour" },
+        { "q": "The setting of the story is mostly:", "options": ["Domestic (home)", "On a mountain", "In a school", "In space"], "answer": "Domestic (home)" }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "A Legend of the Northland",
+      "questions": [
+        { "q": "What type of tale is 'A Legend of the Northland'?", "options": ["Fable/legend", "Biography", "Scientific paper", "News report"], "answer": "Fable/legend" },
+        { "q": "The story primarily teaches about:", "options": ["Greed and its consequences", "Mathematics", "Modern technology", "Sportsmanship"], "answer": "Greed and its consequences" },
+        { "q": "Legends usually explain:", "options": ["Cultural beliefs or morals", "Cooking recipes", "Financial audits", "Physics laws"], "answer": "Cultural beliefs or morals" },
+        { "q": "The tone of the poem is:", "options": ["Moral and narrative", "Scientific", "Legal", "Medical"], "answer": "Moral and narrative" },
+        { "q": "Which device is common in legends?", "options": ["Repetition for emphasis", "Algebra", "Software code", "Charts"], "answer": "Repetition for emphasis" },
+        { "q": "A key character trait criticised is:", "options": ["Selfishness", "Kindness", "Bravery", "Generosity"], "answer": "Selfishness" },
+        { "q": "The poem ends with:", "options": ["A moral lesson", "A mathematical proof", "A recipe", "A weather forecast"], "answer": "A moral lesson" },
+        { "q": "Legends often use simple language to:", "options": ["Make the moral clear", "Confuse readers", "Hide facts", "Announce events"], "answer": "Make the moral clear" },
+        { "q": "Who benefits in the tale when generosity is shown?", "options": ["Community at large", "Only the rich", "No one", "Animals only"], "answer": "Community at large" },
+        { "q": "The poem's setting is best described as:", "options": ["Timeless and mythical", "A specific city", "A laboratory", "A courtroom"], "answer": "Timeless and mythical" }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "My Childhood",
+      "questions": [
+        { "q": "Who wrote 'My Childhood' (as given in Beehive)?", "options": ["A.P.J. Abdul Kalam", "Mulk Raj Anand", "Ruskin Bond", "O. Henry"], "answer": "A.P.J. Abdul Kalam" },
+        { "q": "The passage is mainly:", "options": ["Autobiographical", "Fictional fantasy", "Scientific report", "Recipe"], "answer": "Autobiographical" },
+        { "q": "Which theme is central to the piece?", "options": ["Formative experiences shaping character", "Space exploration only", "Sports rules", "Cooking techniques"], "answer": "Formative experiences shaping character" },
+        { "q": "The author emphasizes:", "options": ["Hard work and values learned early", "Only luck", "Hate for learning", "Desire to be famous"], "answer": "Hard work and values learned early" },
+        { "q": "Childhood memories often inspire:", "options": ["Ambition and perseverance", "Indifference to life", "Violence", "Hoarding"], "answer": "Ambition and perseverance" },
+        { "q": "A.P.J. Abdul Kalam later became famous as a:", "options": ["Scientist and President", "Singer", "Cricketer", "Painter"], "answer": "Scientist and President" },
+        { "q": "The tone of the passage is:", "options": ["Fond and reflective", "Bitter", "Aggressive", "Detached"], "answer": "Fond and reflective" },
+        { "q": "Narratives about childhood often highlight:", "options": ["Key influences like family and teachers", "Only numbers", "Traffic signals", "Trade routes"], "answer": "Key influences like family and teachers" },
+        { "q": "The author’s early environment contributed to:", "options": ["His values and goals", "Only leisure", "Ignoring education", "Instant wealth"], "answer": "His values and goals" },
+        { "q": "Autobiographical writing aims to:", "options": ["Share personal insights and lessons", "Hide facts", "Promote products", "Teach algebra"], "answer": "Share personal insights and lessons" }
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "No Men Are Foreign",
+      "questions": [
+        { "q": "What is the central message of 'No Men Are Foreign'?", "options": ["Human solidarity across nations", "Sportsmanship", "Economic planning", "Scientific method"], "answer": "Human solidarity across nations" },
+        { "q": "Which value does the poem promote?", "options": ["Empathy", "Greed", "Violence", "Isolation"], "answer": "Empathy" },
+        { "q": "The poem argues that national differences are:", "options": ["Superficial", "Fundamental", "Unchangeable", "Desirable always"], "answer": "Superficial" },
+        { "q": "Line of unity often mentioned includes shared:", "options": ["Human needs and feelings", "Currency only", "Only laws", "Weather patterns"], "answer": "Human needs and feelings" },
+        { "q": "Poems promoting peace typically use which tone?", "options": ["Appealing and persuasive", "Aggressive", "Mocking", "Scientific"], "answer": "Appealing and persuasive" },
+        { "q": "Which device is used to stress common humanity?", "options": ["Repetition and generalisation", "Graphs", "Footnotes", "Equations"], "answer": "Repetition and generalisation" },
+        { "q": "The poem can be classified as:", "options": ["Didactic (teaching a moral)", "Technical manual", "Cooking recipe", "News article"], "answer": "Didactic (teaching a moral)" },
+        { "q": "The poet's appeal is directed to:", "options": ["All people", "Only scientists", "Only athletes", "Only children"], "answer": "All people" },
+        { "q": "A likely recommended behaviour in the poem is to:", "options": ["Treat others as brothers", "Hoard resources", "Ignore others", "Fight always"], "answer": "Treat others as brothers" },
+        { "q": "The poem is useful for teaching:", "options": ["Values of peace and empathy", "Advanced calculus", "Car mechanics", "Cooking skills"], "answer": "Values of peace and empathy" }
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Reach for the Top — I. Santosh Yadav",
+      "questions": [
+        { "q": "Santosh Yadav is famous as a:", "options": ["Mountaineer", "Painter", "Singer", "Politician"], "answer": "Mountaineer" },
+        { "q": "Her achievement inspires students to:", "options": ["Aim high and persevere", "Avoid effort", "Fear travel", "Reject nature"], "answer": "Aim high and persevere" },
+        { "q": "Which quality is essential for mountaineering?", "options": ["Endurance", "Laziness", "Ignorance", "Indifference"], "answer": "Endurance" },
+        { "q": "Santosh Yadav overcame:", "options": ["Social and physical challenges", "Mathematical problems only", "Cooking tests", "Weather apps"], "answer": "Social and physical challenges" },
+        { "q": "Her story is an example of:", "options": ["Female achievement and courage", "Only luck", "Wealth", "Isolation"], "answer": "Female achievement and courage" },
+        { "q": "Mountaineering requires:", "options": ["Teamwork and training", "Only money", "No preparation", "Only talent"], "answer": "Teamwork and training" },
+        { "q": "She represents breaking:", "options": ["Stereotypes", "Laws", "Trees", "Records only"], "answer": "Stereotypes" },
+        { "q": "Her success was due to:", "options": ["Discipline and hard work", "Avoiding practice", "Cheating", "Sleeping only"], "answer": "Discipline and hard work" },
+        { "q": "A key lesson from her life is:", "options": ["Perseverance yields results", "Ignore health", "Avoid friends", "Never learn"], "answer": "Perseverance yields results" },
+        { "q": "Which environment did she conquer?", "options": ["High mountains", "Desert", "Ocean", "City skyscrapers"], "answer": "High mountains" }
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "Reach for the Top — II. Maria Sharapova",
+      "questions": [
+        { "q": "Maria Sharapova is best known as a:", "options": ["Tennis player", "Chef", "Scientist", "Actor"], "answer": "Tennis player" },
+        { "q": "Her success required:", "options": ["Rigorous training", "No practice", "Only luck", "Lazy habits"], "answer": "Rigorous training" },
+        { "q": "Which quality is highlighted in her profile?", "options": ["Determination", "Indifference", "Cowardice", "Sloth"], "answer": "Determination" },
+        { "q": "She faced setbacks but:", "options": ["Returned stronger", "Gave up", "Became reclusive", "Ignored sport"], "answer": "Returned stronger" },
+        { "q": "This profile teaches students about:", "options": ["Hard work and resilience", "Only money", "Political strategies", "Driving"], "answer": "Hard work and resilience" },
+        { "q": "Professional athletes must balance:", "options": ["Training and rest", "Only studies", "Only sleep", "Only watching TV"], "answer": "Training and rest" },
+        { "q": "Her career shows importance of:", "options": ["Mental toughness", "Avoiding practice", "Isolation", "Ignoring coaches"], "answer": "Mental toughness" },
+        { "q": "Sports biographies often emphasise:", "options": ["Struggles, discipline, and success", "Only trophies", "Shopping lists", "Weather"], "answer": "Struggles, discipline, and success" },
+        { "q": "Which is a likely sacrifice mentioned?", "options": ["Personal time and comfort", "Eating junk food daily", "Never training", "Ignoring rules"], "answer": "Personal time and comfort" },
+        { "q": "The overall message of the piece is:", "options": ["Hard work leads to achievement", "Avoid effort", "Seek shortcuts", "Ignore health"], "answer": "Hard work leads to achievement" }
+      ]
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "On Killing a Tree",
+      "questions": [
+        { "q": "The poem 'On Killing a Tree' primarily protests against:", "options": ["Destruction of nature", "City life", "Education", "Sports"], "answer": "Destruction of nature" },
+        { "q": "The poet compares killing a tree to:", "options": ["A slow, violent process", "A quick task", "A game", "A shopping trip"], "answer": "A slow, violent process" },
+        { "q": "Which feature of the poem is dominant?", "options": ["Graphic imagery", "Comic dialogue", "Recipe steps", "Mathematical formulas"], "answer": "Graphic imagery" },
+        { "q": "The poem’s tone is:", "options": ["Angry and condemning", "Joyful", "Indifferent", "Playful"], "answer": "Angry and condemning" },
+        { "q": "Killing a tree requires attacking its:", "options": ["Roots and core", "Leaves only", "Fruits only", "Flowers only"], "answer": "Roots and core" },
+        { "q": "The central idea is:", "options": ["Respect for nature’s resilience", "Value of speed", "Importance of money", "Fashion tips"], "answer": "Respect for nature’s resilience" },
+        { "q": "The poem is an example of:", "options": ["Protest poetry", "Romantic comedy", "Technical manual", "Travelogue"], "answer": "Protest poetry" },
+        { "q": "The poet asks readers to:", "options": ["Stop destroying trees", "Plant fewer trees", "Cut trees faster", "Ignore nature"], "answer": "Stop destroying trees" },
+        { "q": "Which device enhances the violent imagery?", "options": ["Graphic verbs and metaphors", "Statistics", "Charts", "Timelines"], "answer": "Graphic verbs and metaphors" },
+        { "q": "The poem’s strong emotions aim to:", "options": ["Shock and awaken conscience", "Entertain with jokes", "Confuse the reader", "Teach math"], "answer": "Shock and awaken conscience" }
+      ]
+    },
+    {
+      "chapter_number": 17,
+      "chapter_title": "Kathmandu",
+      "questions": [
+        { "q": "Who wrote 'Kathmandu' in Beehive?", "options": ["Vikram Seth", "Ruskin Bond", "Katherine Mansfield", "W.B. Yeats"], "answer": "Vikram Seth" },
+        { "q": "The poem gives a portrait of:", "options": ["A city and its people", "A mountain only", "A desert only", "A spaceship"], "answer": "A city and its people" },
+        { "q": "The tone of the poem is often:", "options": ["Affectionate and humorous", "Hostile", "Scientific", "Strictly formal"], "answer": "Affectionate and humorous" },
+        { "q": "Local colour in the poem means:", "options": ["Distinctive local details", "Foreign policies", "Mathematical graphs", "Sports rules"], "answer": "Distinctive local details" },
+        { "q": "Vikram Seth’s writing often shows:", "options": ["Wit and observation", "Recipe steps", "Algebraic proofs", "Traffic rules"], "answer": "Wit and observation" },
+        { "q": "The poem’s details help create:", "options": ["Vivid imagery of place", "Economic models", "Chemical equations", "Blueprints"], "answer": "Vivid imagery of place" },
+        { "q": "Which is a likely device used in the poem?", "options": ["Simile and description", "Calculus", "Binary code", "Legalese"], "answer": "Simile and description" },
+        { "q": "The poet’s attitude to the city is:", "options": ["Warm and amused", "Hateful", "Indifferent", "Hostile"], "answer": "Warm and amused" },
+        { "q": "Travel poems often mix observation with:", "options": ["Personal impression", "Only numbers", "Only recipes", "Only laws"], "answer": "Personal impression" },
+        { "q": "The poem’s charm lies in its:", "options": ["Specific small details", "Long scientific tables", "Mathematical derivations", "Recipes"], "answer": "Specific small details" }
+      ]
+    },
+    {
+      "chapter_number": 18,
+      "chapter_title": "A Slumber Did My Spirit Seal",
+      "questions": [
+        { "q": "Who wrote 'A Slumber Did My Spirit Seal'?", "options": ["William Wordsworth", "Robert Frost", "W.B. Yeats", "Katherine Mansfield"], "answer": "William Wordsworth" },
+        { "q": "The poem deals with:", "options": ["Death and peaceful rest", "Adventure", "War", "Travel"], "answer": "Death and peaceful rest" },
+        { "q": "The phrase 'slumber' most nearly means:", "options": ["Sleep or rest", "Noise", "Conflict", "Hunger"], "answer": "Sleep or rest" },
+        { "q": "The tone of the poem is:", "options": ["Solemn and calm", "Boisterous", "Comedic", "Angry"], "answer": "Solemn and calm" },
+        { "q": "The poet reflects upon:", "options": ["A loved one who has died", "A party", "A football match", "A market"], "answer": "A loved one who has died" },
+        { "q": "The poem is an example of an:", "options": ["Elegy", "Epic", "Manual", "Recipe"], "answer": "Elegy" },
+        { "q": "The spirit is described as sealed from:", "options": ["Worldly changes", "Sunlight only", "Maths", "Music"], "answer": "Worldly changes" },
+        { "q": "Wordsworth’s poetry often focuses on:", "options": ["Nature and inner feeling", "Technology only", "Politics", "Shopping"], "answer": "Nature and inner feeling" },
+        { "q": "The poem’s brevity contributes to its:", "options": ["Intensity and quietness", "Confusion", "Loudness", "Comedy"], "answer": "Intensity and quietness" },
+        { "q": "A reader of the poem feels:", "options": ["Peaceful resignation", "Excitement", "Confusion", "Anger"], "answer": "Peaceful resignation" }
+      ]
+    },
+    {
+      "chapter_number": 19,
+      "chapter_title": "If I Were You",
+      "questions": [
+        { "q": "The narrator imagines being:", "options": ["Someone else to explore different perspectives", "A king only", "A tree", "A machine"], "answer": "Someone else to explore different perspectives" },
+        { "q": "Which quality does the piece emphasise?", "options": ["Empathy", "Violence", "Indifference", "Hunger"], "answer": "Empathy" },
+        { "q": "The tone of the piece is:", "options": ["Humorous and thoughtful", "Hateful", "Scientific", "Clinical"], "answer": "Humorous and thoughtful" },
+        { "q": "The narrative encourages readers to:", "options": ["See life from another's point of view", "Ignore others", "Fight", "Compete only"], "answer": "See life from another's point of view" },
+        { "q": "The writing mainly uses:", "options": ["Imagined scenarios", "Charts", "Equations", "Recipes"], "answer": "Imagined scenarios" },
+        { "q": "Which is NOT a focus of the piece?", "options": ["Detailed statistical analysis", "Personality quirks", "Everyday choices", "Role reversal"], "answer": "Detailed statistical analysis" },
+        { "q": "The piece teaches about:", "options": ["Understanding and tolerance", "Only wealth", "Only sports", "Only geography"], "answer": "Understanding and tolerance" },
+        { "q": "Humour in the text serves to:", "options": ["Make lessons accessible", "Confuse readers", "Hide facts", "Annoy readers"], "answer": "Make lessons accessible" },
+        { "q": "The narrator’s imagination highlights:", "options": ["The small things that make a person unique", "Only global politics", "Scientific laws", "Cooking tips"], "answer": "The small things that make a person unique" },
+        { "q": "The final effect is to foster:", "options": ["Empathy and self-awareness", "Hostility", "Ignorance", "Rudeness"], "answer": "Empathy and self-awareness" }
+      ]
+    },
+    {
+      "chapter_number": 20,
+      "chapter_title": "The Lost Child",
+      "questions": [
+        { "q": "Who wrote 'The Lost Child'?", "options": ["Mulk Raj Anand", "Ruskin Bond", "O. Henry", "Anton Chekhov"], "answer": "Mulk Raj Anand" },
+        { "q": "Where does the child get lost?", "options": ["At a fair", "In a forest", "At school", "In a market"], "answer": "At a fair" },
+        { "q": "What does the child long for when lost?", "options": ["His parents", "Toys only", "Food only", "Money"], "answer": "His parents" },
+        { "q": "The story shows the child’s priorities as:", "options": ["Emotional attachment over material things", "Only material things", "Only games", "Only food"], "answer": "Emotional attachment over material things" },
+        { "q": "Who helps the child in the story?", "options": ["A kind stranger/policeman", "No one", "A magician", "A soldier"], "answer": "A kind stranger/policeman" },
+        { "q": "The main emotion evoked is:", "options": ["Anxiety and relief", "Boredom", "Joy only", "Anger only"], "answer": "Anxiety and relief" },
+        { "q": "The author’s style is:", "options": ["Simple and touching", "Technical", "Mocking", "Complex legalese"], "answer": "Simple and touching" },
+        { "q": "The child forgets toys when he sees:", "options": ["His parents", "A snake", "A TV", "A car"], "answer": "His parents" },
+        { "q": "The theme emphasises:", "options": ["Parental love and child vulnerability", "Only adventure", "Only travel", "Only history"], "answer": "Parental love and child vulnerability" },
+        { "q": "The story ends with:", "options": ["Reunion and relief", "Tragedy", "A mystery", "A fight"], "answer": "Reunion and relief" }
+      ]
+    },
+    {
+      "chapter_number": 21,
+      "chapter_title": "The Adventures of Toto",
+      "questions": [
+        { "q": "Who is Toto?", "options": ["A pet monkey", "A dog", "A cat", "A parrot"], "answer": "A pet monkey" },
+        { "q": "The story mainly provides:", "options": ["Humour and charm", "Scientific facts", "Political commentary", "Math formulas"], "answer": "Humour and charm" },
+        { "q": "Toto’s behaviour is best described as:", "options": ["Mischievous", "Calm", "Lazy", "Dull"], "answer": "Mischievous" },
+        { "q": "The family's reaction to Toto is often:", "options": ["Amused and exasperated", "Indifferent", "Hostile", "Fearful only"], "answer": "Amused and exasperated" },
+        { "q": "Ruskin Bond’s stories are known for:", "options": ["Simple, evocative portrayal of everyday life", "Technical language", "Legal jargon", "Scientific complexity"], "answer": "Simple, evocative portrayal of everyday life" },
+        { "q": "Toto causes trouble by:", "options": ["Mimicking and mischief", "Studying", "Cooking", "Sleeping"], "answer": "Mimicking and mischief" },
+        { "q": "The story highlights human-animal:", "options": ["Bond and unpredictability", "Dislike only", "Hatred", "Technical partnership"], "answer": "Bond and unpredictability" },
+        { "q": "An authorial technique used is:", "options": ["Anecdotal narration", "Complex diagrams", "Mathematical proofs", "Legal notices"], "answer": "Anecdotal narration" },
+        { "q": "The tone of the tale is:", "options": ["Light-hearted", "Solemn", "Tragic", "Scientific"], "answer": "Light-hearted" },
+        { "q": "Readers feel towards Toto mostly:", "options": ["Affection", "Indifference", "Fear", "Annoyance only"], "answer": "Affection" }
+      ]
+    },
+    {
+      "chapter_number": 22,
+      "chapter_title": "Iswaran the Storyteller",
+      "questions": [
+        { "q": "Iswaran is known for:", "options": ["Telling entertaining stories", "Solving math problems", "Building machines", "Cooking"], "answer": "Telling entertaining stories" },
+        { "q": "The stories of Iswaran often mix:", "options": ["Fact and fiction", "Only data", "Only songs", "Only recipes"], "answer": "Fact and fiction" },
+        { "q": "The narrator describes Iswaran as:", "options": ["Witty and popular", "Sad only", "Scary only", "Silent"], "answer": "Witty and popular" },
+        { "q": "Oral storytelling creates:", "options": ["Shared community entertainment", "Statistical reports", "Only research papers", "Recipes"], "answer": "Shared community entertainment" },
+        { "q": "Iswaran’s tales are meant to:", "options": ["Amuse and instruct", "Bore", "Confuse", "Announce laws"], "answer": "Amuse and instruct" },
+        { "q": "The style of narration is mostly:", "options": ["Colloquial and anecdotal", "Legal and formal", "Scientific", "Technical"], "answer": "Colloquial and anecdotal" },
+        { "q": "Which quality defines Iswaran’s storytelling?", "options": ["Imagination", "Mathematical skill", "Architectural design", "Only silence"], "answer": "Imagination" },
+        { "q": "A listener’s reaction is usually:", "options": ["Delight and surprise", "Boredom", "Anger", "Fear"], "answer": "Delight and surprise" },
+        { "q": "Iswaran’s tales reflect:", "options": ["Local culture and humour", "Only foreign laws", "Scientific theories", "Economic models"], "answer": "Local culture and humour" },
+        { "q": "Overall, the story celebrates:", "options": ["Power of oral tradition", "Only modern media", "Only technology", "Only sport"], "answer": "Power of oral tradition" }
+      ]
+    },
+    {
+      "chapter_number": 23,
+      "chapter_title": "In the Kingdom of Fools",
+      "questions": [
+        { "q": "The Kingdom of Fools is a tale that satirises:", "options": ["Absurd decisions and foolish leadership", "Mathematics", "Science only", "Athletics"], "answer": "Absurd decisions and foolish leadership" },
+        { "q": "A common element in folktales is:", "options": ["A moral lesson", "Charts", "Graphs", "Complex formulas"], "answer": "A moral lesson" },
+        { "q": "The clever character usually:", "options": ["Exposes folly and restores sense", "Joins the foolishness", "Writes poems", "Builds machines"], "answer": "Exposes folly and restores sense" },
+        { "q": "Satire works by:", "options": ["Using humour to criticize", "Hiding facts", "Teaching cooking", "Announcing sales"], "answer": "Using humour to criticize" },
+        { "q": "The kingdom’s decisions are often:", "options": ["Irrational", "Logical", "Mathematical", "Scientific"], "answer": "Irrational" },
+        { "q": "A likely moral is to value:", "options": ["Common sense and prudence", "Only fashion", "Only money", "Only bravado"], "answer": "Common sense and prudence" },
+        { "q": "Folktales are usually passed down:", "options": ["Orally", "Only in labs", "Only by mail", "Only in textbooks"], "answer": "Orally" },
+        { "q": "Which device is often used in such tales?", "options": ["Exaggeration for comic effect", "Calculations", "Specifications", "Blueprints"], "answer": "Exaggeration for comic effect" },
+        { "q": "The story teaches rulers to avoid:", "options": ["Foolish decrees", "Good governance", "Helping citizens", "Learning"], "answer": "Foolish decrees" },
+        { "q": "Readers take away lessons about:", "options": ["Prudence and wisdom", "Only entertainment", "Only sports", "Only weather"], "answer": "Prudence and wisdom" }
+      ]
+    },
+    {
+      "chapter_number": 24,
+      "chapter_title": "The Happy Prince",
+      "questions": [
+        { "q": "Who wrote 'The Happy Prince'?", "options": ["Oscar Wilde", "Robert Frost", "Ruskin Bond", "Anton Chekhov"], "answer": "Oscar Wilde" },
+        { "q": "The main characters are the Prince and a:", "options": ["Swallow", "Dog", "Cat", "Horse"], "answer": "Swallow" },
+        { "q": "What do they do to help the poor?", "options": ["Give away the Prince’s riches", "Sue them", "Ignore them", "Charge them fees"], "answer": "Give away the Prince’s riches" },
+        { "q": "The story criticises:", "options": ["Social apathy and inequality", "Cooking", "Sports", "Weather"], "answer": "Social apathy and inequality" },
+        { "q": "The swallow sacrifices himself by:", "options": ["Freezing to death while helping", "Eating too much", "Flying away", "Hiding"], "answer": "Freezing to death while helping" },
+        { "q": "The statue’s heart symbolizes:", "options": ["Compassion and love", "Wealth only", "Ignorance", "Power"], "answer": "Compassion and love" },
+        { "q": "Oscar Wilde uses fantasy to:", "options": ["Teach moral lessons", "Describe recipes", "Explain physics", "Report news"], "answer": "Teach moral lessons" },
+        { "q": "The story ends with the prince and swallow being:", "options": ["Rejected by the city but welcomed in heaven", "Celebrated as heroes by all", "Forgotten forever", "Awarded money"], "answer": "Rejected by the city but welcomed in heaven" },
+        { "q": "The tone of the tale is:", "options": ["Melancholic and compassionate", "Triumphant and boastful", "Technical", "Humorous only"], "answer": "Melancholic and compassionate" },
+        { "q": "A central lesson is:", "options": ["True beauty lies in selfless love", "Wealth is everything", "Power solves all problems", "Violence is best"], "answer": "True beauty lies in selfless love" }
+      ]
+    },
+    {
+      "chapter_number": 25,
+      "chapter_title": "Weathering the Storm in Ersama",
+      "questions": [
+        { "q": "Who wrote 'Weathering the Storm in Ersama'?", "options": ["Harsh Mander", "Ruskin Bond", "A.P.J. Abdul Kalam", "O. Henry"], "answer": "Harsh Mander" },
+        { "q": "The piece is an account of:", "options": ["A cyclone and community response", "A wedding", "A festival", "A competition"], "answer": "A cyclone and community response" },
+        { "q": "A major theme is:", "options": ["Community resilience and solidarity", "Only cooking", "Only sports", "Only shopping"], "answer": "Community resilience and solidarity" },
+        { "q": "Resilience means:", "options": ["Ability to recover from hardship", "To give up easily", "To ignore others", "To compete only"], "answer": "Ability to recover from hardship" },
+        { "q": "The author emphasises the role of:", "options": ["Local communities in relief", "Only government", "Only technology", "Only TV"], "answer": "Local communities in relief" },
+        { "q": "First-person accounts help readers feel:", "options": ["Personal impact and empathy", "Only numbers", "Only maps", "Only laws"], "answer": "Personal impact and empathy" },
+        { "q": "The narrative praises:", "options": ["Courage and mutual help", "Selfishness", "Greed", "Chaos"], "answer": "Courage and mutual help" },
+        { "q": "Disaster response requires:", "options": ["Preparedness and solidarity", "Only money", "Only TV coverage", "Only gadgets"], "answer": "Preparedness and solidarity" },
+        { "q": "The piece calls for attention to:", "options": ["Human stories behind statistics", "Only satellite images", "Only maps", "Only weather reports"], "answer": "Human stories behind statistics" },
+        { "q": "A lesson from the text is:", "options": ["Collective action saves lives", "Ignore neighbours", "Hoard supplies only", "Avoid helping"], "answer": "Collective action saves lives" }
+      ]
+    },
+    {
+      "chapter_number": 26,
+      "chapter_title": "The Last Leaf",
+      "questions": [
+        { "q": "Who wrote 'The Last Leaf'?", "options": ["O. Henry", "Ruskin Bond", "Mulk Raj Anand", "Oscar Wilde"], "answer": "O. Henry" },
+        { "q": "Why does the old artist paint the leaf?", "options": ["To give hope to a sick girl", "To sell it", "To gain fame", "To decorate his house"], "answer": "To give hope to a sick girl" },
+        { "q": "The sick girl believes she will die when:", "options": ["The last leaf falls", "She loses her toy", "It rains", "A star falls"], "answer": "The last leaf falls" },
+        { "q": "The artist sacrifices himself by:", "options": ["Exposing himself to the cold to paint", "Starving", "Leaving town", "Selling his house"], "answer": "Exposing himself to the cold to paint" },
+        { "q": "The story highlights the power of:", "options": ["Hope and selfless action", "Only money", "Only fame", "Only anger"], "answer": "Hope and selfless action" },
+        { "q": "The painted leaf symbolizes:", "options": ["Enduring hope", "Greed", "Noise", "Profit"], "answer": "Enduring hope" },
+        { "q": "Which mood pervades the story?", "options": ["Compassionate and poignant", "Triumphant only", "Comedic only", "Hostile"], "answer": "Compassionate and poignant" },
+        { "q": "O. Henry is famous for:", "options": ["Twist endings and human stories", "Scientific treatises", "Cookbooks", "Legal codes"], "answer": "Twist endings and human stories" },
+        { "q": "The story’s climax occurs when:", "options": ["The leaf stays on and the girl recovers", "A storm destroys the city", "A wedding happens", "A bank opens"], "answer": "The leaf stays on and the girl recovers" },
+        { "q": "A moral from the tale is:", "options": ["Small acts of kindness can save lives", "Only money matters", "Power is everything", "Ignore suffering"], "answer": "Small acts of kindness can save lives" }
+      ]
+    },
+    {
+      "chapter_number": 27,
+      "chapter_title": "A House Is Not a Home",
+      "questions": [
+        { "q": "The central idea is that a house becomes a home through:", "options": ["Love and memories", "Paint and furniture", "Only location", "Currency"], "answer": "Love and memories" },
+        { "q": "The piece mainly explores:", "options": ["Loneliness and belonging", "Cooking", "Mathematics", "Sports"], "answer": "Loneliness and belonging" },
+        { "q": "Which feeling is prominent in the text?", "options": ["Pathos (sadness)", "Joy only", "Anger only", "Comedy only"], "answer": "Pathos (sadness)" },
+        { "q": "Home is associated with:", "options": ["Relationships, not just structure", "Only bricks", "Only doors", "Only windows"], "answer": "Relationships, not just structure" },
+        { "q": "The author’s tone is:", "options": ["Reflective and melancholic", "Boisterous", "Humorous only", "Technical"], "answer": "Reflective and melancholic" },
+        { "q": "The essay suggests that empty houses can evoke:", "options": ["Loneliness", "Celebration", "Noise only", "Confusion only"], "answer": "Loneliness" },
+        { "q": "Which device is used to express feelings about home?", "options": ["Metaphor and imagery", "Graphs", "Formulas", "Maps"], "answer": "Metaphor and imagery" },
+        { "q": "A line in the text might compare a house to:", "options": ["An empty shell", "A fast car", "A computer", "A phone"], "answer": "An empty shell" },
+        { "q": "The piece encourages readers to value:", "options": ["Emotional bonds", "Only money", "Only fame", "Only possessions"], "answer": "Emotional bonds" },
+        { "q": "Ultimately, a home is where you find:", "options": ["Belonging and warmth", "Only clutter", "Only silence", "Only work"], "answer": "Belonging and warmth" }
+      ]
+    },
+    {
+      "chapter_number": 28,
+      "chapter_title": "The Beggar",
+      "questions": [
+        { "q": "Who wrote 'The Beggar'?", "options": ["Anton Chekhov", "Mulk Raj Anand", "Ruskin Bond", "O. Henry"], "answer": "Anton Chekhov" },
+        { "q": "The story explores themes of:", "options": ["Human dignity and compassion", "Only travel", "Only maths", "Only weather"], "answer": "Human dignity and compassion" },
+        { "q": "A beggar in the story evokes:", "options": ["Sympathy and moral reflection", "Fear only", "Joy only", "Confusion only"], "answer": "Sympathy and moral reflection" },
+        { "q": "Chekhov’s style is often:", "options": ["Subtle and realistic", "Bombastic", "Technical", "Mythical"], "answer": "Subtle and realistic" },
+        { "q": "The behaviour of other characters often shows:", "options": ["Social attitudes toward poverty", "Ignorance of music", "Interest in sports", "Love for fashion"], "answer": "Social attitudes toward poverty" },
+        { "q": "Which response is morally preferable in the story?", "options": ["Compassionate help", "Indifference", "Mockery", "Punishment"], "answer": "Compassionate help" },
+        { "q": "The story prompts readers to think about:", "options": ["Their own attitudes to the poor", "Only maps", "Only recipes", "Only politics"], "answer": "Their own attitudes to the poor" },
+        { "q": "Chekhov often focuses on:", "options": ["Ordinary lives and ethical dilemmas", "Technical manuals", "Sporting events", "Scientific labs"], "answer": "Ordinary lives and ethical dilemmas" },
+        { "q": "A key literary device used is:", "options": ["Realistic detail and irony", "Algebra", "Blueprints", "Charts"], "answer": "Realistic detail and irony" },
+        { "q": "The expected response from readers is:", "options": ["Reflection and empathy", "Excitement only", "Indifference only", "Confusion only"], "answer": "Reflection and empathy" }
+      ]
+    }
+  ]
+}

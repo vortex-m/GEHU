@@ -1,0 +1,37 @@
+{
+  "filename": "iemh105.pdf",
+  "title": "Introduction to Euclid’s Geometry",
+  "source": ":contentReference[oaicite:2]{index=2}",
+  "chapters": [
+    {
+      "chapter": "5.1 History & Origin of Geometry",
+      "summary": "This section explains how geometry began as a practical need in ancient civilisations such as Egypt, Babylonia, China, India, Greece, and the Indus Valley. Egyptians used geometric techniques to re-establish field boundaries after the flooding of the Nile, to compute areas and volumes (e.g., the truncated pyramid shown in Fig. 5.1) and construct canals and pyramids. In the Indus Valley Civilisation (Harappa & Mohenjo-Daro), well-planned city layouts with parallel streets, multi-room houses, standard brick ratios (4:2:1), and drainage systems reflected strong geometric knowledge. In ancient India, Sulbasutras (800–500 BCE) described altar construction requiring precise shapes such as squares, circles, trapeziums, and complex figures like the śriyantra consisting of nine interwoven triangles forming 43 smaller triangles. Geometry developed across the ancient world but mostly as practical rules without proofs. Babylonians and Egyptians used geometry to solve real-life problems but did not develop a systematic logical framework. Greeks shifted the approach by focusing on deductive reasoning—explaining WHY statements are true. Thales provided the earliest known proof (a diameter bisects a circle). Pythagoras and his school discovered many geometric facts. Finally, Euclid organised all known geometrical knowledge into the famous treatise 'Elements', arranged into 13 books, which shaped the development of geometry for centuries.",
+      "visuals": [
+        "Fig. 5.1 – Truncated pyramid used by Egyptians to calculate volumes.",
+        "Fig. 5.2 – Picture of Thales (640–546 BCE).",
+        "Fig. 5.3 – Picture of Euclid (325–265 BCE)."
+      ]
+    },
+
+    {
+      "chapter": "5.2 Euclid’s Definitions, Axioms & Postulates",
+      "summary": "Euclid built geometry as an abstract model of real objects like solids, surfaces, lines, and points. Moving from solids to surfaces to lines to points reduces dimensions from 3D → 2D → 1D → 0D. Euclid listed 23 definitions in Book I, such as: a point has no part, a line is breadthless length, a straight line lies evenly with the points on itself, a surface has only length and breadth, and edges of surfaces are lines. Since many terms inside definitions (like 'breadth', 'part', 'area') themselves need definitions, mathematicians today accept 'point', 'line', and 'plane' as **undefined terms**. Euclid then gave assumptions called axioms (common notions) and postulates. Axioms are universal truths applicable everywhere; postulates specifically concern geometry. Important axioms include: (1) Things equal to the same thing are equal to one another; (2) If equals are added/subtracted, results remain equal; (4) Things that coincide are equal; (5) The whole is greater than the part; (6) Doubles of the same things are equal; (7) Halves of the same things are equal. Postulates describe geometric truths: (1) A line may be drawn joining any two points; (2) A terminated line (line segment) can be extended indefinitely; (3) A circle can be drawn with any centre and radius; (4) All right angles are equal; (5) If a transversal intersects two lines so that interior angles on the same side sum to less than 180°, the lines meet on that side. Postulate 5 is noticeably more complex than the others. Euclid’s system is consistent if no contradictions can be deduced. After giving definitions, axioms, and postulates, Euclid developed 465 propositions using deductive reasoning. This section includes examples proving results using Euclid’s axioms, such as AB + BC = AC when B lies between A and C, constructing an equilateral triangle using Postulate 3, and the theorem that two distinct lines cannot share more than one point.",
+      "meta": {
+        "axioms": [
+          "Axiom 1: Things equal to the same thing are equal.",
+          "Axiom 2: If equals are added to equals, the wholes are equal.",
+          "Axiom 3: If equals are subtracted from equals, the remainders are equal.",
+          "Axiom 4: Things which coincide are equal.",
+          "Axiom 5: The whole is greater than the part."
+        ],
+        "postulates": [
+          "Postulate 1: A straight line may be drawn joining any two points.",
+          "Postulate 2: A line segment can be extended indefinitely.",
+          "Postulate 3: A circle may be drawn with any centre and radius.",
+          "Postulate 4: All right angles are equal.",
+          "Postulate 5: If a transversal makes interior angles less than 180°, lines meet on that side."
+        ]
+      }
+    }
+  ]
+}

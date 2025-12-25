@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:fillViewport="true"
+    android:scrollbars="none"
+    tools:context=".UserData">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/space_lg">
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- HEADER                                                  -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <TextView
+            android:id="@+id/Header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_lg"
+            android:text="Complete Your Profile"
+            android:textSize="@dimen/text_headline"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_xs"
+            android:text="Tell us a bit about yourself"
+            android:textSize="@dimen/text_body"
+            android:textColor="@color/text_secondary"
+            android:fontFamily="@font/audi"
+            android:gravity="center" />
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- AVATAR SELECTION                                        -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_xl"
+            android:text="Choose Your Avatar"
+            android:textSize="@dimen/text_title"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvAvatars"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_sm"
+            android:clipToPadding="false" />
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- FORM CARD                                               -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space_lg"
+            app:cardCornerRadius="@dimen/radius_lg"
+            app:cardElevation="@dimen/elevation_sm"
+            app:cardBackgroundColor="@color/surface">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="@dimen/space_lg">
+
+                <!-- Name Row -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginEnd="@dimen/space_sm"
+                        android:textColorHint="@color/text_secondary"
+                        android:hint="First Name"
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                        app:boxStrokeColor="@color/primary"
+                        app:boxCornerRadiusTopStart="@dimen/radius_md"
+                        app:boxCornerRadiusTopEnd="@dimen/radius_md"
+                        app:boxCornerRadiusBottomStart="@dimen/radius_md"
+                        app:boxCornerRadiusBottomEnd="@dimen/radius_md">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/editTextF_Name"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/text_body"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="@font/audi" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginStart="@dimen/space_sm"
+                        android:hint="Last Name"
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                        app:boxStrokeColor="@color/primary"
+                        android:textColorHint="@color/text_secondary"
+                        app:boxCornerRadiusTopStart="@dimen/radius_md"
+                        app:boxCornerRadiusTopEnd="@dimen/radius_md"
+                        app:boxCornerRadiusBottomStart="@dimen/radius_md"
+                        app:boxCornerRadiusBottomEnd="@dimen/radius_md">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/editTextL_Name"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/text_body"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="@font/audi" />
+                    </com.google.android.material.textfield.TextInputLayout>
+                </LinearLayout>
+
+                <!-- Phone -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:hint="Phone Number"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:boxStrokeColor="@color/primary"
+                    android:textColorHint="@color/text_secondary"
+                    app:boxCornerRadiusTopStart="@dimen/radius_md"
+                    app:boxCornerRadiusTopEnd="@dimen/radius_md"
+                    app:boxCornerRadiusBottomStart="@dimen/radius_md"
+                    app:boxCornerRadiusBottomEnd="@dimen/radius_md">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/editTextPhone"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="phone"
+                        android:textSize="@dimen/text_body"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="@font/audi" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Age -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:hint="Age"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:boxStrokeColor="@color/primary"
+                    android:textColorHint="@color/text_secondary"
+                    app:boxCornerRadiusTopStart="@dimen/radius_md"
+                    app:boxCornerRadiusTopEnd="@dimen/radius_md"
+                    app:boxCornerRadiusBottomStart="@dimen/radius_md"
+                    app:boxCornerRadiusBottomEnd="@dimen/radius_md">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/editTextCompany"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:textSize="@dimen/text_body"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="@font/audi" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Location -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:hint="Location"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:boxStrokeColor="@color/primary"
+                    android:textColorHint="@color/text_secondary"
+                    app:boxCornerRadiusTopStart="@dimen/radius_md"
+                    app:boxCornerRadiusTopEnd="@dimen/radius_md"
+                    app:boxCornerRadiusBottomStart="@dimen/radius_md"
+                    app:boxCornerRadiusBottomEnd="@dimen/radius_md">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/editTextLocation"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/text_body"
+                        android:textColor="@color/text_primary"
+                        android:fontFamily="@font/audi" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Gender Spinner -->
+                <Spinner
+                    android:id="@+id/spinnerGender"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/input_height"
+                    android:layout_marginTop="@dimen/space_md"
+                    android:padding="@dimen/space_sm"
+                    android:background="@drawable/spinner_background"
+                    android:spinnerMode="dropdown" />
+
+                <!-- Class and Section Row -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="@dimen/space_md">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginEnd="@dimen/space_sm"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Class"
+                            android:textSize="@dimen/text_caption"
+                            android:textColor="@color/text_secondary"
+                            android:fontFamily="@font/audi" />
+
+                        <Spinner
+                            android:id="@+id/spinnerClass"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/button_height"
+                            android:layout_marginTop="@dimen/space_xs"
+                            android:background="@drawable/spinner_background"
+                            android:spinnerMode="dropdown" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginStart="@dimen/space_sm"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Section"
+                            android:textSize="@dimen/text_caption"
+                            android:textColor="@color/text_secondary"
+                            android:fontFamily="@font/audi" />
+
+                        <Spinner
+                            android:id="@+id/spinnerSection"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/button_height"
+                            android:layout_marginTop="@dimen/space_xs"
+                            android:background="@drawable/spinner_background"
+                            android:spinnerMode="dropdown" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- CONTINUE BUTTON                                         -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <Button
+            android:id="@+id/btnContinue"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/space_xl"
+            android:text="Save &amp; Continue"
+            android:textSize="@dimen/text_body"
+            android:textStyle="bold"
+            android:fontFamily="@font/audi"
+            android:backgroundTint="@color/primary"
+            android:textColor="@color/text_on_primary" />
+
+        <!-- Bottom padding -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space_xxl" />
+
+    </LinearLayout>
+</ScrollView>

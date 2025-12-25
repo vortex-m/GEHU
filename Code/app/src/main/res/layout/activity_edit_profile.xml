@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F5F9"
+    android:padding="20dp"
+    tools:context=".EditProfileActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit Profile"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/spacemono"
+            android:textColor="#1A1A1A"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Profile Picture Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:cardCornerRadius="75dp"
+            app:cardElevation="10dp"
+            android:layout_marginBottom="20dp"
+            app:cardUseCompatPadding="true">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/ivProfile"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/user"
+                    android:scaleType="centerCrop"
+                    android:background="@drawable/circle_clip"
+                    android:clipToOutline="true"/>
+
+                <ImageView
+                    android:id="@+id/ivEditImage"
+                    android:layout_width="44dp"
+                    android:layout_height="44dp"
+                    android:layout_gravity="bottom|end"
+                    android:src="@drawable/camera"
+                    android:background="@drawable/circle_bg"
+                    android:padding="10dp"
+                    android:elevation="6dp"/>
+            </FrameLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <!-- Full Name -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="18dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Full Name"
+                android:textSize="16sp"
+                android:textColor="#6B6B6B"
+                android:layout_marginBottom="6dp"
+                android:fontFamily="@font/spacemono"/>
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:textColor="#1A1A1A"
+                android:hint="Enter full name"
+                android:background="@android:color/transparent"/>
+        </LinearLayout>
+
+
+        <!-- Email -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="18dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Email"
+                android:textSize="16sp"
+                android:textColor="#6B6B6B"
+                android:layout_marginBottom="6dp"
+                android:fontFamily="@font/spacemono"/>
+
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter email"
+                android:inputType="textEmailAddress"
+                android:textColor="#1A1A1A"
+                android:textSize="17sp"
+                android:background="@android:color/transparent"/>
+        </LinearLayout>
+
+
+        <!-- Phone -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="18dp"
+            android:background="@drawable/card_white"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Phone Number"
+                android:textSize="16sp"
+                android:textColor="#6B6B6B"
+                android:layout_marginBottom="6dp"
+                android:fontFamily="@font/spacemono"/>
+
+            <EditText
+                android:id="@+id/etPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter phone number"
+                android:inputType="phone"
+                android:textColor="#1A1A1A"
+                android:textSize="17sp"
+                android:background="@android:color/transparent"/>
+        </LinearLayout>
+
+
+        <!-- Gender -->
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="18dp"
+            android:background="@drawable/card_white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gender"
+                android:textSize="16sp"
+                android:textColor="#6B6B6B"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/spacemono"/>
+
+            <RadioGroup
+                android:id="@+id/genderGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rbMale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Male"
+                    android:textColor="#333333"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/rbFemale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Female"
+                    android:textColor="#333333"
+                    android:textSize="16sp"
+                    android:layout_marginStart="20dp" />
+
+                <RadioButton
+                    android:id="@+id/rbOther"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Other"
+                    android:textColor="#333333"
+                    android:textSize="16sp"
+                    android:layout_marginStart="20dp" />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Save Changes"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:background="@drawable/btn_primary"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="24dp"
+            android:fontFamily="@font/spacemono" />
+
+    </LinearLayout>
+
+</ScrollView>

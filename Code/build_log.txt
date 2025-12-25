@@ -1,0 +1,73 @@
+
+> Task :app:externalNativeBuildCleanDebug
+Clean llama_jni-arm64-v8a
+
+> Task :app:externalNativeBuildCleanRelease
+Clean llama_jni-arm64-v8a
+
+> Task :app:clean
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:generateDebugResValues
+> Task :app:dataBindingMergeDependencyArtifactsDebug
+> Task :app:generateDebugResources
+> Task :app:injectCrashlyticsMappingFileIdDebug
+> Task :app:processDebugGoogleServices
+> Task :app:packageDebugResources
+> Task :app:processDebugNavigationResources
+> Task :app:mapDebugSourceSetPaths
+> Task :app:compileDebugNavigationResources
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :app:checkDebugAarMetadata
+> Task :app:parseDebugLocalResources
+
+> Task :app:processDebugMainManifest
+/home/tandon/Demolition/app/src/main/AndroidManifest.xml:7:9-42 Warning:
+	android:extractNativeLibs should not be specified in this source AndroidManifest.xml file. See https://d.android.com/guide/topics/manifest/application-element#extractNativeLibs for more information.
+The AGP Upgrade Assistant can remove the attribute from the AndroidManifest.xml file and update the build file accordingly. See https://d.android.com/studio/build/agp-upgrade-assistant for more information.
+
+> Task :app:processDebugManifest
+> Task :app:processDebugManifestForPackage
+> Task :app:javaPreCompileDebug
+> Task :app:mergeDebugShaders
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugResources
+> Task :app:mergeDebugAssets
+> Task :app:dataBindingGenBaseClassesDebug
+> Task :app:desugarDebugFileDependencies
+> Task :app:configureCMakeDebug[arm64-v8a]
+> Task :app:checkDebugDuplicateClasses
+> Task :app:processDebugResources
+> Task :app:buildCMakeDebug[arm64-v8a]
+> Task :app:mergeLibDexDebug
+> Task :app:mergeDebugJniLibFolders
+> Task :app:validateSigningDebug
+> Task :app:writeDebugAppMetadata
+> Task :app:writeDebugSigningConfigVersions
+> Task :app:mergeDebugNativeLibs
+> Task :app:stripDebugDebugSymbols
+> Task :app:mergeExtDexDebug
+
+> Task :app:compileDebugKotlin
+w: file:///home/tandon/Demolition/app/src/main/java/com/example/demolition/Profile.kt:108:23 'fun overridePendingTransition(p0: Int, p1: Int): Unit' is deprecated. Deprecated in Java.
+w: file:///home/tandon/Demolition/app/src/main/java/com/example/demolition/Profile.kt:138:19 'fun overridePendingTransition(p0: Int, p1: Int): Unit' is deprecated. Deprecated in Java.
+w: file:///home/tandon/Demolition/app/src/main/java/com/example/demolition/Signup.kt:78:25 'fun overridePendingTransition(p0: Int, p1: Int): Unit' is deprecated. Deprecated in Java.
+w: file:///home/tandon/Demolition/app/src/main/java/com/example/demolition/Signup.kt:88:13 'fun overridePendingTransition(p0: Int, p1: Int): Unit' is deprecated. Deprecated in Java.
+
+> Task :app:compileDebugJavaWithJavac
+> Task :app:processDebugJavaRes
+> Task :app:transformDebugClassesWithAsm
+> Task :app:dexBuilderDebug
+> Task :app:mergeProjectDexDebug
+> Task :app:mergeDebugJavaResource
+> Task :app:compressDebugAssets
+> Task :app:packageDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:assembleDebug
+
+BUILD SUCCESSFUL in 57s
+47 actionable tasks: 47 executed

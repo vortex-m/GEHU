@@ -1,0 +1,573 @@
+{
+  "quiz": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "What is Democracy? Why Democracy?",
+      "questions": [
+        {
+          "q": "Democracy means:",
+          "options": ["Rule by one person", "Rule by the people", "Rule by the army", "Rule by the rich"],
+          "answer": "Rule by the people"
+        },
+        {
+          "q": "In a democracy, the final decision-making power must rest with:",
+          "options": ["The military", "The ruler", "Elected people", "Judges"],
+          "answer": "Elected people"
+        },
+        {
+          "q": "Which value is most important in democracy?",
+          "options": ["Inequality", "Freedom", "Dictatorship", "Slavery"],
+          "answer": "Freedom"
+        },
+        {
+          "q": "Which of the following is a feature of democracy?",
+          "options": ["Censorship", "Free and fair elections", "One-party rule", "No opposition"],
+          "answer": "Free and fair elections"
+        },
+        {
+          "q": "In a democratic government, rulers are:",
+          "options": ["Elected", "Born", "Military appointed", "None"],
+          "answer": "Elected"
+        },
+        {
+          "q": "Democracy enhances:",
+          "options": ["Inequality", "Dignity of citizens", "Power of one person", "None"],
+          "answer": "Dignity of citizens"
+        },
+        {
+          "q": "One-person-one-vote is a principle of:",
+          "options": ["Political equality", "Economic equality", "Cultural equality", "Religious equality"],
+          "answer": "Political equality"
+        },
+        {
+          "q": "Democracy allows:",
+          "options": ["No criticism", "Peaceful change of rulers", "Fixed rulers forever", "None"],
+          "answer": "Peaceful change of rulers"
+        },
+        {
+          "q": "A non-democratic country usually has:",
+          "options": ["Regular elections", "Censorship", "Opposition parties", "Independent judiciary"],
+          "answer": "Censorship"
+        },
+        {
+          "q": "Democracy is better because it:",
+          "options": ["Improves decision-making", "Ignores citizens", "Removes participation", "Supports dictatorship"],
+          "answer": "Improves decision-making"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 2,
+      "chapter_title": "Constitutional Design",
+      "questions": [
+        {
+          "q": "The supreme law of a country is its:",
+          "options": ["Government", "Parliament", "Constitution", "Judiciary"],
+          "answer": "Constitution"
+        },
+        {
+          "q": "South Africa struggled against:",
+          "options": ["Communism", "Dictatorship", "Apartheid", "Monarchy"],
+          "answer": "Apartheid"
+        },
+        {
+          "q": "The Indian Constitution was adopted on:",
+          "options": ["26 January 1950", "26 November 1949", "15 August 1947", "1 January 1950"],
+          "answer": "26 November 1949"
+        },
+        {
+          "q": "The makers of the Indian Constitution are called:",
+          "options": ["National Assembly", "Constituent Assembly", "Parliament", "Judiciary"],
+          "answer": "Constituent Assembly"
+        },
+        {
+          "q": "A constitution limits:",
+          "options": ["Citizens", "Judges", "Government power", "Education"],
+          "answer": "Government power"
+        },
+        {
+          "q": "Which value is highlighted in the Preamble?",
+          "options": ["Liberty", "Slavery", "Injustice", "Inequality"],
+          "answer": "Liberty"
+        },
+        {
+          "q": "Constitution ensures:",
+          "options": ["Rights", "No rights", "Censorship", "Dictatorship"],
+          "answer": "Rights"
+        },
+        {
+          "q": "The Preamble starts with:",
+          "options": ["We the People", "We the King", "We the Parliament", "None"],
+          "answer": "We the People"
+        },
+        {
+          "q": "The Indian Constitution contains:",
+          "options": ["Only rights", "Only duties", "Rights, duties, structure", "Only laws"],
+          "answer": "Rights, duties, structure"
+        },
+        {
+          "q": "The Constitution divides power among:",
+          "options": ["One person", "Three organs", "Students", "Police"],
+          "answer": "Three organs"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 3,
+      "chapter_title": "Electoral Politics",
+      "questions": [
+        {
+          "q": "The Election Commission conducts:",
+          "options": ["Wars", "Elections", "Census", "Defense"],
+          "answer": "Elections"
+        },
+        {
+          "q": "Universal adult franchise means:",
+          "options": ["Only men vote", "Only rich vote", "All adults vote", "Only women vote"],
+          "answer": "All adults vote"
+        },
+        {
+          "q": "EVM stands for:",
+          "options": ["Electronic Voting Machine", "Easy Voting Machine", "Election Valid Machine", "None"],
+          "answer": "Electronic Voting Machine"
+        },
+        {
+          "q": "The area for electing one representative is called:",
+          "options": ["District", "State", "Constituency", "Ward"],
+          "answer": "Constituency"
+        },
+        {
+          "q": "Which body ensures free elections?",
+          "options": ["Police", "Government", "Election Commission", "Army"],
+          "answer": "Election Commission"
+        },
+        {
+          "q": "Political parties announce:",
+          "options": ["Money", "Manifesto", "Books", "Jobs"],
+          "answer": "Manifesto"
+        },
+        {
+          "q": "Reserved constituencies are for:",
+          "options": ["Foreigners", "SC & ST", "Rich people", "Celebrities"],
+          "answer": "SC & ST"
+        },
+        {
+          "q": "One person, one vote is part of:",
+          "options": ["Economic equality", "Political equality", "Racial equality", "Cultural equality"],
+          "answer": "Political equality"
+        },
+        {
+          "q": "Who can contest elections?",
+          "options": ["Only rich", "Adults above 18", "Any citizen meeting required conditions", "Only politicians"],
+          "answer": "Any citizen meeting required conditions"
+        },
+        {
+          "q": "NOTA means:",
+          "options": ["None of the Above", "New Option to Agree", "National Organization", "None"],
+          "answer": "None of the Above"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 4,
+      "chapter_title": "Working of Institutions",
+      "questions": [
+        {
+          "q": "Who implements laws?",
+          "options": ["Judiciary", "Executive", "Legislature", "Citizens"],
+          "answer": "Executive"
+        },
+        {
+          "q": "Who makes laws?",
+          "options": ["Legislature", "Judiciary", "Executive", "Police"],
+          "answer": "Legislature"
+        },
+        {
+          "q": "Who settles disputes?",
+          "options": ["Police", "Judiciary", "Executive", "Media"],
+          "answer": "Judiciary"
+        },
+        {
+          "q": "The Prime Minister is head of:",
+          "options": ["Country", "Government", "Court", "Army"],
+          "answer": "Government"
+        },
+        {
+          "q": "President is the:",
+          "options": ["Head of State", "Head of Army", "Head of Court", "Head of School"],
+          "answer": "Head of State"
+        },
+        {
+          "q": "Judiciary must be:",
+          "options": ["Influenced", "Independent", "Political", "Weak"],
+          "answer": "Independent"
+        },
+        {
+          "q": "The highest court of India is:",
+          "options": ["High Court", "Civil Court", "Supreme Court", "District Court"],
+          "answer": "Supreme Court"
+        },
+        {
+          "q": "Civil servants are also called:",
+          "options": ["Judges", "Bureaucrats", "Soldiers", "Teachers"],
+          "answer": "Bureaucrats"
+        },
+        {
+          "q": "The Parliament consists of:",
+          "options": ["Two Houses", "One House", "President only", "Judges"],
+          "answer": "Two Houses"
+        },
+        {
+          "q": "Lok Sabha members are:",
+          "options": ["Elected", "Nominated", "Appointed", "None"],
+          "answer": "Elected"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 5,
+      "chapter_title": "Democratic Rights",
+      "questions": [
+        {
+          "q": "Rights protect:",
+          "options": ["Government", "People", "Police", "Only rich"],
+          "answer": "People"
+        },
+        {
+          "q": "Which of these is a Fundamental Right?",
+          "options": ["Right to Vote", "Right to Freedom", "Right to Property", "Right to Tax"],
+          "answer": "Right to Freedom"
+        },
+        {
+          "q": "Right to Equality prohibits:",
+          "options": ["Discrimination", "Voting", "Education", "Speech"],
+          "answer": "Discrimination"
+        },
+        {
+          "q": "Right to freedom includes:",
+          "options": ["Freedom of speech", "Freedom to harm others", "Freedom to break laws", "None"],
+          "answer": "Freedom of speech"
+        },
+        {
+          "q": "Fundamental Rights are guaranteed by the:",
+          "options": ["President", "Police", "Constitution", "Army"],
+          "answer": "Constitution"
+        },
+        {
+          "q": "Who protects Fundamental Rights?",
+          "options": ["Police", "Court", "Army", "Parents"],
+          "answer": "Court"
+        },
+        {
+          "q": "Right against exploitation stops:",
+          "options": ["Jobs", "Child labour", "Schools", "Elections"],
+          "answer": "Child labour"
+        },
+        {
+          "q": "Right to education is for children aged:",
+          "options": ["0–5", "6–14", "14–18", "18–25"],
+          "answer": "6–14"
+        },
+        {
+          "q": "Right to constitutional remedies allows:",
+          "options": ["Court cases", "War", "Arrest", "Expulsion"],
+          "answer": "Court cases"
+        },
+        {
+          "q": "Rights must be used:",
+          "options": ["Responsibly", "Carelessly", "Never", "Against others"],
+          "answer": "Responsibly"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 6,
+      "chapter_title": "The French Revolution",
+      "questions": [
+        {
+          "q": "French society was divided into:",
+          "options": ["2 estates", "4 estates", "3 estates", "5 estates"],
+          "answer": "3 estates"
+        },
+        {
+          "q": "The revolution began in:",
+          "options": ["1770", "1789", "1801", "1750"],
+          "answer": "1789"
+        },
+        {
+          "q": "Which estate paid all taxes?",
+          "options": ["First", "Second", "Third", "None"],
+          "answer": "Third"
+        },
+        {
+          "q": "Symbol of the French Revolution:",
+          "options": ["Blue Flag", "Red Cap", "Crown", "Sword"],
+          "answer": "Red Cap"
+        },
+        {
+          "q": "Louis XVI ruled:",
+          "options": ["Russia", "USA", "France", "Germany"],
+          "answer": "France"
+        },
+        {
+          "q": "National Assembly was formed by:",
+          "options": ["First Estate", "Second Estate", "Third Estate", "King"],
+          "answer": "Third Estate"
+        },
+        {
+          "q": "The Bastille was:",
+          "options": ["Palace", "Prison", "Bank", "School"],
+          "answer": "Prison"
+        },
+        {
+          "q": "Motto of the Revolution was:",
+          "options": ["Freedom only", "Liberty, Equality, Fraternity", "Power, Wealth, Land", "None"],
+          "answer": "Liberty, Equality, Fraternity"
+        },
+        {
+          "q": "The Revolution ended:",
+          "options": ["Monarchy", "Democracy", "Republic", "None"],
+          "answer": "Monarchy"
+        },
+        {
+          "q": "Revolution inspired:",
+          "options": ["Dictatorship", "Democracy", "Feudalism", "Slavery"],
+          "answer": "Democracy"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 7,
+      "chapter_title": "Socialism in Europe and the Russian Revolution",
+      "questions": [
+        {
+          "q": "Leader of Bolsheviks:",
+          "options": ["Stalin", "Lenin", "Hitler", "Napoleon"],
+          "answer": "Lenin"
+        },
+        {
+          "q": "Tsar Nicholas II ruled:",
+          "options": ["Germany", "Russia", "France", "Italy"],
+          "answer": "Russia"
+        },
+        {
+          "q": "Socialists believed in:",
+          "options": ["Private property", "Equality", "Slavery", "Monarchy"],
+          "answer": "Equality"
+        },
+        {
+          "q": "Workers' councils were called:",
+          "options": ["Dumas", "Soviets", "Parliaments", "Courts"],
+          "answer": "Soviets"
+        },
+        {
+          "q": "October Revolution took place in:",
+          "options": ["1914", "1917", "1905", "1920"],
+          "answer": "1917"
+        },
+        {
+          "q": "Bolsheviks believed in:",
+          "options": ["Capitalism", "Socialism", "Feudalism", "Colonialism"],
+          "answer": "Socialism"
+        },
+        {
+          "q": "Which war worsened Russian conditions?",
+          "options": ["WWII", "Cold War", "WWI", "Civil War"],
+          "answer": "WWI"
+        },
+        {
+          "q": "St. Petersburg was renamed:",
+          "options": ["Moscow", "Petrograd", "Leningrad", "Volgograd"],
+          "answer": "Petrograd"
+        },
+        {
+          "q": "Peasants wanted:",
+          "options": ["Larger taxes", "More land", "No land", "No reforms"],
+          "answer": "More land"
+        },
+        {
+          "q": "Tsar's rule was:",
+          "options": ["Democratic", "Autocratic", "Republican", "Constitutional"],
+          "answer": "Autocratic"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 8,
+      "chapter_title": "Nazism and the Rise of Hitler",
+      "questions": [
+        {
+          "q": "Hitler became Chancellor in:",
+          "options": ["1920", "1930", "1933", "1945"],
+          "answer": "1933"
+        },
+        {
+          "q": "Nazi ideology emphasized:",
+          "options": ["Equality", "Racism", "Democracy", "Peace"],
+          "answer": "Racism"
+        },
+        {
+          "q": "The secret police of Nazis:",
+          "options": ["CIA", "RAW", "Gestapo", "SSB"],
+          "answer": "Gestapo"
+        },
+        {
+          "q": "Holocaust refers to:",
+          "options": ["Peace movement", "Mass killing of Jews", "World War I", "Industrialization"],
+          "answer": "Mass killing of Jews"
+        },
+        {
+          "q": "Hitler wrote:",
+          "options": ["Mein Kampf", "French Revolution", "Das Kapital", "War & Peace"],
+          "answer": "Mein Kampf"
+        },
+        {
+          "q": "Germany faced hyperinflation in:",
+          "options": ["1921", "1923", "1935", "1940"],
+          "answer": "1923"
+        },
+        {
+          "q": "Nazi youth were trained for:",
+          "options": ["Peace", "War", "Teaching", "Medicine"],
+          "answer": "War"
+        },
+        {
+          "q": "Jews were forced to wear:",
+          "options": ["Red cap", "Yellow star", "Blue badge", "Black cloth"],
+          "answer": "Yellow star"
+        },
+        {
+          "q": "Hitler ended:",
+          "options": ["Dictatorship", "Democracy", "War", "Navy"],
+          "answer": "Democracy"
+        },
+        {
+          "q": "WWII started in:",
+          "options": ["1935", "1939", "1945", "1920"],
+          "answer": "1939"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 9,
+      "chapter_title": "Forest Society and Colonialism",
+      "questions": [
+        {
+          "q": "Colonial rulers wanted forests for:",
+          "options": ["Decoration", "Timber", "Parties", "Food"],
+          "answer": "Timber"
+        },
+        {
+          "q": "Shifting cultivation is also called:",
+          "options": ["Jhum", "Hunting", "Fishing", "Mining"],
+          "answer": "Jhum"
+        },
+        {
+          "q": "Forest Act restricted:",
+          "options": ["Hunting only", "Forest access", "Imports", "Exports"],
+          "answer": "Forest access"
+        },
+        {
+          "q": "Which animals were hunted heavily?",
+          "options": ["Goats", "Tigers", "Cows", "Horses"],
+          "answer": "Tigers"
+        },
+        {
+          "q": "Forest guards were appointed by:",
+          "options": ["Villagers", "British", "Kings", "Farmers"],
+          "answer": "British"
+        },
+        {
+          "q": "Plantations grew:",
+          "options": ["Tea, coffee, rubber", "Wheat", "Rice", "Corn"],
+          "answer": "Tea, coffee, rubber"
+        },
+        {
+          "q": "Forest communities protested by:",
+          "options": ["Strikes", "Breaking rules", "Court cases", "All of these"],
+          "answer": "All of these"
+        },
+        {
+          "q": "Baigas lived in:",
+          "options": ["Forest villages", "Cities", "Plains", "Deserts"],
+          "answer": "Forest villages"
+        },
+        {
+          "q": "Commercial forestry meant:",
+          "options": ["Protecting forests", "Cutting trees for profit", "No tree cutting", "None"],
+          "answer": "Cutting trees for profit"
+        },
+        {
+          "q": "Colonial rule caused:",
+          "options": ["Forest growth", "Loss of forest rights", "Equal rights", "All good things"],
+          "answer": "Loss of forest rights"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 10,
+      "chapter_title": "Pastoralists in the Modern World",
+      "questions": [
+        {
+          "q": "Pastoralists depend on:",
+          "options": ["Factories", "Livestock", "Mines", "Retail"],
+          "answer": "Livestock"
+        },
+        {
+          "q": "Gaddi shepherds belong to:",
+          "options": ["Kerala", "Himachal Pradesh", "Tamil Nadu", "Odisha"],
+          "answer": "Himachal Pradesh"
+        },
+        {
+          "q": "Colonial rulers restricted:",
+          "options": ["Trade", "Movement of pastoralists", "Education", "Governance"],
+          "answer": "Movement of pastoralists"
+        },
+        {
+          "q": "Maasai live in:",
+          "options": ["Asia", "Africa", "Europe", "Australia"],
+          "answer": "Africa"
+        },
+        {
+          "q": "Pastoralists move to:",
+          "options": ["Follow rains and grass", "Visit markets", "Fight wars", "None"],
+          "answer": "Follow rains and grass"
+        },
+        {
+          "q": "Modern development reduced:",
+          "options": ["Factory jobs", "Grazing grounds", "Board exams", "Housing"],
+          "answer": "Grazing grounds"
+        },
+        {
+          "q": "Pastoralists paid:",
+          "options": ["Taxes", "Fines", "No taxes", "Land rent"],
+          "answer": "Taxes"
+        },
+        {
+          "q": "Dhangars are pastoralists in:",
+          "options": ["Gujarat", "Maharashtra", "Punjab", "Assam"],
+          "answer": "Maharashtra"
+        },
+        {
+          "q": "Forest laws affected:",
+          "options": ["Farmers", "Pastoralists", "Shopkeepers", "All workers"],
+          "answer": "Pastoralists"
+        },
+        {
+          "q": "Pastoralists survive by:",
+          "options": ["Adapting to environment", "Buying land", "Mining", "Fishing only"],
+          "answer": "Adapting to environment"
+        }
+      ]
+    }
+  ]
+}

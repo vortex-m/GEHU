@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:fillViewport="true"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/space_md">
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- QUESTION CARD                                           -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/space_lg"
+            app:cardCornerRadius="@dimen/radius_lg"
+            app:cardElevation="@dimen/elevation_sm"
+            app:cardBackgroundColor="@color/surface">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="@dimen/space_lg">
+
+                <TextView
+                    android:id="@+id/tvQuizQuestion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Question will appear here"
+                    android:textSize="@dimen/text_title"
+                    android:textColor="@color/text_primary"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/audi"
+                    android:lineSpacingExtra="4dp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- ANSWER OPTIONS (Direct TextViews for backward compat)   -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <TextView
+            android:id="@+id/option1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/space_sm"
+            android:padding="@dimen/space_md"
+            android:background="@drawable/option_bg"
+            android:textSize="@dimen/text_body"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi" />
+
+        <TextView
+            android:id="@+id/option2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/space_sm"
+            android:padding="@dimen/space_md"
+            android:background="@drawable/option_bg"
+            android:textSize="@dimen/text_body"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi" />
+
+        <TextView
+            android:id="@+id/option3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/space_sm"
+            android:padding="@dimen/space_md"
+            android:background="@drawable/option_bg"
+            android:textSize="@dimen/text_body"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi" />
+
+        <TextView
+            android:id="@+id/option4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/space_lg"
+            android:padding="@dimen/space_md"
+            android:background="@drawable/option_bg"
+            android:textSize="@dimen/text_body"
+            android:textColor="@color/text_primary"
+            android:fontFamily="@font/audi" />
+
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <!-- NEXT BUTTON                                             -->
+        <!-- ═══════════════════════════════════════════════════════ -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/space_sm"
+            android:text="Next Question"
+            android:textSize="@dimen/text_body"
+            android:textStyle="bold"
+            android:fontFamily="@font/audi"
+            app:backgroundTint="@color/primary"
+            app:cornerRadius="@dimen/radius_md" />
+
+        <!-- Bottom padding -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/space_lg" />
+
+    </LinearLayout>
+</ScrollView>

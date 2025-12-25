@@ -1,0 +1,431 @@
+{
+  "beehive_poems": [
+    {
+      "poem_number": 1,
+      "poem_title": "The Road Not Taken",
+      "summary": "The poet stands at a fork in a forest path, symbolizing a crucial choice in life. He chooses the less-travelled road, representing a unique or unconventional decision. The poem reflects on how choices define and shape one's destiny.",
+      "theme": "Choices and consequences; individuality; uncertainty of life.",
+      "moral_or_message": "Be confident in your choices—every decision influences your future.",
+      "literary_devices": [
+        "Metaphor – roads represent life choices.",
+        "Imagery – yellow woods convey visual beauty.",
+        "Symbolism – the fork symbolizes decision points in life.",
+        "Alliteration – 'wanted wear'."
+      ],
+      "important_points": [
+        "The poem is symbolic.",
+        "The poet chooses a less common path.",
+        "He reflects on its long-term impact.",
+        "Theme: choices define life."
+      ],
+      "student_explanation": [
+        "The poet reaches two roads and must choose one.",
+        "He picks the road fewer people take.",
+        "This choice changes his life.",
+        "The poem teaches that life is shaped by the choices we make."
+      ],
+      "key_definitions": [
+        { "term": "Diverged", "definition": "Split into different directions." },
+        { "term": "Metaphor", "definition": "A comparison without using 'like' or 'as'." }
+      ],
+      "short_questions": [
+        "Why does the poet feel sorry?",
+        "What do the two roads symbolize?"
+      ],
+      "long_questions": [
+        "Explain how the poem reflects the importance of choices in life.",
+        "Discuss the symbolic meaning of the less-travelled road."
+      ],
+      "mcq_questions": [
+        {
+          "q": "The poem is written by:",
+          "options": ["Robert Frost", "W.B. Yeats", "William Wordsworth", "Keats"],
+          "answer": "Robert Frost"
+        },
+        {
+          "q": "What do the two roads represent?",
+          "options": ["Travel options", "Life choices", "Forest paths", "Confusion"],
+          "answer": "Life choices"
+        },
+        {
+          "q": "The poet chooses:",
+          "options": ["The more travelled road", "The less travelled road", "Both roads", "None"],
+          "answer": "The less travelled road"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 2,
+      "poem_title": "Wind",
+      "summary": "The poet describes wind as a powerful force that destroys weak things but strengthens the strong. Wind symbolizes challenges in life. The poet urges people to build inner strength to withstand hardships.",
+      "theme": "Strength vs weakness; challenges as teachers.",
+      "moral_or_message": "Become strong—mentally and physically—to face life's difficulties.",
+      "literary_devices": [
+        "Personification – wind behaves like a living being.",
+        "Imagery – blowing away fragile objects.",
+        "Symbolism – wind represents difficulties."
+      ],
+      "important_points": [
+        "Weak things break; strong things survive.",
+        "Wind demands effort and resilience.",
+        "Challenges shape strong personalities."
+      ],
+      "student_explanation": [
+        "Wind is shown as strong and destructive.",
+        "It blows away weak things but not strong ones.",
+        "It teaches us to become strong to face problems."
+      ],
+      "key_definitions": [
+        { "term": "Personification", "definition": "Giving human qualities to non-human things." },
+        { "term": "Symbolism", "definition": "Using something to represent a deeper meaning." }
+      ],
+      "short_questions": [
+        "What does wind symbolize?",
+        "Why does the poet tell us to be strong?"
+      ],
+      "long_questions": [
+        "Explain how wind represents life's challenges.",
+        "Discuss how the poet uses wind to teach resilience."
+      ],
+      "mcq_questions": [
+        {
+          "q": "Wind is a metaphor for:",
+          "options": ["Nature", "Challenges", "Light", "Joy"],
+          "answer": "Challenges"
+        },
+        {
+          "q": "Wind destroys:",
+          "options": ["Strong structures", "Weak objects", "Hills", "Water"],
+          "answer": "Weak objects"
+        },
+        {
+          "q": "The poet advises us to:",
+          "options": ["Run from problems", "Become strong", "Hide", "Fear the wind"],
+          "answer": "Become strong"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 3,
+      "poem_title": "Rain on the Roof",
+      "summary": "The poem captures the soothing effect of rain as the poet lies in bed listening to raindrops tapping on the roof. The sound triggers childhood memories, especially of his mother, filling him with comfort and nostalgia.",
+      "theme": "Memory, nostalgia, comfort in nature’s sounds.",
+      "moral_or_message": "Small moments in nature awaken deep emotions and memories.",
+      "literary_devices": [
+        "Onomatopoeia – sound words like 'patter'.",
+        "Alliteration – 'rain roof'.",
+        "Imagery – vivid description of raindrops."
+      ],
+      "important_points": [
+        "Rain triggers childhood memories.",
+        "The poet recalls his mother lovingly.",
+        "The mood is peaceful and nostalgic."
+      ],
+      "student_explanation": [
+        "The poet listens to rain on the roof.",
+        "It makes him feel peaceful.",
+        "He remembers his mother and childhood."
+      ],
+      "key_definitions": [
+        { "term": "Onomatopoeia", "definition": "Words that imitate sounds." },
+        { "term": "Nostalgia", "definition": "Feeling emotional about past memories." }
+      ],
+      "short_questions": [
+        "What memory does the rain bring?",
+        "Why is the poet comforted by the rain?"
+      ],
+      "long_questions": [
+        "Describe how the poet connects rain to his memories.",
+        "Explain the emotional tone of the poem."
+      ],
+      "mcq_questions": [
+        {
+          "q": "The poem ‘Rain on the Roof’ is written by:",
+          "options": ["Coates Kinney", "Robert Frost", "Wordsworth", "Tagore"],
+          "answer": "Coates Kinney"
+        },
+        {
+          "q": "The rain reminds the poet of his:",
+          "options": ["Father", "Mother", "Sister", "School"],
+          "answer": "Mother"
+        },
+        {
+          "q": "The sound of rain makes the poet feel:",
+          "options": ["Scared", "Angry", "Comforted", "Sleepy"],
+          "answer": "Comforted"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 4,
+      "poem_title": "The Lake Isle of Innisfree",
+      "summary": "The poet dreams of escaping city life to live on the peaceful island of Innisfree. He imagines building a small cabin, growing beans, and living close to nature. Though physically in the city, his heart longs for the island’s tranquility.",
+      "theme": "Nature as a source of peace; escapism; simplicity.",
+      "moral_or_message": "Peace is found in nature, not in material life.",
+      "literary_devices": [
+        "Imagery – ‘bee-loud glade’.",
+        "Personification – nature seems alive.",
+        "Alliteration – 'lake water lapping'."
+      ],
+      "important_points": [
+        "Poet wants to escape city noise.",
+        "Innisfree symbolizes inner peace.",
+        "Strong imagery throughout the poem."
+      ],
+      "student_explanation": [
+        "The poet wants to go to a peaceful island.",
+        "He wants to live simply in nature.",
+        "City life feels tiring; nature brings peace."
+      ],
+      "key_definitions": [
+        { "term": "Glade", "definition": "Open space in a forest." },
+        { "term": "Escapism", "definition": "Desire to escape reality for peace." }
+      ],
+      "short_questions": [
+        "What does Innisfree represent for the poet?",
+        "Why does he want to leave the city?"
+      ],
+      "long_questions": [
+        "Discuss the contrast between the city and Innisfree.",
+        "Explain the role of imagery in the poem."
+      ],
+      "mcq_questions": [
+        {
+          "q": "Who wrote the poem?",
+          "options": ["W.B. Yeats", "Frost", "Wordsworth", "Tagore"],
+          "answer": "W.B. Yeats"
+        },
+        {
+          "q": "The poet wants to build:",
+          "options": ["A mansion", "A small cabin", "A school", "A temple"],
+          "answer": "A small cabin"
+        },
+        {
+          "q": "The atmosphere in Innisfree is:",
+          "options": ["Noisy", "Peaceful", "Crowded", "Windy"],
+          "answer": "Peaceful"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 5,
+      "poem_title": "A Legend of the Northland",
+      "summary": "A moral tale about a selfish woman who refuses food to a hungry traveler. As punishment, she is transformed into a woodpecker, destined to search for food eternally. The poem explains the origin of the woodpecker through folklore.",
+      "theme": "Greed and its consequences; moral lessons.",
+      "moral_or_message": "Selfishness leads to punishment; generosity is a virtue.",
+      "literary_devices": [
+        "Narrative style – story told in verse.",
+        "Repetition – emphasizes moral lesson.",
+        "Imagery – transformation into a bird."
+      ],
+      "important_points": [
+        "Poem is a legend with a clear moral.",
+        "Greedy woman punished by transformation.",
+        "Teaches kindness and charity."
+      ],
+      "student_explanation": [
+        "A greedy woman refuses to share food.",
+        "She turns into a woodpecker.",
+        "The poem teaches us to be generous."
+      ],
+      "key_definitions": [
+        { "term": "Legend", "definition": "A traditional story explaining something." },
+        { "term": "Moral", "definition": "A lesson about good behavior." }
+      ],
+      "short_questions": [
+        "Why was the woman punished?",
+        "What lesson does the story teach?"
+      ],
+      "long_questions": [
+        "Explain how the poem uses storytelling to teach morality.",
+        "Describe the transformation scene and its significance."
+      ],
+      "mcq_questions": [
+        {
+          "q": "The woman was turned into a:",
+          "options": ["Crow", "Woodpecker", "Sparrow", "Pigeon"],
+          "answer": "Woodpecker"
+        },
+        {
+          "q": "The poem teaches:",
+          "options": ["Greed is good", "Share with others", "Work less", "Avoid nature"],
+          "answer": "Share with others"
+        },
+        {
+          "q": "The poem is written by:",
+          "options": ["Phoebe Cary", "Frost", "Wordsworth", "Yeats"],
+          "answer": "Phoebe Cary"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 6,
+      "poem_title": "No Men Are Foreign",
+      "summary": "The poem promotes peace and unity, reminding readers that all humans are alike regardless of nationality, color, or religion. War and hatred divide people artificially, but fundamentally, everyone shares the same earth and human emotions.",
+      "theme": "Universal brotherhood, anti-war message, equality.",
+      "moral_or_message": "We must avoid hatred; all humans are one family.",
+      "literary_devices": [
+        "Repetition – emphasizes unity.",
+        "Imagery – shared human experiences.",
+        "Metaphor – ‘same earth’ symbolizes equality."
+      ],
+      "important_points": [
+        "Strong message of peace.",
+        "Differences are man-made.",
+        "We must not harm each other."
+      ],
+      "student_explanation": [
+        "The poem says all people are equal.",
+        "Nation borders don’t change our humanity.",
+        "We should not fight or hate others."
+      ],
+      "key_definitions": [
+        { "term": "Brotherhood", "definition": "Feeling of unity among people." },
+        { "term": "Harmony", "definition": "Peaceful coexistence." }
+      ],
+      "short_questions": [
+        "Why does the poet say no men are strangers?",
+        "How does the poem discourage war?"
+      ],
+      "long_questions": [
+        "Explain how the poem promotes universal brotherhood.",
+        "Discuss the impact of war according to the poem."
+      ],
+      "mcq_questions": [
+        {
+          "q": "The poem teaches:",
+          "options": ["Violence", "Unity", "Greed", "Competition"],
+          "answer": "Unity"
+        },
+        {
+          "q": "Borders between nations are:",
+          "options": ["Natural", "Man-made", "Permanent", "Biological"],
+          "answer": "Man-made"
+        },
+        {
+          "q": "The poet is:",
+          "options": ["James Kirkup", "Frost", "Tagore", "Yeats"],
+          "answer": "James Kirkup"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 7,
+      "poem_title": "On Killing a Tree",
+      "summary": "The poem describes in detail how killing a tree requires great effort because of its deep roots and strong connection with the earth. The poet criticizes the cruelty of humans toward nature and highlights the resilience of trees.",
+      "theme": "Environmental destruction; strength of nature.",
+      "moral_or_message": "Respect nature — destruction harms the environment and humanity.",
+      "literary_devices": [
+        "Personification – tree resists like a living being.",
+        "Imagery – roots, bark, bleeding.",
+        "Irony – killing a tree is not simple."
+      ],
+      "important_points": [
+        "Trees are powerful and deeply rooted.",
+        "Cutting branches doesn’t kill a tree.",
+        "Roots must be destroyed to kill it.",
+        "Poem criticizes deforestation."
+      ],
+      "student_explanation": [
+        "A tree is strong and cannot be killed easily.",
+        "Its roots keep it alive.",
+        "The poem warns against destroying nature."
+      ],
+      "key_definitions": [
+        { "term": "Scorching", "definition": "Burning heat." },
+        { "term": "Choking", "definition": "Cutting off air or nourishment." }
+      ],
+      "short_questions": [
+        "Why is killing a tree difficult?",
+        "What message does the poem give?"
+      ],
+      "long_questions": [
+        "Explain the symbolic meaning of the tree’s struggle.",
+        "Discuss how the poem criticizes human actions."
+      ],
+      "mcq_questions": [
+        {
+          "q": "The poem describes:",
+          "options": ["Growing a tree", "Killing a tree", "Planting seeds", "Forest animals"],
+          "answer": "Killing a tree"
+        },
+        {
+          "q": "The tree’s real strength lies in:",
+          "options": ["Branches", "Leaves", "Roots", "Bark"],
+          "answer": "Roots"
+        },
+        {
+          "q": "The poem is by:",
+          "options": ["Gieve Patel", "Yeats", "Wordsworth", "Tagore"],
+          "answer": "Gieve Patel"
+        }
+      ],
+      "formulas_and_identities": {}
+    },
+
+    {
+      "poem_number": 8,
+      "poem_title": "A Slumber Did My Spirit Seal",
+      "summary": "The poem reflects grief and acceptance of a loved one’s death. The poet initially feels numb and shocked but later understands that the person is now part of nature — beyond suffering, time, and movement.",
+      "theme": "Death, acceptance, peace in nature.",
+      "moral_or_message": "Death is natural, and acceptance leads to emotional peace.",
+      "literary_devices": [
+        "Metaphor – deep sleep equals emotional numbness.",
+        "Personification – earth’s movement.",
+        "Imagery – motionless earth absorption."
+      ],
+      "important_points": [
+        "Poem expresses grief calmly.",
+        "Death merges the person with nature.",
+        "Tone is soft, reflective, and accepting."
+      ],
+      "student_explanation": [
+        "The poet loses someone he loved.",
+        "He feels shocked at first.",
+        "Later he accepts that she is part of nature now."
+      ],
+      "key_definitions": [
+        { "term": "Elegy", "definition": "Poem mourning death." },
+        { "term": "Slumber", "definition": "Deep sleep (metaphor for numbness)." }
+      ],
+      "short_questions": [
+        "What does the poet mean by 'slumber sealed his spirit'?",
+        "How is the loved one described after death?"
+      ],
+      "long_questions": [
+        "Analyze the theme of death and acceptance in the poem.",
+        "Discuss the imagery used to show the person becoming part of nature."
+      ],
+      "mcq_questions": [
+        {
+          "q": "The poem expresses:",
+          "options": ["Joy", "Anger", "Peaceful sadness", "Fear"],
+          "answer": "Peaceful sadness"
+        },
+        {
+          "q": "The loved one becomes part of:",
+          "options": ["Air", "Nature", "Dreams", "Books"],
+          "answer": "Nature"
+        },
+        {
+          "q": "The poet is:",
+          "options": ["Wordsworth", "Frost", "Yeats", "Shelley"],
+          "answer": "Wordsworth"
+        }
+      ],
+      "formulas_and_identities": {}
+    }
+  ]
+}

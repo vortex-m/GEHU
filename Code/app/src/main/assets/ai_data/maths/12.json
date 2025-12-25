@@ -1,0 +1,27 @@
+{
+  "filename": "iemh112.pdf",
+  "title": "Statistics",
+  "source": ":contentReference[oaicite:9]{index=9}",
+  "chapters": [
+    {
+      "chapter": "12.1 Graphical Representation of Data",
+      "summary": "This section emphasizes why graphs are useful: they display data visually, making interpretation and comparison easier. Three major graphical methods are introduced: (1) Bar Graphs – rectangular bars of equal width representing discrete categories; (2) Histograms – bars representing continuous class intervals without gaps; (3) Frequency Polygons – line graphs connecting class midpoints. Students learn how to choose scales, how to draw axes, how to represent frequencies, and how to interpret patterns from visuals. Real-life applications include analyzing surveys, representing school data, and visualizing statistical trends.",
+      "visuals": [
+        "Fig 12.1 – Bar graph of students' birth months.",
+        "Fig 12.3 – Histogram of students' weights."
+      ],
+      "meta": {
+        "formulas": [
+          "Class midpoint = (lower limit + upper limit)/2",
+          "Histogram: Height of bar ∝ frequency",
+          "Frequency polygon: join midpoints of histogram bars"
+        ]
+      }
+    },
+
+    {
+      "chapter": "12.2 Summary",
+      "summary": "Bar graphs are used for discrete data, histograms for continuous data, and frequency polygons for visualizing trends. Students learn to interpret heights, shapes, and clusters to understand real-world information."
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "quiz": [
+
+    {
+      "chapter_number": 1,
+      "chapter_title": "Matter in Our Surroundings",
+      "questions": [
+        {
+          "q": "Matter is defined as:",
+          "options": ["Anything that has mass", "Anything that occupies space", "Both mass and space", "Only energy"],
+          "answer": "Both mass and space"
+        },
+        {
+          "q": "The force of attraction is maximum in:",
+          "options": ["Solids", "Liquids", "Gases", "Plasma"],
+          "answer": "Solids"
+        },
+        {
+          "q": "Which process converts solid directly into gas?",
+          "options": ["Melting", "Boiling", "Sublimation", "Evaporation"],
+          "answer": "Sublimation"
+        },
+        {
+          "q": "The SI unit of temperature is:",
+          "options": ["Celsius", "Fahrenheit", "Kelvin", "Joule"],
+          "answer": "Kelvin"
+        },
+        {
+          "q": "Conversion of liquid into gas at any temperature is called:",
+          "options": ["Boiling", "Melting", "Evaporation", "Freezing"],
+          "answer": "Evaporation"
+        },
+        {
+          "q": "The state of matter with highest kinetic energy:",
+          "options": ["Solid", "Liquid", "Gas", "Plasma"],
+          "answer": "Gas"
+        },
+        {
+          "q": "Latent heat is the heat:",
+          "options": ["That raises temperature", "Used to change state", "Lost through cooling", "Used in condensation"],
+          "answer": "Used to change state"
+        },
+        {
+          "q": "Diffusion is fastest in:",
+          "options": ["Solids", "Liquids", "Gases", "Plasma"],
+          "answer": "Gases"
+        },
+        {
+          "q": "Temperature at which solid melts:",
+          "options": ["Boiling point", "Condensation point", "Melting point", "Evaporation point"],
+          "answer": "Melting point"
+        },
+        {
+          "q": "Evaporation causes:",
+          "options": ["Heating", "Cooling", "No change", "Expansion"],
+          "answer": "Cooling"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 2,
+      "chapter_title": "Is Matter Around Us Pure?",
+      "questions": [
+        {
+          "q": "Pure substances contain:",
+          "options": ["Only water", "One type of particles", "Impurities", "Two types of particles"],
+          "answer": "One type of particles"
+        },
+        {
+          "q": "Milk is an example of:",
+          "options": ["Solution", "Suspension", "Colloid", "Pure substance"],
+          "answer": "Colloid"
+        },
+        {
+          "q": "Salt solution is a:",
+          "options": ["Suspension", "Pure element", "Homogeneous mixture", "Colloid"],
+          "answer": "Homogeneous mixture"
+        },
+        {
+          "q": "Tyndall effect is shown by:",
+          "options": ["Solution", "Colloid", "Liquid", "Solid"],
+          "answer": "Colloid"
+        },
+        {
+          "q": "Filtration separates:",
+          "options": ["Solids from liquids", "Liquids from gases", "Two liquids", "Two solids"],
+          "answer": "Solids from liquids"
+        },
+        {
+          "q": "The component present in smaller amount in solution:",
+          "options": ["Solute", "Solvent", "Colloid", "Solubility"],
+          "answer": "Solute"
+        },
+        {
+          "q": "Chromatography is used to separate:",
+          "options": ["Metals", "Insoluble solids", "Colours", "Gases only"],
+          "answer": "Colours"
+        },
+        {
+          "q": "Sea water is a:",
+          "options": ["Compound", "Element", "Mixture", "Colloid"],
+          "answer": "Mixture"
+        },
+        {
+          "q": "Suspension particles:",
+          "options": ["Do not settle", "Settle down", "Are invisible", "Are soluble"],
+          "answer": "Settle down"
+        },
+        {
+          "q": "Brass is a mixture of:",
+          "options": ["Zn and Cu", "Zn and Fe", "Cu and Ag", "Cu and Au"],
+          "answer": "Zn and Cu"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 3,
+      "chapter_title": "Atoms and Molecules",
+      "questions": [
+        {
+          "q": "Who gave law of conservation of mass?",
+          "options": ["Dalton", "Lavoisier", "Proust", "Bohr"],
+          "answer": "Lavoisier"
+        },
+        {
+          "q": "Atomicity of phosphorus is:",
+          "options": ["1", "2", "4", "5"],
+          "answer": "4"
+        },
+        {
+          "q": "Molecule of oxygen is:",
+          "options": ["O", "O2", "O3", "O4"],
+          "answer": "O2"
+        },
+        {
+          "q": "Avogadro number equals:",
+          "options": ["6.022 × 10^20", "6.022 × 10^21", "6.022 × 10^23", "6.022 × 10^26"],
+          "answer": "6.022 × 10^23"
+        },
+        {
+          "q": "Chemical formula of water:",
+          "options": ["H₂", "H₂O", "H₂O₂", "HO"],
+          "answer": "H₂O"
+        },
+        {
+          "q": "Who gave the atomic theory?",
+          "options": ["Dalton", "Thomson", "Bohr", "Chadwick"],
+          "answer": "Dalton"
+        },
+        {
+          "q": "1 mole of CO₂ contains:",
+          "options": ["3 atoms", "2 atoms", "6 atoms", "1 atom"],
+          "answer": "3 atoms"
+        },
+        {
+          "q": "Relative molecular mass is:",
+          "options": ["Sum of atomic masses", "Product of masses", "Mass/volume", "Density"],
+          "answer": "Sum of atomic masses"
+        },
+        {
+          "q": "Law of constant proportions given by:",
+          "options": ["Dalton", "Proust", "Bohr", "Thomson"],
+          "answer": "Proust"
+        },
+        {
+          "q": "NaCl is a:",
+          "options": ["Element", "Compound", "Mixture", "Colloid"],
+          "answer": "Compound"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 4,
+      "chapter_title": "Structure of the Atom",
+      "questions": [
+        {
+          "q": "Charge on electron:",
+          "options": ["Positive", "Negative", "Neutral", "None"],
+          "answer": "Negative"
+        },
+        {
+          "q": "Nucleus was discovered by:",
+          "options": ["Bohr", "Rutherford", "Dalton", "Chadwick"],
+          "answer": "Rutherford"
+        },
+        {
+          "q": "Neutron was discovered by:",
+          "options": ["Chadwick", "Dalton", "Bohr", "Thomson"],
+          "answer": "Chadwick"
+        },
+        {
+          "q": "Mass number is:",
+          "options": ["Protons only", "Protons + Neutrons", "Electrons + neutrons", "Electrons only"],
+          "answer": "Protons + Neutrons"
+        },
+        {
+          "q": "Isotopes have:",
+          "options": ["Same atomic number", "Different atomic number", "Same mass number", "No relation"],
+          "answer": "Same atomic number"
+        },
+        {
+          "q": "Bohr model explains:",
+          "options": ["Fixed energy shells", "No nucleus", "Circular nucleus", "Electron positive"],
+          "answer": "Fixed energy shells"
+        },
+        {
+          "q": "Electron carries charge:",
+          "options": ["+1", "0", "-1", "-2"],
+          "answer": "-1"
+        },
+        {
+          "q": "Number of protons in carbon:",
+          "options": ["6", "12", "14", "8"],
+          "answer": "6"
+        },
+        {
+          "q": "Isobars have equal:",
+          "options": ["Atomic number", "Mass number", "Protons", "Neutrons"],
+          "answer": "Mass number"
+        },
+        {
+          "q": "Electron is located in:",
+          "options": ["Nucleus", "Shells", "Between atoms", "None"],
+          "answer": "Shells"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 5,
+      "chapter_title": "The Fundamental Unit of Life",
+      "questions": [
+        {
+          "q": "Cell is discovered by:",
+          "options": ["Hooke", "Schleiden", "Schwann", "Virchow"],
+          "answer": "Hooke"
+        },
+        {
+          "q": "Powerhouse of cell:",
+          "options": ["Nucleus", "Mitochondria", "Ribosomes", "Golgi body"],
+          "answer": "Mitochondria"
+        },
+        {
+          "q": "Plant cells have:",
+          "options": ["Cell wall", "No nucleus", "No membrane", "No vacuole"],
+          "answer": "Cell wall"
+        },
+        {
+          "q": "Selectively permeable membrane is:",
+          "options": ["Cell wall", "Plasma membrane", "Vacuole", "Nucleus"],
+          "answer": "Plasma membrane"
+        },
+        {
+          "q": "Genetic material is found in:",
+          "options": ["Vacuole", "Cytoplasm", "Nucleus", "Ribosome"],
+          "answer": "Nucleus"
+        },
+        {
+          "q": "Which is non-living boundary?",
+          "options": ["Cell membrane", "Cell wall", "Nucleus", "Golgi body"],
+          "answer": "Cell wall"
+        },
+        {
+          "q": "Photosynthesis occurs in:",
+          "options": ["Mitochondria", "Nucleus", "Chloroplast", "Golgi"],
+          "answer": "Chloroplast"
+        },
+        {
+          "q": "Ribosomes help in:",
+          "options": ["Respiration", "Protein synthesis", "Excretion", "Division"],
+          "answer": "Protein synthesis"
+        },
+        {
+          "q": "Largest cell organelle in plants:",
+          "options": ["Chloroplast", "Vacuole", "Nucleus", "ER"],
+          "answer": "Vacuole"
+        },
+        {
+          "q": "Cell theory given by:",
+          "options": ["Schleiden & Schwann", "Hooke", "Watson", "Crick"],
+          "answer": "Schleiden & Schwann"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 6,
+      "chapter_title": "Tissues",
+      "questions": [
+        {
+          "q": "Group of similar cells performing same function:",
+          "options": ["Organ", "Organ system", "Tissue", "Cell"],
+          "answer": "Tissue"
+        },
+        {
+          "q": "Xylem transports:",
+          "options": ["Food", "Water", "Oxygen", "Waste"],
+          "answer": "Water"
+        },
+        {
+          "q": "Phloem transports:",
+          "options": ["Water", "Minerals", "Food", "Waste"],
+          "answer": "Food"
+        },
+        {
+          "q": "Epithelial tissue is:",
+          "options": ["Protective", "Conductive", "Contractile", "None"],
+          "answer": "Protective"
+        },
+        {
+          "q": "Blood is a:",
+          "options": ["Muscular tissue", "Connective tissue", "Nervous tissue", "Epithelial tissue"],
+          "answer": "Connective tissue"
+        },
+        {
+          "q": "Which tissue contracts?",
+          "options": ["Muscular", "Nervous", "Epithelial", "Adipose"],
+          "answer": "Muscular"
+        },
+        {
+          "q": "Meristematic tissues are found in:",
+          "options": ["Roots & shoots", "Leaves", "Flowers", "Seeds"],
+          "answer": "Roots & shoots"
+        },
+        {
+          "q": "Nervous tissue contains:",
+          "options": ["Neurons", "Guard cells", "Parenchyma", "Trachea"],
+          "answer": "Neurons"
+        },
+        {
+          "q": "Fat storing tissue:",
+          "options": ["Blood", "Adipose", "Bone", "Cartilage"],
+          "answer": "Adipose"
+        },
+        {
+          "q": "Sclerenchyma provides:",
+          "options": ["Softness", "Mechanical strength", "Photosynthesis", "Transport"],
+          "answer": "Mechanical strength"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 7,
+      "chapter_title": "Motion",
+      "questions": [
+        {
+          "q": "Distance is a:",
+          "options": ["Vector", "Scalar", "Tensor", "None"],
+          "answer": "Scalar"
+        },
+        {
+          "q": "Velocity involves:",
+          "options": ["Speed only", "Direction only", "Speed & direction", "Mass"],
+          "answer": "Speed & direction"
+        },
+        {
+          "q": "Acceleration is:",
+          "options": ["Change of velocity", "Change of distance", "Time difference", "Speed"],
+          "answer": "Change of velocity"
+        },
+        {
+          "q": "Slope of distance-time graph gives:",
+          "options": ["Velocity", "Acceleration", "Distance", "Speed"],
+          "answer": "Speed"
+        },
+        {
+          "q": "Speed formula:",
+          "options": ["Distance × time", "Distance/time", "Time/distance", "None"],
+          "answer": "Distance/time"
+        },
+        {
+          "q": "Uniform motion means:",
+          "options": ["Equal distances in equal intervals", "Changing speed", "Increasing speed", "None"],
+          "answer": "Equal distances in equal intervals"
+        },
+        {
+          "q": "Equation: v = u + at represents:",
+          "options": ["Speed", "Force", "Equation of motion", "Energy"],
+          "answer": "Equation of motion"
+        },
+        {
+          "q": "Area under velocity-time graph gives:",
+          "options": ["Speed", "Acceleration", "Displacement", "Mass"],
+          "answer": "Displacement"
+        },
+        {
+          "q": "Negative acceleration is called:",
+          "options": ["Acceleration", "Uniform motion", "Retardation", "Speed"],
+          "answer": "Retardation"
+        },
+        {
+          "q": "SI unit of speed:",
+          "options": ["m/s", "km/h", "cm/s", "m²/s"],
+          "answer": "m/s"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 8,
+      "chapter_title": "Force and Laws of Motion",
+      "questions": [
+        {
+          "q": "Force is a:",
+          "options": ["Scalar", "Vector", "Mass", "Energy"],
+          "answer": "Vector"
+        },
+        {
+          "q": "Newton's first law is also called:",
+          "options": ["Law of inertia", "Law of acceleration", "Law of force", "Law of action-reaction"],
+          "answer": "Law of inertia"
+        },
+        {
+          "q": "Momentum formula:",
+          "options": ["mv", "m/v", "v/m", "m+v"],
+          "answer": "mv"
+        },
+        {
+          "q": "Unit of force:",
+          "options": ["Joule", "Newton", "Watt", "Pascal"],
+          "answer": "Newton"
+        },
+        {
+          "q": "Action and reaction forces are:",
+          "options": ["Equal & opposite", "Unequal", "Same direction", "None"],
+          "answer": "Equal & opposite"
+        },
+        {
+          "q": "Acceleration directly depends on:",
+          "options": ["Mass", "Force", "Distance", "Time"],
+          "answer": "Force"
+        },
+        {
+          "q": "Momentum is conserved if:",
+          "options": ["No external force", "Gravity exists", "Mass changes", "Temperature changes"],
+          "answer": "No external force"
+        },
+        {
+          "q": "SI unit of momentum:",
+          "options": ["kg m/s", "m/s²", "N", "J"],
+          "answer": "kg m/s"
+        },
+        {
+          "q": "Force equals:",
+          "options": ["ma", "mv", "m/a", "m+v"],
+          "answer": "ma"
+        },
+        {
+          "q": "Which is not a law of motion?",
+          "options": ["Inertia", "Acceleration", "Action-reaction", "Expansion"],
+          "answer": "Expansion"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 9,
+      "chapter_title": "Gravitation",
+      "questions": [
+        {
+          "q": "Gravity is:",
+          "options": ["Force of attraction", "Force of repulsion", "Magnetic force", "Electric force"],
+          "answer": "Force of attraction"
+        },
+        {
+          "q": "Formula for weight:",
+          "options": ["mg", "m/g", "g/m", "m+g"],
+          "answer": "mg"
+        },
+        {
+          "q": "Value of g on Earth:",
+          "options": ["2 m/s²", "4.9 m/s²", "9.8 m/s²", "20 m/s²"],
+          "answer": "9.8 m/s²"
+        },
+        {
+          "q": "Free fall is motion under:",
+          "options": ["Gravity only", "Friction", "Air resistance", "Magnetic force"],
+          "answer": "Gravity only"
+        },
+        {
+          "q": "Mass of object on moon:",
+          "options": ["Same", "Double", "Half", "Zero"],
+          "answer": "Same"
+        },
+        {
+          "q": "Weight on moon is:",
+          "options": ["1/2", "1/4", "1/6", "1/8"],
+          "answer": "1/6"
+        },
+        {
+          "q": "Pressure formula:",
+          "options": ["Force × area", "Force/area", "Area/force", "Force + area"],
+          "answer": "Force/area"
+        },
+        {
+          "q": "Buoyant force acts:",
+          "options": ["Downward", "Upward", "Sideways", "None"],
+          "answer": "Upward"
+        },
+        {
+          "q": "Archimedes principle is about:",
+          "options": ["Sound", "Light", "Buoyancy", "Heat"],
+          "answer": "Buoyancy"
+        },
+        {
+          "q": "Unit of pressure:",
+          "options": ["Newton", "Pascal", "Joule", "Watt"],
+          "answer": "Pascal"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 10,
+      "chapter_title": "Work and Energy",
+      "questions": [
+        {
+          "q": "Work is done when:",
+          "$options": ["Force is applied", "Displacement occurs", "Both force & displacement", "Time passes"],
+          "answer": "Both force & displacement"
+        },
+        {
+          "q": "Unit of work:",
+          "options": ["Newton", "Watt", "Joule", "Pascal"],
+          "answer": "Joule"
+        },
+        {
+          "q": "Kinetic energy formula:",
+          "options": ["½mv²", "mgh", "mv", "ma"],
+          "answer": "½mv²"
+        },
+        {
+          "q": "Potential energy formula:",
+          "options": ["½mv²", "mgh", "mv", "ma"],
+          "answer": "mgh"
+        },
+        {
+          "q": "Energy cannot be:",
+          "options": ["Created", "Destroyed", "Both", "Converted"],
+          "answer": "Both"
+        },
+        {
+          "q": "Power is:",
+          "options": ["Work × time", "Work/time", "Time/work", "None"],
+          "answer": "Work/time"
+        },
+        {
+          "q": "SI unit of power:",
+          "options": ["Watt", "Joule", "Newton", "Pascal"],
+          "answer": "Watt"
+        },
+        {
+          "q": "1 Watt =",
+          "options": ["1 J/s", "1 N/s", "1 J", "1 N"],
+          "answer": "1 J/s"
+        },
+        {
+          "q": "Work done against gravity:",
+          "options": ["Zero", "mgh", "½mv²", "Power"],
+          "answer": "mgh"
+        },
+        {
+          "q": "Mechanical energy =",
+          "options": ["KE + PE", "PE – KE", "KE – PE", "Force × time"],
+          "answer": "KE + PE"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 11,
+      "chapter_title": "Sound",
+      "questions": [
+        {
+          "q": "Sound needs:",
+          "options": ["Vacuum", "Medium", "Electricity", "Light"],
+          "answer": "Medium"
+        },
+        {
+          "q": "Unit of frequency:",
+          "options": ["Hertz", "Joule", "Pascal", "Newton"],
+          "answer": "Hertz"
+        },
+        {
+          "q": "Speed of sound highest in:",
+          "options": ["Solid", "Liquid", "Gas", "Vacuum"],
+          "answer": "Solid"
+        },
+        {
+          "q": "Ultrasound frequency:",
+          "options": ["<20 Hz", "20-20000 Hz", ">20000 Hz", "Any value"],
+          "answer": ">20000 Hz"
+        },
+        {
+          "q": "Loudness depends on:",
+          "options": ["Frequency", "Wavelength", "Amplitude", "Velocity"],
+          "answer": "Amplitude"
+        },
+        {
+          "q": "Pitch depends on:",
+          "options": ["Frequency", "Amplitude", "Speed", "Medium"],
+          "answer": "Frequency"
+        },
+        {
+          "q": "Reflection of sound is called:",
+          "options": ["Absorption", "Echo", "Diffusion", "Refraction"],
+          "answer": "Echo"
+        },
+        {
+          "q": "SONAR uses:",
+          "options": ["X-rays", "Light", "Ultrasound", "Radio waves"],
+          "answer": "Ultrasound"
+        },
+        {
+          "q": "Speed of sound formula:",
+          "options": ["v = λf", "v = f/λ", "v = f²λ", "v = λ²"],
+          "answer": "v = λf"
+        },
+        {
+          "q": "Human hearing range:",
+          "options": ["50–1000 Hz", "20–20000 Hz", "20000–40000 Hz", "5–100 Hz"],
+          "answer": "20–20000 Hz"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 12,
+      "chapter_title": "Improvement in Food Resources",
+      "questions": [
+        {
+          "q": "Manure improves:",
+          "options": ["Soil texture", "Crop diseases", "Evaporation", "Weeds only"],
+          "answer": "Soil texture"
+        },
+        {
+          "q": "Fertilizers are:",
+          "options": ["Organic", "Chemical", "Microbes", "Waste"],
+          "answer": "Chemical"
+        },
+        {
+          "q": "Irrigation provides:",
+          "options": ["Air", "Water", "Fertilizer", "Seed"],
+          "answer": "Water"
+        },
+        {
+          "q": "Weeding removes:",
+          "options": ["Crops", "Fertilizer", "Unwanted plants", "Animals"],
+          "answer": "Unwanted plants"
+        },
+        {
+          "q": "Poultry farming deals with:",
+          "options": ["Goats", "Cows", "Hens", "Sheep"],
+          "answer": "Hens"
+        },
+        {
+          "q": "Fish production is called:",
+          "options": ["Dairy", "Pisciculture", "Horticulture", "Poultry"],
+          "answer": "Pisciculture"
+        },
+        {
+          "q": "Bee keeping is:",
+          "options": ["Sericulture", "Aquaculture", "Apiculture", "Piggery"],
+          "answer": "Apiculture"
+        },
+        {
+          "q": "Disease-resistant crops are:",
+          "options": ["Weak", "Strong", "Low yield", "All are wrong"],
+          "answer": "Strong"
+        },
+        {
+          "q": "Nitrogen-fixing bacteria:",
+          "options": ["Rhizobium", "Lactobacillus", "Salmonella", "E.coli"],
+          "answer": "Rhizobium"
+        },
+        {
+          "q": "Crop rotation helps in:",
+          "options": ["Soil damage", "Soil fertility", "Pest increase", "Water loss"],
+          "answer": "Soil fertility"
+        }
+      ]
+    }
+
+  ]
+}

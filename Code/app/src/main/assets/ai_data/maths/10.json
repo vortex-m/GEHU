@@ -1,0 +1,43 @@
+{
+  "filename": "iemh110.pdf",
+  "title": "Heron's Formula",
+  "source": ":contentReference[oaicite:7]{index=7}",
+  "chapters": [
+    {
+      "chapter": "10.1 Area of Triangle (Classical Method)",
+      "summary": "The chapter begins by recalling the standard formula for the area of a triangle: A = (1/2) × base × height. However, in many real-life applications the height is not directly known. Situations like land measurement, surveying, and navigation require triangle areas using only side lengths. This motivates Heron's formula.",
+      "visuals": [
+        "Triangles with different bases and heights."
+      ]
+    },
+
+    {
+      "chapter": "10.2 Heron's Formula",
+      "summary": "Heron's Formula allows the area of any triangle to be computed when only the side lengths are known. Let the sides be a, b, c and let s = (a + b + c)/2 be the semi-perimeter. The area is then A = √[s(s − a)(s − b)(s − c)]. The chapter includes multiple worked examples involving integer and non-integer sides, as well as applications like finding the area of fields, plots, triangular tiles, and composite shapes broken down into triangles.",
+      "definitions": {
+        "Semi-perimeter": "s = (a + b + c)/2",
+        "Area (Heron)": "A = √[s(s − a)(s − b)(s − c)]"
+      },
+      "meta": {
+        "formulas": [
+          "s = (a + b + c)/2",
+          "A = √[s(s − a)(s − b)(s − c)]"
+        ]
+      },
+      "examples": [
+        "Triangle with sides 7, 8, 9.",
+        "Field divided into two triangles; total area = sum of areas."
+      ]
+    },
+
+    {
+      "chapter": "10.3 Applications",
+      "summary": "Used for land surveys, architecture, navigation, and dividing irregular shapes. The method is useful when heights are difficult to measure or when only boundary lengths are given."
+    },
+
+    {
+      "chapter": "10.4 Summary",
+      "summary": "Heron’s formula provides a universal method for finding areas from side lengths alone, eliminating the need to compute height. The chapter reinforces its use through multiple exercises."
+    }
+  ]
+}

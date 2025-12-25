@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Layout animation controller for staggered list item entrance -->
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@anim/list_item_slide_in"
+    android:delay="15%"
+    android:animationOrder="normal" />

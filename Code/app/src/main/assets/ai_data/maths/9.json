@@ -1,0 +1,54 @@
+{
+  "filename": "iemh109.pdf",
+  "title": "Circles",
+  "source": ":contentReference[oaicite:6]{index=6}",
+  "chapters": [
+    {
+      "chapter": "9.1 Introduction to Circles",
+      "summary": "A circle is the collection of all points in a plane that are at a fixed distance from a fixed point called the centre. This distance is the radius. Other important terms include: chord (a line segment joining two points on the circle), diameter (longest chord, twice the radius), arc (a portion of the circumference), segment (region cut off by a chord), sector (region enclosed by two radii), and circumference. This section emphasizes that circles are symmetrical objects used in wheels, gears, designs, roundabouts, clocks, instruments and measurement devices.",
+      "definitions": {
+        "Centre": "Fixed point from which all points on the circle are equidistant.",
+        "Radius": "Distance from centre to any point on the circle.",
+        "Diameter": "Longest chord; d = 2r.",
+        "Chord": "Line segment joining any two points on the circle."
+      },
+      "visuals": [
+        "Basic circle diagram with radius, diameter, chord, arc, sector and segment labelled."
+      ]
+    },
+
+    {
+      "chapter": "9.2 Angles and Chords",
+      "summary": "This section develops the fundamental relationship between chords and the angles they subtend. A chord subtends an angle at the centre and also at points on the remaining circle. Important results: (1) Equal chords subtend equal angles at the centre; (2) Conversely, if angles at the centre are equal, corresponding chords are equal; (3) The perpendicular from the centre to a chord bisects the chord; (4) The chord closer to the centre is longer. Several diagrams illustrate these results with stepwise proofs using triangle congruence and isosceles triangle properties.",
+      "theorems": [
+        "Equal chords subtend equal angles at the centre.",
+        "If angles at the centre are equal, the corresponding chords are equal.",
+        "Perpendicular from centre to chord bisects the chord.",
+        "Chord nearer to centre is longer."
+      ],
+      "meta": {
+        "formulas": [
+          "If ∠AOB = ∠COD, then AB = CD.",
+          "If OM ⟂ AB, then AM = MB.",
+          "Longer chord ↔ closer to centre."
+        ]
+      }
+    },
+
+    {
+      "chapter": "9.3 Cyclic Properties",
+      "summary": "A cyclic quadrilateral is a quadrilateral whose all four vertices lie on a circle. Key results: (1) Opposite angles of a cyclic quadrilateral are supplementary; (2) Exterior angle equals opposite interior angle. These follow from angle–chord relationships. Examples include solving for missing angles in circle diagrams, proving quadrilaterals are cyclic, and analyzing cyclic configurations in geometric constructions.",
+      "meta": {
+        "theorems": [
+          "Opposite angles of a cyclic quadrilateral sum to 180°.",
+          "Exterior angle = interior opposite angle."
+        ]
+      }
+    },
+
+    {
+      "chapter": "9.4 Summary",
+      "summary": "The chapter ties together chord–angle relationships, perpendicular bisector properties, and cyclic quadrilateral results. These concepts form the basis for solving advanced geometry problems involving intersections, tangents, triangles drawn inside circles, and angle chasing."
+    }
+  ]
+}

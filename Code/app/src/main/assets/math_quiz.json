@@ -1,0 +1,746 @@
+{
+  "quiz": [
+
+    {
+      "chapter_number": 1,
+      "chapter_title": "Number Systems",
+      "questions": [
+        {
+          "q": "Which of the following is an irrational number?",
+          "options": ["4/5", "0.3333", "√2", "5"],
+          "answer": "√2"
+        },
+        {
+          "q": "Which set contains zero?",
+          "options": ["Natural Numbers", "Whole Numbers", "Integers", "Rational Numbers"],
+          "answer": "Whole Numbers"
+        },
+        {
+          "q": "The value of (a + b)/2 is used to find:",
+          "options": ["Difference", "Product", "Average", "Rational number between a and b"],
+          "answer": "Rational number between a and b"
+        },
+        {
+          "q": "Which number has non-terminating, non-recurring decimal expansion?",
+          "options": ["3.14", "√3", "2.5", "1.25"],
+          "answer": "√3"
+        },
+        {
+          "q": "Real numbers include:",
+          "options": ["Only Rational", "Only Irrational", "Both Rational and Irrational", "Only Integers"],
+          "answer": "Both Rational and Irrational"
+        },
+        {
+          "q": "Terminating decimal of 1/4 is:",
+          "options": ["0.1", "0.25", "0.3", "0.125"],
+          "answer": "0.25"
+        },
+        {
+          "q": "1/a⁻² equals:",
+          "options": ["a²", "1/a²", "a", "a⁻²"],
+          "answer": "a²"
+        },
+        {
+          "q": "Which is NOT a real number?",
+          "options": ["√5", "√-5", "3π", "3/7"],
+          "answer": "√-5"
+        },
+        {
+          "q": "If a = 4 and b = 9, find √ab.",
+          "options": ["6", "12", "36", "3"],
+          "answer": "6"
+        },
+        {
+          "q": "Which is equal to 2^-3?",
+          "options": ["1/8", "8", "4", "16"],
+          "answer": "1/8"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 2,
+      "chapter_title": "Polynomials",
+      "questions": [
+        {
+          "q": "A polynomial of degree 1 is called:",
+          "options": ["Linear", "Quadratic", "Cubic", "Constant"],
+          "answer": "Linear"
+        },
+        {
+          "q": "Degree of 3x² – 7:",
+          "options": ["1", "2", "0", "3"],
+          "answer": "2"
+        },
+        {
+          "q": "If p(2) = 0, then (x - 2) is:",
+          "options": ["Zero", "Factor", "Degree", "Identity"],
+          "answer": "Factor"
+        },
+        {
+          "q": "(x + y)² equals:",
+          "options": ["x² + y²", "x² + 2xy + y²", "2x + 2y", "xy + y²"],
+          "answer": "x² + 2xy + y²"
+        },
+        {
+          "q": "Polynomial in one variable must have:",
+          "options": ["Integer exponents", "Negative exponents", "Fractional exponents", "Variable in denominator"],
+          "answer": "Integer exponents"
+        },
+        {
+          "q": "Value of x in p(x)= x - 5 at x=5:",
+          "options": ["0", "5", "10", "-5"],
+          "answer": "0"
+        },
+        {
+          "q": "A constant polynomial has degree:",
+          "options": ["0", "1", "2", "Cannot be determined"],
+          "answer": "0"
+        },
+        {
+          "q": "Which is an identity?",
+          "options": ["x = y", "(x - y)(x + y) = x² - y²", "x = 5", "p(x)=0"],
+          "answer": "(x - y)(x + y) = x² - y²"
+        },
+        {
+          "q": "Zero of polynomial means:",
+          "options": ["p(x)=1", "p(x)=x", "p(x)=0", "p(x)=x+1"],
+          "answer": "p(x)=0"
+        },
+        {
+          "q": "Remainder theorem gives remainder of:",
+          "options": ["(x + a)", "(x - a)", "ax + b", "x²"],
+          "answer": "(x - a)"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 3,
+      "chapter_title": "Coordinate Geometry",
+      "questions": [
+        {
+          "q": "The point where x-axis and y-axis intersect:",
+          "options": ["Origin", "Abscissa", "Ordinate", "Plane"],
+          "answer": "Origin"
+        },
+        {
+          "q": "Coordinates of origin:",
+          "options": ["(1,1)", "(0,0)", "(-1,0)", "(0,-1)"],
+          "answer": "(0,0)"
+        },
+        {
+          "q": "Distance from y-axis is:",
+          "options": ["x-coordinate", "y-coordinate", "origin", "quadrant"],
+          "answer": "x-coordinate"
+        },
+        {
+          "q": "Quadrant II sign combination:",
+          "options": ["(+,+)", "(-,+)", "(-,-)", "(+,-)"],
+          "answer": "(-,+)"
+        },
+        {
+          "q": "The point (3, -4) lies in:",
+          "options": ["Quadrant I", "Quadrant II", "Quadrant IV", "Quadrant III"],
+          "answer": "Quadrant IV"
+        },
+        {
+          "q": "Cartesian plane is also called:",
+          "options": ["Rectangular coordinate system", "Polar plane", "Graph set", "Axis table"],
+          "answer": "Rectangular coordinate system"
+        },
+        {
+          "q": "Which is NOT a coordinate?",
+          "options": ["(5, 6)", "(3, -1)", "(0, 0)", "(5)"],
+          "answer": "(5)"
+        },
+        {
+          "q": "(x,y) → x is:",
+          "options": ["ordinate", "abscissa", "origin", "none"],
+          "answer": "abscissa"
+        },
+        {
+          "q": "How many quadrants?",
+          "options": ["2", "3", "4", "5"],
+          "answer": "4"
+        },
+        {
+          "q": "Point (0, y) lies on:",
+          "options": ["x-axis", "y-axis", "origin", "quad 1"],
+          "answer": "y-axis"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 4,
+      "chapter_title": "Linear Equations in Two Variables",
+      "questions": [
+        {
+          "q": "General form: ",
+          "options": ["ax² + bx + c", "ax + by + c = 0", "x + y²", "x³ + y"],
+          "answer": "ax + by + c = 0"
+        },
+        {
+          "q": "Graph of linear equation:",
+          "options": ["Circle", "Parabola", "Straight line", "Curve"],
+          "answer": "Straight line"
+        },
+        {
+          "q": "Number of solutions:",
+          "options": ["1", "2", "Infinitely many", "None"],
+          "answer": "Infinitely many"
+        },
+        {
+          "q": "x-axis equation:",
+          "options": ["y = 0", "x = 0", "x + y = 0", "xy = 0"],
+          "answer": "y = 0"
+        },
+        {
+          "q": "Solution of equation is:",
+          "options": ["single value", "pair (x,y)", "line", "graph"],
+          "answer": "pair (x,y)"
+        },
+        {
+          "q": "Slope of vertical line:",
+          "options": ["0", "Undefined", "1", "-1"],
+          "answer": "Undefined"
+        },
+        {
+          "q": "Equation of y-axis:",
+          "options": ["y = 0", "x = 0", "x + y = 1", "x = y"],
+          "answer": "x = 0"
+        },
+        {
+          "q": "Graph of x + y = 10 is:",
+          "options": ["Horizontal", "Vertical", "Slanted", "Circle"],
+          "answer": "Slanted"
+        },
+        {
+          "q": "Which is NOT linear?",
+          "options": ["x + y = 1", "2x - y = 3", "xy = 4", "x - 3 = 0"],
+          "answer": "xy = 4"
+        },
+        {
+          "q": "Graph of 2x = 6:",
+          "options": ["x=3 vertical", "y=3 horizontal", "parabola", "none"],
+          "answer": "x=3 vertical"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 5,
+      "chapter_title": "Introduction to Euclid's Geometry",
+      "questions": [
+        {
+          "q": "A point has:",
+          "options": ["Length", "Breadth", "No size", "Area"],
+          "answer": "No size"
+        },
+        {
+          "q": "A line has:",
+          "options": ["Length only", "Area", "Volume", "width"],
+          "answer": "Length only"
+        },
+        {
+          "q": "Things equal to the same thing:",
+          "options": ["Unequal", "Equal", "Undefined", "Opposite"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Right angles are:",
+          "options": ["Unequal", "Equal", "Variable", "none"],
+          "answer": "Equal"
+        },
+        {
+          "q": "A straight line can:",
+          "options": ["End quickly", "Extend indefinitely", "Turn", "Curve"],
+          "answer": "Extend indefinitely"
+        },
+        {
+          "q": "Euclidean geometry is based on:",
+          "options": ["Experiments", "Axioms and postulates", "Graphs", "Calculus"],
+          "answer": "Axioms and postulates"
+        },
+        {
+          "q": "An axiom is:",
+          "options": ["Proven", "Assumed true", "False", "Complex"],
+          "answer": "Assumed true"
+        },
+        {
+          "q": "Postulate about circles:",
+          "options": ["Only diameter", "Only arc", "Any radius and center", "No center"],
+          "answer": "Any radius and center"
+        },
+        {
+          "q": "Which is Euclid’s definition?",
+          "options": ["Point has no part", "Line bends", "Plane is curved", "Angles unequal"],
+          "answer": "Point has no part"
+        },
+        {
+          "q": "Opposite of whole is:",
+          "options": ["Full", "Part", "Equal", "Zero"],
+          "answer": "Part"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 6,
+      "chapter_title": "Lines and Angles",
+      "questions": [
+        {
+          "q": "Sum of linear pair:",
+          "options": ["90°", "45°", "180°", "360°"],
+          "answer": "180°"
+        },
+        {
+          "q": "Vertically opposite angles are:",
+          "options": ["Equal", "Supplementary", "Right", "None"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Corresponding angles in parallel lines are:",
+          "options": ["Unequal", "Equal", "Zero", "Double"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Alternate interior angles are:",
+          "options": ["Equal", "Sum 360", "Different", "None"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Straight angle equals:",
+          "options": ["90°", "180°", "270°", "360°"],
+          "answer": "180°"
+        },
+        {
+          "q": "Acute angle is:",
+          "options": ["<90°", "=90°", ">90°", ">180°"],
+          "answer": "<90°"
+        },
+        {
+          "q": "Parallel lines intersect?",
+          "options": ["Yes", "No", "Sometimes", "Only once"],
+          "answer": "No"
+        },
+        {
+          "q": "Two angles sum to 90° are:",
+          "options": ["Supplementary", "Complementary", "Right", "Equal"],
+          "answer": "Complementary"
+        },
+        {
+          "q": "Reflex angle measurement:",
+          "options": ["<90", ">180", "100-180", "None"],
+          "answer": ">180"
+        },
+        {
+          "q": "In a linear pair:",
+          "options": ["Two acute", "One obtuse", "One acute + one obtuse", "Sum 90°"],
+          "answer": "One acute + one obtuse"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 7,
+      "chapter_title": "Triangles",
+      "questions": [
+        {
+          "q": "Angle sum of triangle:",
+          "options": ["90°", "120°", "180°", "360°"],
+          "answer": "180°"
+        },
+        {
+          "q": "SAS stands for:",
+          "options": ["Side-Angle-Side", "Side-Angle-Shape", "Straight-Angle-Side", "None"],
+          "answer": "Side-Angle-Side"
+        },
+        {
+          "q": "Equilateral triangle each angle:",
+          "options": ["90°", "45°", "60°", "120°"],
+          "answer": "60°"
+        },
+        {
+          "q": "Isosceles triangle has:",
+          "options": ["1 equal side", "2 equal sides", "3 equal sides", "4 equal sides"],
+          "answer": "2 equal sides"
+        },
+        {
+          "q": "RHS applies to:",
+          "options": ["Any triangle", "Right triangle", "Acute triangle", "Obtuse triangle"],
+          "answer": "Right triangle"
+        },
+        {
+          "q": "Triangle with one angle >90°:",
+          "options": ["Acute", "Right", "Obtuse", "Equilateral"],
+          "answer": "Obtuse"
+        },
+        {
+          "q": "SSS proves:",
+          "options": ["Similarity", "Congruence", "Area", "Median"],
+          "answer": "Congruance"
+        },
+        {
+          "q": "Median divides triangle into:",
+          "options": ["Equal angles", "2 equal areas", "3 equal sides", "None"],
+          "answer": "2 equal areas"
+        },
+        {
+          "q": "Height of triangle is:",
+          "options": ["Perpendicular", "Parallel", "Side", "Bisector"],
+          "answer": "Perpendicular"
+        },
+        {
+          "q": "Which is NOT a congruence rule?",
+          "options": ["SAS", "ASA", "AAS", "SSA"],
+          "answer": "SSA"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 8,
+      "chapter_title": "Quadrilaterals",
+      "questions": [
+        {
+          "q": "Opposite sides of parallelogram:",
+          "options": ["Unequal", "Equal", "Random", "Perpendicular"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Diagonals of parallelogram:",
+          "options": ["Bisect", "Equal", "Never meet", "Parallel"],
+          "answer": "Bisect"
+        },
+        {
+          "q": "Sum of interior angles of quadrilateral:",
+          "options": ["180°", "270°", "360°", "720°"],
+          "answer": "360°"
+        },
+        {
+          "q": "Rectangle has:",
+          "options": ["4 obtuse angles", "4 right angles", "No angle", "2 right angles"],
+          "answer": "4 right angles"
+        },
+        {
+          "q": "Rhombus sides:",
+          "options": ["Equal", "Not equal", "One equal", "All different"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Square is:",
+          "options": ["Rectangle only", "Rhombus only", "Both rectangle & rhombus", "Neither"],
+          "answer": "Both rectangle & rhombus"
+        },
+        {
+          "q": "Midpoint theorem gives:",
+          "options": ["Parallel line", "Perpendicular line", "Random line", "None"],
+          "answer": "Parallel line"
+        },
+        {
+          "q": "Diagonal of rectangle:",
+          "options": ["Bisect", "Not equal", "Equal", "None"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Parallelogram opposite angles:",
+          "options": ["Equal", "Unequal", "0°", "360°"],
+          "answer": "Equal"
+        },
+        {
+          "q": "Trapezium has:",
+          "options": ["No parallel sides", "1 pair of parallel sides", "2 pairs", "4 parallel sides"],
+          "answer": "1 pair of parallel sides"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 9,
+      "chapter_title": "Circles",
+      "questions": [
+        {
+          "q": "Chord is:",
+          "options": ["Line inside circle", "Line joining two points on circle", "Radius", "Diameter only"],
+          "answer": "Line joining two points on circle"
+        },
+        {
+          "q": "Perpendicular from center to chord:",
+          "options": ["Bisects chord", "Double chord", "Touches arc", "Equals radius"],
+          "answer": "Bisects chord"
+        },
+        {
+          "q": "Angle at center equals:",
+          "options": ["Half of angle at circle", "Double angle at circle", "Same", "None"],
+          "answer": "Double angle at circle"
+        },
+        {
+          "q": "Diameter is:",
+          "options": ["Half radius", "Longest chord", "Equal to radius", "Smallest chord"],
+          "answer": "Longest chord"
+        },
+        {
+          "q": "Cyclic quadrilateral opposite angles:",
+          "options": ["Equal", "Sum 180°", "Sum 90°", "Random"],
+          "answer": "Sum 180°"
+        },
+        {
+          "q": "Arc is:",
+          "options": ["Straight line", "Part of circumference", "Chord", "Point"],
+          "answer": "Part of circumference"
+        },
+        {
+          "q": "Semicircle angle:",
+          "options": ["180°", "90°", "45°", "360°"],
+          "answer": "90°"
+        },
+        {
+          "q": "Two radii form:",
+          "options": ["Triangle", "Chord", "Angle at center", "None"],
+          "answer": "Angle at center"
+        },
+        {
+          "q": "Equal chords are:",
+          "options": ["Different", "Equidistant from center", "Random", "All diameters"],
+          "answer": "Equidistant from center"
+        },
+        {
+          "q": "Full circle angle measure:",
+          "options": ["90°", "180°", "270°", "360°"],
+          "answer": "360°"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 10,
+      "chapter_title": "Heron’s Formula",
+      "questions": [
+        {
+          "q": "Semi-perimeter formula:",
+          "options": ["(a+b)/2", "(a+b+c)/3", "(a+b+c)/2", "None"],
+          "answer": "(a+b+c)/2"
+        },
+        {
+          "q": "Heron's formula uses:",
+          "options": ["Three sides", "Base and height", "All angles", "One side only"],
+          "answer": "Three sides"
+        },
+        {
+          "q": "Area triangle formula (Heron):",
+          "options": ["s(s−a)", "√(s(s−a)(s−b)(s−c))", "ab/2", "abc"],
+          "answer": "√(s(s−a)(s−b)(s−c))"
+        },
+        {
+          "q": "For which triangle Heron's formula works?",
+          "options": ["Only right", "Only acute", "Only obtuse", "Any triangle"],
+          "answer": "Any triangle"
+        },
+        {
+          "q": "If a=b=c in triangle:",
+          "options": ["Right", "Equilateral", "Scalene", "Isosceles"],
+          "answer": "Equilateral"
+        },
+        {
+          "q": "Area of equilateral triangle:",
+          "options": ["√3 a²/4", "a²", "a", "2a"],
+          "answer": "√3 a²/4"
+        },
+        {
+          "q": "Heron’s formula requires:",
+          "options": ["Sides only", "Height only", "Radii", "Angles"],
+          "answer": "Sides only"
+        },
+        {
+          "q": "If s = 10, find 2s:",
+          "options": ["10", "20", "5", "0"],
+          "answer": "20"
+        },
+        {
+          "q": "Which is side of triangle?",
+          "options": ["Length", "Width", "Height only", "Curved line"],
+          "answer": "Length"
+        },
+        {
+          "q": "b in triangle formula stands for:",
+          "options": ["Angle", "Side", "Area", "None"],
+          "answer": "Side"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 11,
+      "chapter_title": "Surface Areas and Volumes",
+      "questions": [
+        {
+          "q": "Surface area of sphere:",
+          "options": ["2πr²", "3πr²", "4πr²", "πr²"],
+          "answer": "4πr²"
+        },
+        {
+          "q": "Volume of sphere:",
+          "options": ["(4/3)πr³", "πr²", "2πr", "3πr²"],
+          "answer": "(4/3)πr³"
+        },
+        {
+          "q": "CSA of cone:",
+          "options": ["πrl", "πr²", "2πr²", "rl"],
+          "answer": "πrl"
+        },
+        {
+          "q": "TSA of cone:",
+          "options": ["πrl", "πr² + πrl", "2πrl", "2πr"],
+          "answer": "πrl + πr²"
+        },
+        {
+          "q": "Volume of cone:",
+          "options": ["πr²h", "(1/3)πr²h", "(2/3)πr²h", "rh/2"],
+          "answer": "(1/3)πr²h"
+        },
+        {
+          "q": "Sphere has:",
+          "options": ["Faces", "Edges", "Vertices", "None"],
+          "answer": "None"
+        },
+        {
+          "q": "Cone has:",
+          "options": ["2 bases", "1 base", "No base", "3 bases"],
+          "answer": "1 base"
+        },
+        {
+          "q": "Curved surface area involves:",
+          "options": ["Only flat areas", "Only curved region", "Vertices", "Angles"],
+          "answer": "Only curved region"
+        },
+        {
+          "q": "Slant height represented as:",
+          "options": ["h", "r", "l", "s"],
+          "answer": "l"
+        },
+        {
+          "q": "Total surface area includes:",
+          "options": ["Only curved", "Only base", "Curved + base areas", "None"],
+          "answer": "Curved + base areas"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": 12,
+      "chapter_title": "Statistics",
+      "questions": [
+        {
+          "q": "Statistics deals with:",
+          "options": ["Shapes", "Numbers", "Data collection & analysis", "Graphs only"],
+          "answer": "Data collection & analysis"
+        },
+        {
+          "q": "Graph used to compare data:",
+          "options": ["Circle", "Bar graph", "Dot graph", "Triangle"],
+          "answer": "Bar graph"
+        },
+        {
+          "q": "Mean formula:",
+          "options": ["sum × frequency", "sum / total values", "highest value", "none"],
+          "answer": "sum / total values"
+        },
+        {
+          "q": "Mode represents:",
+          "options": ["Least value", "Most frequent value", "Middle value", "Average"],
+          "answer": "Most frequent value"
+        },
+        {
+          "q": "Median is:",
+          "options": ["Middle value", "Sum", "Lowest value", "Highest value"],
+          "answer": "Middle value"
+        },
+        {
+          "q": "Data represented by bars:",
+          "options": ["Pie chart", "Bar graph", "Histogram", "Line graph"],
+          "answer": "Bar graph"
+        },
+        {
+          "q": "Frequency means:",
+          "options": ["Size", "Number of times value occurs", "Shape", "None"],
+          "answer": "Number of times value occurs"
+        },
+        {
+          "q": "Which is NOT a measure of central tendency?",
+          "options": ["Mean", "Mode", "Median", "Perimeter"],
+          "answer": "Perimeter"
+        },
+        {
+          "q": "Graphical representation helps in:",
+          "options": ["Confusion", "Clear understanding", "No use", "None"],
+          "answer": "Clear understanding"
+        },
+        {
+          "q": "Bar graph bars are:",
+          "options": ["Curved", "Slanted", "Rectangular", "Circular"],
+          "answer": "Rectangular"
+        }
+      ]
+    },
+
+    {
+      "chapter_number": "Miscellaneous",
+      "chapter_title": "Mixed Questions",
+      "questions": [
+        {
+          "q": "Which is an irrational number?",
+          "options": ["3/7", "√3", "0.33", "5"],
+          "answer": "√3"
+        },
+        {
+          "q": "Which identity is true?",
+          "options": ["x² + y² = (x + y)²", "x² - y² = (x + y)(x - y)", "x + y = xy", "None"],
+          "answer": "x² - y² = (x + y)(x - y)"
+        },
+        {
+          "q": "Point on y-axis is:",
+          "options": ["(x,0)", "(0,y)", "(x,y)", "(0,0)"],
+          "answer": "(0,y)"
+        },
+        {
+          "q": "Angle sum of triangle:",
+          "options": ["90", "180", "270", "360"],
+          "answer": "180"
+        },
+        {
+          "q": "Cyclic quadrilateral opposite angles:",
+          "options": ["Equal", "Sum 180", "Sum 90", "None"],
+          "answer": "Sum 180"
+        },
+        {
+          "q": "Area of triangle formula:",
+          "options": ["bh/2", "b + h", "bh", "b/h"],
+          "answer": "bh/2"
+        },
+        {
+          "q": "Volume of sphere:",
+          "options": ["4πr²", "(4/3)πr³", "2πr", "πr²"],
+          "answer": "(4/3)πr³"
+        },
+        {
+          "q": "Median divides triangle into:",
+          "options": ["2 equal areas", "Same angles", "Perpendicular", "None"],
+          "answer": "2 equal areas"
+        },
+        {
+          "q": "Mean of 5, 10, 15:",
+          "options": ["10", "5", "15", "12"],
+          "answer": "10"
+        },
+        {
+          "q": "Linear pair sum:",
+          "options": ["90", "180", "270", "360"],
+          "answer": "180"
+        }
+      ]
+    }
+
+  ]
+}

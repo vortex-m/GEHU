@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:gravity="start">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bubble_ai"
+        android:padding="12dp">
+
+        <!-- Regular TextView for non-math content -->
+        <TextView
+            android:id="@+id/aiMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:visibility="visible"/>
+
+        <!-- MathView for LaTeX/math content -->
+        <com.example.demolition.views.MathView
+            android:id="@+id/aiMathView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+    </FrameLayout>
+</LinearLayout>

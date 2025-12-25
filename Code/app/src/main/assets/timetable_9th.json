@@ -1,0 +1,269 @@
+{
+  "class": "9th",
+  "schedule": {
+    "monday": [
+      {
+        "period": "1",
+        "time": "09:30 - 10:10",
+        "subject": "Mathematics",
+        "type": "lecture"
+      },
+      {
+        "period": "2",
+        "time": "10:10 - 10:50",
+        "subject": "Science",
+        "type": "lecture"
+      },
+      {
+        "period": "3",
+        "time": "10:50 - 11:30",
+        "subject": "English",
+        "type": "lecture"
+      },
+      {
+        "period": "4",
+        "time": "11:30 - 12:10",
+        "subject": "Social Science",
+        "type": "lecture"
+      },
+      {
+        "period": "Break",
+        "time": "12:10 - 12:40",
+        "subject": "Break",
+        "type": "break"
+      },
+      {
+        "period": "5",
+        "time": "12:40 - 01:20",
+        "subject": "Hindi",
+        "type": "lecture"
+      },
+      {
+        "period": "6",
+        "time": "01:20 - 02:00",
+        "subject": "Computer Science",
+        "type": "lecture"
+      },
+      {
+        "period": "7",
+        "time": "02:00 - 02:40",
+        "subject": "Physical Education",
+        "type": "lecture"
+      }
+    ],
+    "tuesday": [
+      {
+        "period": "1",
+        "time": "09:30 - 10:10",
+        "subject": "Science",
+        "type": "lecture"
+      },
+      {
+        "period": "2",
+        "time": "10:10 - 10:50",
+        "subject": "Mathematics",
+        "type": "lecture"
+      },
+      {
+        "period": "3",
+        "time": "10:50 - 11:30",
+        "subject": "Social Science",
+        "type": "lecture"
+      },
+      {
+        "period": "4",
+        "time": "11:30 - 12:10",
+        "subject": "English",
+        "type": "lecture"
+      },
+      {
+        "period": "Break",
+        "time": "12:10 - 12:40",
+        "subject": "Break",
+        "type": "break"
+      },
+      {
+        "period": "5",
+        "time": "12:40 - 01:20",
+        "subject": "Hindi",
+        "type": "lecture"
+      },
+      {
+        "period": "6",
+        "time": "01:20 - 02:00",
+        "subject": "Art",
+        "type": "lecture"
+      },
+      {
+        "period": "7",
+        "time": "02:00 - 02:40",
+        "subject": "Music",
+        "type": "lecture"
+      },
+      {
+        "period": "8",
+        "time": "02:40 - 03:20",
+        "subject": "Computer Science",
+        "type": "lecture"
+      }
+    ],
+    "wednesday": [
+      {
+        "period": "1",
+        "time": "09:30 - 10:10",
+        "subject": "English",
+        "type": "lecture"
+      },
+      {
+        "period": "2",
+        "time": "10:10 - 10:50",
+        "subject": "Social Science",
+        "type": "lecture"
+      },
+      {
+        "period": "3",
+        "time": "10:50 - 11:30",
+        "subject": "Mathematics",
+        "type": "lecture"
+      },
+      {
+        "period": "4",
+        "time": "11:30 - 12:10",
+        "subject": "Science",
+        "type": "lecture"
+      },
+      {
+        "period": "Break",
+        "time": "12:10 - 12:40",
+        "subject": "Break",
+        "type": "break"
+      },
+      {
+        "period": "5",
+        "time": "12:40 - 01:20",
+        "subject": "Hindi",
+        "type": "lecture"
+      },
+      {
+        "period": "6",
+        "time": "01:20 - 02:00",
+        "subject": "Games",
+        "type": "lecture"
+      },
+      {
+        "period": "7",
+        "time": "02:00 - 02:40",
+        "subject": "Art",
+        "type": "lecture"
+      }
+    ],
+    "thursday": [
+      {
+        "period": "1",
+        "time": "09:30 - 10:10",
+        "subject": "Mathematics",
+        "type": "lecture"
+      },
+      {
+        "period": "2",
+        "time": "10:10 - 10:50",
+        "subject": "English",
+        "type": "lecture"
+      },
+      {
+        "period": "3",
+        "time": "10:50 - 11:30",
+        "subject": "Science",
+        "type": "lecture"
+      },
+      {
+        "period": "4",
+        "time": "11:30 - 12:10",
+        "subject": "Social Science",
+        "type": "lecture"
+      },
+      {
+        "period": "Break",
+        "time": "12:10 - 12:40",
+        "subject": "Break",
+        "type": "break"
+      },
+      {
+        "period": "5",
+        "time": "12:40 - 01:20",
+        "subject": "Hindi",
+        "type": "lecture"
+      },
+      {
+        "period": "6",
+        "time": "01:20 - 02:00",
+        "subject": "Physical Education",
+        "type": "lecture"
+      },
+      {
+        "period": "7",
+        "time": "02:00 - 02:40",
+        "subject": "Computer Science",
+        "type": "lecture"
+      },
+      {
+        "period": "8",
+        "time": "02:40 - 03:20",
+        "subject": "Music",
+        "type": "lecture"
+      }
+    ],
+    "friday": [
+      {
+        "period": "1",
+        "time": "09:30 - 10:10",
+        "subject": "Social Science",
+        "type": "lecture"
+      },
+      {
+        "period": "2",
+        "time": "10:10 - 10:50",
+        "subject": "Science",
+        "type": "lecture"
+      },
+      {
+        "period": "3",
+        "time": "10:50 - 11:30",
+        "subject": "Mathematics",
+        "type": "lecture"
+      },
+      {
+        "period": "4",
+        "time": "11:30 - 12:10",
+        "subject": "English",
+        "type": "lecture"
+      },
+      {
+        "period": "Break",
+        "time": "12:10 - 12:40",
+        "subject": "Break",
+        "type": "break"
+      },
+      {
+        "period": "5",
+        "time": "12:40 - 01:20",
+        "subject": "Hindi",
+        "type": "lecture"
+      },
+      {
+        "period": "6",
+        "time": "01:20 - 02:00",
+        "subject": "Art",
+        "type": "lecture"
+      },
+      {
+        "period": "7",
+        "time": "02:00 - 02:40",
+        "subject": "Games",
+        "type": "lecture"
+      }
+    ],
+    "saturday": [],
+    "sunday": []
+  }
+}

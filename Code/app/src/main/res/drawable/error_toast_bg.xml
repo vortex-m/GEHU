@@ -1,0 +1,5 @@
+<!-- res/drawable/error_toast_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#C62828" /> <!-- Dark red -->
+    <corners android:radius="12dp"/>
+</shape>

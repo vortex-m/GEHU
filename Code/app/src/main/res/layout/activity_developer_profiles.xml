@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="@dimen/elevation_sm"
+            app:cardBackgroundColor="@color/primary">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="@dimen/space_md">
+
+                <ImageButton
+                    android:id="@+id/btnBack"
+                    android:layout_width="@dimen/touch_target_min"
+                    android:layout_height="@dimen/touch_target_min"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:src="@android:drawable/ic_menu_revert"
+                    android:contentDescription="Back"
+                    app:tint="@color/white" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="@dimen/space_md"
+                    android:text="👥 Developer Team"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:fontFamily="@font/audi" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Content -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/space_md">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Meet the Team"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:fontFamily="@font/audi"
+                android:layout_marginBottom="@dimen/space_md" />
+
+            <!-- Developer 1 Profile -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardDev1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:foreground="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                app:cardCornerRadius="@dimen/radius_lg"
+                app:cardElevation="@dimen/elevation_sm"
+                app:cardBackgroundColor="@color/surface"
+                android:layout_marginBottom="@dimen/space_md">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/space_md"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:text="👨‍💻"
+                        android:textSize="48sp"
+                        android:gravity="center" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginStart="@dimen/space_md"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Lead Developer"
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="@font/audi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="Full Stack Developer"
+                            android:textSize="14sp"
+                            android:textColor="@color/text_secondary"
+                            android:fontFamily="@font/audi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/space_xs"
+                            android:text="🔗 GitHub Profile"
+                            android:textSize="12sp"
+                            android:textColor="@color/primary"
+                            android:fontFamily="@font/audi" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Developer 2 Profile -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardDev2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:foreground="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                app:cardCornerRadius="@dimen/radius_lg"
+                app:cardElevation="@dimen/elevation_sm"
+                app:cardBackgroundColor="@color/surface"
+                android:layout_marginBottom="@dimen/space_md">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/space_md"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:text="👩‍💻"
+                        android:textSize="48sp"
+                        android:gravity="center" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginStart="@dimen/space_md"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="UI/UX Designer"
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_primary"
+                            android:fontFamily="@font/audi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="Product Designer"
+                            android:textSize="14sp"
+                            android:textColor="@color/text_secondary"
+                            android:fontFamily="@font/audi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/space_xs"
+                            android:text="🔗 LinkedIn Profile"
+                            android:textSize="12sp"
+                            android:textColor="@color/primary"
+                            android:fontFamily="@font/audi" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Contact Section -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/space_md"
+                android:text="Get in Touch"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:fontFamily="@font/audi"
+                android:layout_marginBottom="@dimen/space_md" />
+
+            <!-- Email Card -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:foreground="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                app:cardCornerRadius="@dimen/radius_lg"
+                app:cardElevation="@dimen/elevation_sm"
+                app:cardBackgroundColor="@color/primary">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/space_md"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="📧"
+                        android:textSize="32sp"
+                        android:layout_marginEnd="@dimen/space_md" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Send us Feedback"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/white"
+                            android:fontFamily="@font/audi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="developers@demolitionapp.com"
+                            android:textSize="12sp"
+                            android:textColor="@color/white"
+                            android:alpha="0.9"
+                            android:fontFamily="@font/audi" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

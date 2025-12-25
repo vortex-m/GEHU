@@ -1,0 +1,48 @@
+{
+  "filename": "iemh106.pdf",
+  "title": "Lines and Angles",
+  "source": ":contentReference[oaicite:3]{index=3}",
+  "chapters": [
+    {
+      "chapter": "6.1 Introduction",
+      "summary": "This section recalls that at least two points are needed to draw a line and that using earlier axioms we proved new statements. This chapter studies angle properties when two lines intersect and when a transversal intersects parallel lines. Applications in daily life include architecture (slanted roofs, building layouts), physics (light ray diagrams for refraction), engineering (forces acting at angles), and navigation (angles of elevation/depression for height/distance). Understanding types of lines and angles is essential for constructing accurate geometric models."
+    },
+
+    {
+      "chapter": "6.2 Basic Terms and Definitions",
+      "summary": "Reviews line segment, ray, and line; collinear and non-collinear points; and types of angles—acute (0–90°), right (90°), obtuse (90–180°), straight (180°), reflex (180–360°). Also defines complementary angles (sum 90°), supplementary angles (sum 180°), adjacent angles (common arm and vertex, non-common arms on different sides), linear pairs (adjacent angles whose non-common arms form a straight line), and vertically opposite angles formed when two lines intersect. Several diagrams (Fig. 6.1–6.4) illustrate angle types, adjacent angles, linear pairs, and vertically opposite angles.",
+      "visuals": [
+        "Fig. 6.1 – Types of angles (acute, right, obtuse, straight, reflex).",
+        "Fig. 6.2 – Adjacent angles.",
+        "Fig. 6.3 – Linear pair of angles.",
+        "Fig. 6.4 – Vertically opposite angles."
+      ]
+    },
+
+    {
+      "chapter": "6.3 Intersecting & Non-Intersecting Lines",
+      "summary": "Explains that lines extending indefinitely may either intersect (cross at a point) or be non-intersecting (parallel). For parallel lines, the perpendicular distance between them remains constant at all points. Diagrams in Fig. 6.5 show examples. This section prepares for angle relationships with transversals."
+    },
+
+    {
+      "chapter": "6.4 Pairs of Angles & Linear Pair Axiom",
+      "summary": "Develops relationships between adjacent angles when a ray stands on a line: ∠AOC + ∠BOC = 180°, forming a linear pair. This leads to Axiom 6.1: if a ray stands on a line, the adjacent angles sum to 180°. The converse is Axiom 6.2: if two adjacent angles sum to 180°, their non-common arms form a straight line. Vertically opposite angles are then proven equal using these axioms. Multiple examples follow, like finding angles with ratio 5:7, bisectors in angle diagrams, and summing angles around a point (360°). Diagrams include intersecting lines and rays around a point.",
+      "meta": {
+        "formulas": [
+          "Linear Pair: ∠1 + ∠2 = 180°",
+          "Vertically Opposite Angles: Always equal",
+          "Sum of angles around a point = 360°"
+        ],
+        "theorems": [
+          "Theorem 6.1: Vertically opposite angles are equal."
+        ]
+      }
+    },
+
+    {
+      "chapter": "6.5 Lines Parallel to the Same Line",
+      "summary": "If two lines are parallel to the same line, they are parallel to each other. This is proved using corresponding angles with a transversal. Several examples illustrate angle calculations using corresponding, alternate, and interior angles. Examples include constructing a parallel line through a given point (Fig. 6.20), using angle bisectors to prove lines parallel, and angle‐finding exercises involving multiple parallel lines."
+
+    }
+  ]
+}
